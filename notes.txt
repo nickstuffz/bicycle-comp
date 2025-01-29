@@ -8,29 +8,9 @@ API Design:
             rear-derailleur:
             front-derailleur:
             cassette:
-            chainn:
+            chain:
         }
 
-DB Tables:
-
-    categories
-        -id
-        -name
-
-    components
-        -id
-        -name
-        -link
-        -category
-
-    compatibility
-        -id
-        -component_id_1
-        -component_id_2
-    
-    categories: Shifter, Rear Derailleur, Cassette, Chain
-
-    relationships
 
 
 Todo:

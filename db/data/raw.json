@@ -1,194 +1,227 @@
 {
-  "pod1": [
-    {
-      "code": "SL-M9100-R",
-      "note": ""
-    },
-    {
-      "code": "SL-M9100-IR",
-      "note": ""
-    },
-    {
-      "code": "SL-M8100-R",
-      "note": ""
-    },
-    {
-      "code": "SL-M8100-IR",
-      "note": ""
-    },
-    {
-      "code": "SL-M7100-R",
-      "note": ""
-    },
-    {
-      "code": "SL-M7100-IR",
-      "note": ""
-    },
-    {
-      "code": "SL-M6100-R",
-      "note": ""
-    },
-    {
-      "code": "SL-M6100-IR",
-      "note": ""
-    }
+  "pod9.1": [
+    { "code": "SL-M9100-R", "note": "" },
+    { "code": "SL-M9100-IR", "note": "" },
+    { "code": "SL-M8100-R", "note": "" },
+    { "code": "SL-M8100-IR", "note": "" },
+    { "code": "SL-M7100-R", "note": "" },
+    { "code": "SL-M7100-IR", "note": "" },
+    { "code": "SL-M6100-R", "note": "" },
+    { "code": "SL-M6100-IR", "note": "" }
   ],
-  "pod2": [
-    {
-      "code": "RD-M9100-GS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M9120-SGS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M8100-GS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M8120-SGS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M7120-SGS",
-      "note": "1x12-speed"
-    }
+  "pod9.2": [
+    { "code": "RD-M9100-GS", "note": "1x12-speed" },
+    { "code": "RD-M9120-SGS", "note": "1x12-speed" },
+    { "code": "RD-M8100-GS", "note": "1x12-speed" },
+    { "code": "RD-M8120-SGS", "note": "1x12-speed" },
+    { "code": "RD-M7120-SGS", "note": "1x12-speed" }
   ],
-  "pod3": [
-    {
-      "code": "RD-M9120-SGS",
-      "note": "2x12-speed"
-    },
-    {
-      "code": "RD-M8120-SGS",
-      "note": "2x12-speed"
-    },
-    {
-      "code": "RD-M7120-SGS",
-      "note": "2x12-speed"
-    }
+  "pod9.3": [
+    { "code": "RD-M9120-SGS", "note": "2x12-speed" },
+    { "code": "RD-M8120-SGS", "note": "2x12-speed" },
+    { "code": "RD-M7120-SGS", "note": "2x12-speed" }
   ],
-  "pod4": [
-    {
-      "code": "RD-M9100-SGS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M8100-SGS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M7100-SGS",
-      "note": "1x12-speed"
-    },
-    {
-      "code": "RD-M6100-SGS",
-      "note": "1x12-speed"
-    }
+  "pod9.4": [
+    { "code": "RD-M9100-SGS", "note": "1x12-speed" },
+    { "code": "RD-M8100-SGS", "note": "1x12-speed" },
+    { "code": "RD-M7100-SGS", "note": "1x12-speed" },
+    { "code": "RD-M6100-SGS", "note": "1x12-speed" }
   ],
-  "pod5": [
-    {
-      "code": "CS-M9101-12",
-      "note": "10-45T"
-    },
-    {
-      "code": "CS-M9100-12",
-      "note": "10-45T"
-    },
-    {
-      "code": "CS-M8100-12",
-      "note": "10-45T"
-    },
-    {
-      "code": "CS-M7100-12",
-      "note": "10-45T"
-    }
+  "pod9.5": [
+    { "code": "CS-M9101-12", "note": "10-45T" },
+    { "code": "CS-M9100-12", "note": "10-45T" },
+    { "code": "CS-M8100-12", "note": "10-45T" },
+    { "code": "CS-M7100-12", "note": "10-45T" }
   ],
-  "pod6": [
-    {
-      "code": "CS-M9101-12",
-      "note": "10-51T"
-    },
-    {
-      "code": "CS-M9100-12",
-      "note": "10-51T"
-    },
-    {
-      "code": "CS-M8100-12",
-      "note": "10-51T"
-    },
-    {
-      "code": "CS-M7100-12",
-      "note": "10-51T"
-    },
-    {
-      "code": "CS-M6100-12",
-      "note": "10-51T"
-    }
+  "pod9.6": [
+    { "code": "CS-M9101-12", "note": "10-51T" },
+    { "code": "CS-M9100-12", "note": "10-51T" },
+    { "code": "CS-M8100-12", "note": "10-51T" },
+    { "code": "CS-M7100-12", "note": "10-51T" },
+    { "code": "CS-M6100-12", "note": "10-51T" }
   ],
-  "pod7": [
-    {
-      "code": "CN-M9100",
-      "note": ""
-    },
-    {
-      "code": "CN-M8100",
-      "note": ""
-    },
-    {
-      "code": "CN-M7100",
-      "note": ""
-    },
-    {
-      "code": "CN-M6100",
-      "note": ""
-    }
+  "pod9.7": [
+    { "code": "CN-M9100", "note": "" },
+    { "code": "CN-M8100", "note": "" },
+    { "code": "CN-M7100", "note": "" },
+    { "code": "CN-M6100", "note": "" }
   ],
-  "pod8": [
-    {
-      "code": "SW-M8150-R",
-      "note": ""
-    },
-    {
-      "code": "SW-M8150-IR",
-      "note": ""
-    },
-    {
-      "code": "SW-EM800-L",
-      "note": ""
-    },
-    {
-      "code": "SW-EN600-R",
-      "note": ""
-    }
+  "pod9.8": [
+    { "code": "SW-M8150-R", "note": "" },
+    { "code": "SW-M8150-IR", "note": "" },
+    { "code": "SW-EM800-L", "note": "" },
+    { "code": "SW-EN600-R", "note": "" }
   ],
-  "pod9": [
+  "pod9.9": [
     {
       "code": "RD-M8150-12",
-      "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed), E-BIKE specific"
+      "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed)"
     }
   ],
-  "pod10": [
+  "pod9.10": [
+    { "code": "CS-M9101-12", "note": "10-51T" },
+    { "code": "CS-M9100-12", "note": "10-51T" },
+    { "code": "CS-M8100-12", "note": "10-51T" },
+    { "code": "CS-M7100-12", "note": "10-51T" },
+    { "code": "CS-M6100-12", "note": "10-51T" }
+  ],
+  "pod10.1": [
+    { "code": "SL-M9000-R", "note": "" },
+    { "code": "SL-M9000-IR", "note": "" },
+    { "code": "SL-M8000-R", "note": "" },
+    { "code": "SL-M8000-IR", "note": "" },
+    { "code": "SL-M8000-B-IR", "note": "" },
+    { "code": "SL-M7000-11-R", "note": "" },
+    { "code": "SL-M7000-11-IR", "note": "" },
+    { "code": "SL-M7000-11-B-IR", "note": "" },
+    { "code": "SL-M5100-R", "note": "" },
+    { "code": "SL-M5100-IR", "note": "" }
+  ],
+  "pod10.2": [
     {
-      "code": "CS-M9101-12",
-      "note": "10-51T"
+      "code": "RD-M9000-SGS",
+      "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
     },
     {
-      "code": "CS-M9100-12",
-      "note": "10-51T"
+      "code": "RD-M8000-SGS",
+      "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
     },
     {
-      "code": "CS-M8100-12",
-      "note": "10-51T"
+      "code": "RD-M8000-GS",
+      "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
+    },
+    { "code": "RD-M7000-11-SGS", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+    {
+      "code": "RD-M5120-SGS",
+      "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)"
     },
     {
-      "code": "CS-M7100-12",
-      "note": "10-51T"
-    },
-    {
-      "code": "CS-M6100-12",
-      "note": "10-51T"
+      "code": "RD-M4120-SGS",
+      "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)"
     }
+  ],
+  "pod10.3": [
+    {
+      "code": "RD-M5100-SGS",
+      "note": "(51T ≤ Largest sprocket ≤ 51T for 1x11-speed)"
+    }
+  ],
+  "pod10.4": [
+    { "code": "CS-M9001", "note": "(11-40T)" },
+    { "code": "CS-M8000", "note": "(11-40T, 11-42T, 11-46T)" },
+    { "code": "CS-M7000-11", "note": "(11-40T, 11-42T, 11-46T)" },
+    { "code": "CS-M5100-11", "note": "(11-42T)" }
+  ],
+  "pod10.5": [{ "code": "CS-M5100-11", "note": "(11-51T)" }],
+  "pod10.6": [
+    { "code": "CN-HG901-11", "note": "" },
+    { "code": "CN-HG701-11", "note": "" },
+    { "code": "CN-HG601-11", "note": "" },
+    { "code": "CN-LG500", "note": "" }
+  ],
+  "pod10.7": [
+    { "code": "SW-M9050", "note": "" },
+    { "code": "SW-M8050", "note": "" }
+  ],
+  "pod10.8": [
+    {
+      "code": "RD-M9050-SGS",
+      "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
+    },
+    {
+      "code": "RD-M9050-GS",
+      "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
+    },
+    {
+      "code": "RD-M8050-GS",
+      "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
+    }
+  ],
+  "pod10.9": [
+    { "code": "CS-M9001", "note": "(11-40T)" },
+    { "code": "CS-M8000", "note": "(11-40T, 11-42T, 11-46T)" },
+    { "code": "CS-M7000-11", "note": "(11-40T, 11-42T, 11-46T)" },
+    { "code": "CS-M5100-11", "note": "(11-42T)" }
+  ],
+  "pod10.10": [
+    { "code": "SL-M8130-R11", "note": "" },
+    { "code": "SL-M8130-IR11", "note": "" },
+    { "code": "SL-U8000-11R", "note": "" },
+    { "code": "SL-U8000-11IR", "note": "" },
+    { "code": "SL-U6000-11R", "note": "" },
+    { "code": "SL-U6050-11R", "note": "" }
+  ],
+  "pod10.11": [
+    {
+      "code": "RD-U8020",
+      "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)"
+    },
+    {
+      "code": "RD-U6020-11",
+      "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)"
+    }
+  ],
+  "pod10.12": [
+    {
+      "code": "RD-U6000",
+      "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11 / 10-speed)"
+    }
+  ],
+  "pod10.13": [
+    {
+      "code": "RD-M8130-SGS",
+      "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+    },
+    {
+      "code": "RD-U8000",
+      "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+    }
+  ],
+  "pod10.14": [
+    { "code": "CS-LG700-11", "note": "(11-45T)" },
+    { "code": "CS-LG400-11", "note": "(11-45T)" }
+  ],
+  "pod10.15": [
+    { "code": "CS-LG700-11", "note": "(11-50T)" },
+    { "code": "CS-LG600-11", "note": "(11-50T)" },
+    { "code": "CS-LG400-11", "note": "(11-50T)" }
+  ],
+  "pod10.16": [
+    { "code": "CN-HG901-11", "note": "" },
+    { "code": "CN-HG701-11", "note": "" },
+    { "code": "CN-HG601-11", "note": "" },
+    { "code": "CN-LG500", "note": "" }
+  ],
+  "pod10.17": [{ "code": "SW-EN605-R", "note": "" }],
+  "pod10.18": [
+    { "code": "SW-M8150-R", "note": "" },
+    { "code": "SW-M8150-IR", "note": "" },
+    { "code": "SW-EM800-L", "note": "" },
+    { "code": "SW-EN600-R", "note": "" }
+  ],
+  "pod10.19": [
+    {
+      "code": "RD-U8050-SGS",
+      "note": "(45T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+    }
+  ],
+  "pod10.20": [
+    {
+      "code": "RD-M8150-11",
+      "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+    },
+    {
+      "code": "RD-U6070",
+      "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+    }
+  ],
+  "pod10.21": [
+    { "code": "CS-LG700-11", "note": "(11-45T)" },
+    { "code": "CS-LG400-11", "note": "(11-45T)" }
+  ],
+  "pod10.22": [
+    { "code": "CS-LG700-11", "note": "(11-50T)" },
+    { "code": "CS-LG600-11", "note": "(11-50T)" },
+    { "code": "CS-LG400-11", "note": "(11-50T)" }
   ]
 }
