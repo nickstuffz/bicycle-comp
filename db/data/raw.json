@@ -1,0 +1,194 @@
+{
+  "pod1": [
+    {
+      "code": "SL-M9100-R",
+      "note": ""
+    },
+    {
+      "code": "SL-M9100-IR",
+      "note": ""
+    },
+    {
+      "code": "SL-M8100-R",
+      "note": ""
+    },
+    {
+      "code": "SL-M8100-IR",
+      "note": ""
+    },
+    {
+      "code": "SL-M7100-R",
+      "note": ""
+    },
+    {
+      "code": "SL-M7100-IR",
+      "note": ""
+    },
+    {
+      "code": "SL-M6100-R",
+      "note": ""
+    },
+    {
+      "code": "SL-M6100-IR",
+      "note": ""
+    }
+  ],
+  "pod2": [
+    {
+      "code": "RD-M9100-GS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M9120-SGS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M8100-GS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M8120-SGS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M7120-SGS",
+      "note": "1x12-speed"
+    }
+  ],
+  "pod3": [
+    {
+      "code": "RD-M9120-SGS",
+      "note": "2x12-speed"
+    },
+    {
+      "code": "RD-M8120-SGS",
+      "note": "2x12-speed"
+    },
+    {
+      "code": "RD-M7120-SGS",
+      "note": "2x12-speed"
+    }
+  ],
+  "pod4": [
+    {
+      "code": "RD-M9100-SGS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M8100-SGS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M7100-SGS",
+      "note": "1x12-speed"
+    },
+    {
+      "code": "RD-M6100-SGS",
+      "note": "1x12-speed"
+    }
+  ],
+  "pod5": [
+    {
+      "code": "CS-M9101-12",
+      "note": "10-45T"
+    },
+    {
+      "code": "CS-M9100-12",
+      "note": "10-45T"
+    },
+    {
+      "code": "CS-M8100-12",
+      "note": "10-45T"
+    },
+    {
+      "code": "CS-M7100-12",
+      "note": "10-45T"
+    }
+  ],
+  "pod6": [
+    {
+      "code": "CS-M9101-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M9100-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M8100-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M7100-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M6100-12",
+      "note": "10-51T"
+    }
+  ],
+  "pod7": [
+    {
+      "code": "CN-M9100",
+      "note": ""
+    },
+    {
+      "code": "CN-M8100",
+      "note": ""
+    },
+    {
+      "code": "CN-M7100",
+      "note": ""
+    },
+    {
+      "code": "CN-M6100",
+      "note": ""
+    }
+  ],
+  "pod8": [
+    {
+      "code": "SW-M8150-R",
+      "note": ""
+    },
+    {
+      "code": "SW-M8150-IR",
+      "note": ""
+    },
+    {
+      "code": "SW-EM800-L",
+      "note": ""
+    },
+    {
+      "code": "SW-EN600-R",
+      "note": ""
+    }
+  ],
+  "pod9": [
+    {
+      "code": "RD-M8150-12",
+      "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed), E-BIKE specific"
+    }
+  ],
+  "pod10": [
+    {
+      "code": "CS-M9101-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M9100-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M8100-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M7100-12",
+      "note": "10-51T"
+    },
+    {
+      "code": "CS-M6100-12",
+      "note": "10-51T"
+    }
+  ]
+}

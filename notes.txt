@@ -37,3 +37,16 @@ Todo:
 Start with 1 page only
 User authenticated build page
 Look into indexing tables
+
+
+Scrap:
+-- Statement # 5
+CREATE INDEX idx_components_category_id ON components (category_id);
+
+-- Statement # 6
+CREATE INDEX idx_compatibility_component_id ON compatibility (component_id);
+
+-- Statement # 8
+CREATE INDEX idx_compatibility_compatible_id ON compatibility (compatible_id);
+
+https://sqlformat.darold.net/
