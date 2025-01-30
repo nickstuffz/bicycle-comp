@@ -1,6 +1,6 @@
-const podsRaw = require("./pods.json");
+const raw = require("./raw.json");
 
-const pods = podsRaw.map((pod) => ({
+const pods = raw.map((pod) => ({
   name: pod.name,
   category: pod.category,
 }));

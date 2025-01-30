@@ -1,8 +1,8 @@
-const pods = require("./pods.json");
+const raw = require("./raw.json");
 
 const seenCodes = new Set();
 const components = [];
-pods.forEach((pod) => {
+raw.forEach((pod) => {
   pod.components.forEach((component) => {
     if (seenCodes.has(component.code)) {
       return;
