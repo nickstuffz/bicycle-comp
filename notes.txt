@@ -30,3 +30,6 @@ CREATE INDEX idx_compatibility_component_id ON compatibility (component_id);
 CREATE INDEX idx_compatibility_compatible_id ON compatibility (compatible_id);
 
 https://sqlformat.darold.net/
+
+compatibility lines
+[pod9.1,9.2,9.5,9.7]
