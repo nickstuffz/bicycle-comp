@@ -1,5 +1,5 @@
-import categories from "../data/categories.json";
-import { components } from "../data/components.js";
+import { categories } from "../data/categories.js";
+import { components } from "../data/components.cjs";
 
 export const insertSQL = `
 
@@ -9,14 +9,14 @@ INSERT INTO categories (name)
       .map((category) => {
         return `('${category.name}')`;
       })
-      .join(",")}
+      .join(",")};
 
-INSERT INTO components (code, category_id, link)
+INSERT INTO components (code, link)
     VALUES
     ${components
       .map((component) => {
-        return `('${component.code}', ${component.category_id}, '${component.link}')`;
+        return `('${component.code}', '${component.link}')`;
       })
-      .join(",")}
+      .join(",")};
 
 `;
