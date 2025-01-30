@@ -33,3 +33,31 @@ https://sqlformat.darold.net/
 
 compatibility lines
 [pod9.1,9.2,9.5,9.7]
+
+WITH RECURSIVE connected_pods AS (
+    -- Step 1: Find the pod of the given component
+    SELECT p.id AS pod_id
+    FROM pods p
+    JOIN pod_components pc ON p.id = pc.pod_id
+    JOIN components c ON pc.component_id = c.id
+    WHERE c.code = 'PART_CODE'  -- Replace with actual component code
+
+    UNION
+
+    -- Step 2: Recursively find all connected pods
+    SELECT pc.pod2_id
+    FROM connected_pods cp
+    JOIN pod_compatibility pc ON cp.pod_id = pc.pod1_id
+
+    UNION
+
+    SELECT pc.pod1_id
+    FROM connected_pods cp
+    JOIN pod_compatibility pc ON cp.pod_id = pc.pod2_id
+)
+
+-- Step 3: Retrieve all components from the found pods
+SELECT DISTINCT c.code AS component_code, c.link
+FROM components c
+JOIN pod_components pc ON c.id = pc.component_id
+JOIN connected_pods cp ON pc.pod_id = cp.pod_id;

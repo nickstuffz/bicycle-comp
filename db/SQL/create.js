@@ -20,6 +20,7 @@ CREATE TABLE pods (
 CREATE TABLE pod_components (
     pod_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
     component_id INT NOT NULL REFERENCES components (id) ON DELETE CASCADE,
+    note VARCHAR(255),
     PRIMARY KEY (pod_id, component_id)
 );
 
@@ -29,5 +30,11 @@ CREATE TABLE pod_compatibility (
     PRIMARY KEY (pod1_id, pod2_id),
     CHECK (pod1_id < pod2_id)
 );
+
+CREATE INDEX idx_components_code ON components (code);
+CREATE INDEX idx_pod_components_component_id ON pod_components (component_id);
+CREATE INDEX idx_pod_compatibility_pod1_id ON pod_compatibility (pod1_id);
+CREATE INDEX idx_pod_compatibility_pod2_id ON pod_compatibility (pod2_id);
+
 
 `;

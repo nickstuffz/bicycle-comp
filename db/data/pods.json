@@ -1,0 +1,385 @@
+[
+  {
+    "name": "9.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M9100-R", "link": true, "note": "" },
+      { "code": "SL-M9100-IR", "link": true, "note": "" },
+      { "code": "SL-M8100-R", "link": true, "note": "" },
+      { "code": "SL-M8100-IR", "link": true, "note": "" },
+      { "code": "SL-M7100-R", "link": true, "note": "" },
+      { "code": "SL-M7100-IR", "link": true, "note": "" },
+      { "code": "SL-M6100-R", "link": true, "note": "" },
+      { "code": "SL-M6100-IR", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "9.2",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M9100-GS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M9120-SGS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M8100-GS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M8120-SGS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M7120-SGS", "link": true, "note": "1x12-speed" }
+    ]
+  },
+  {
+    "name": "9.3",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M9120-SGS", "link": true, "note": "2x12-speed" },
+      { "code": "RD-M8120-SGS", "link": true, "note": "2x12-speed" },
+      { "code": "RD-M7120-SGS", "link": true, "note": "2x12-speed" }
+    ]
+  },
+  {
+    "name": "9.4",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M9100-SGS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M8100-SGS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M7100-SGS", "link": true, "note": "1x12-speed" },
+      { "code": "RD-M6100-SGS", "link": true, "note": "1x12-speed" }
+    ]
+  },
+  {
+    "name": "9.5",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M9101-12", "link": true, "note": "10-45T" },
+      { "code": "CS-M9100-12", "link": false, "note": "10-45T" },
+      { "code": "CS-M8100-12", "link": true, "note": "10-45T" },
+      { "code": "CS-M7100-12", "link": true, "note": "10-45T" }
+    ]
+  },
+  {
+    "name": "9.6",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M9101-12", "link": true, "note": "10-51T" },
+      { "code": "CS-M9100-12", "link": false, "note": "10-51T" },
+      { "code": "CS-M8100-12", "link": true, "note": "10-51T" },
+      { "code": "CS-M7100-12", "link": true, "note": "10-51T" },
+      { "code": "CS-M6100-12", "link": true, "note": "10-51T" }
+    ]
+  },
+  {
+    "name": "9.7",
+    "category": "chain",
+    "components": [
+      { "code": "CN-M9100", "link": true, "note": "" },
+      { "code": "CN-M8100", "link": true, "note": "" },
+      { "code": "CN-M7100", "link": true, "note": "" },
+      { "code": "CN-M6100", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "9.8",
+    "category": "shifter",
+    "components": [
+      { "code": "SW-M8150-R", "link": true, "note": "" },
+      { "code": "SW-M8150-IR", "link": true, "note": "" },
+      { "code": "SW-EM800-L", "link": true, "note": "" },
+      { "code": "SW-EN600-R", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "9.9",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-M8150-12",
+        "link": true,
+        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed)"
+      }
+    ]
+  },
+  {
+    "name": "9.10",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M9101-12", "link": true, "note": "10-51T" },
+      { "code": "CS-M9100-12", "link": false, "note": "10-51T" },
+      { "code": "CS-M8100-12", "link": true, "note": "10-51T" },
+      { "code": "CS-M7100-12", "link": true, "note": "10-51T" },
+      { "code": "CS-M6100-12", "link": true, "note": "10-51T" }
+    ]
+  },
+  {
+    "name": "10.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M9000-R", "link": true, "note": "" },
+      { "code": "SL-M9000-IR", "link": false, "note": "" },
+      { "code": "SL-M8000-R", "link": true, "note": "" },
+      { "code": "SL-M8000-IR", "link": true, "note": "" },
+      { "code": "SL-M8000-B-IR", "link": true, "note": "" },
+      { "code": "SL-M7000-11-R", "link": true, "note": "" },
+      { "code": "SL-M7000-11-IR", "link": true, "note": "" },
+      { "code": "SL-M7000-11-B-IR", "link": true, "note": "" },
+      { "code": "SL-M5100-R", "link": true, "note": "" },
+      { "code": "SL-M5100-IR", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "10.2",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-M9000-SGS",
+        "link": false,
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
+      },
+      {
+        "code": "RD-M8000-SGS",
+        "link": true,
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
+      },
+      {
+        "code": "RD-M8000-GS",
+        "link": true,
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
+      },
+      {
+        "code": "RD-M7000-11-SGS",
+        "link": false,
+        "note": "(32T ≤ Largest sprocket ≤ 36T)"
+      },
+      {
+        "code": "RD-M5120-SGS",
+        "link": true,
+        "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)"
+      },
+      {
+        "code": "RD-M4120-SGS",
+        "link": true,
+        "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.3",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-M5100-SGS",
+        "link": true,
+        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x11-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.4",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M9001", "link": false, "note": "(11-40T)" },
+      { "code": "CS-M8000", "link": true, "note": "(11-40T, 11-42T, 11-46T)" },
+      {
+        "code": "CS-M7000-11",
+        "link": false,
+        "note": "(11-40T, 11-42T, 11-46T)"
+      },
+      { "code": "CS-M5100-11", "link": true, "note": "(11-42T)" }
+    ]
+  },
+  {
+    "name": "10.5",
+    "category": "cassette",
+    "components": [{ "code": "CS-M5100-11", "link": true, "note": "(11-51T)" }]
+  },
+  {
+    "name": "10.6",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG901-11", "link": true, "note": "" },
+      { "code": "CN-HG701-11", "link": true, "note": "" },
+      { "code": "CN-HG601-11", "link": true, "note": "" },
+      { "code": "CN-LG500", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "10.7",
+    "category": "shifter",
+    "components": [
+      { "code": "SW-M9050", "link": false, "note": "" },
+      { "code": "SW-M8050", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "10.8",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-M9050-SGS",
+        "link": false,
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
+      },
+      {
+        "code": "RD-M9050-GS",
+        "link": false,
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
+      },
+      {
+        "code": "RD-M8050-GS",
+        "link": true,
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.9",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M9001", "link": false, "note": "(11-40T)" },
+      { "code": "CS-M8000", "link": true, "note": "(11-40T, 11-42T, 11-46T)" },
+      {
+        "code": "CS-M7000-11",
+        "link": false,
+        "note": "(11-40T, 11-42T, 11-46T)"
+      },
+      { "code": "CS-M5100-11", "link": true, "note": "(11-42T)" }
+    ]
+  },
+  {
+    "name": "10.10",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M8130-R11", "link": true, "note": "" },
+      { "code": "SL-M8130-IR11", "link": true, "note": "" },
+      { "code": "SL-U8000-11R", "link": true, "note": "" },
+      { "code": "SL-U8000-11IR", "link": true, "note": "" },
+      { "code": "SL-U6000-11R", "link": true, "note": "" },
+      { "code": "SL-U6050-11R", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "10.11",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-U8020",
+        "link": true,
+        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)"
+      },
+      {
+        "code": "RD-U6020-11",
+        "link": true,
+        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.12",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-U6000",
+        "link": true,
+        "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11 / 10-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.13",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-M8130-SGS",
+        "link": true,
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+      },
+      {
+        "code": "RD-U8000",
+        "link": true,
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.14",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG700-11", "link": true, "note": "(11-45T)" },
+      { "code": "CS-LG400-11", "link": true, "note": "(11-45T)" }
+    ]
+  },
+  {
+    "name": "10.15",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG700-11", "link": true, "note": "(11-50T)" },
+      { "code": "CS-LG600-11", "link": false, "note": "(11-50T)" },
+      { "code": "CS-LG400-11", "link": true, "note": "(11-50T)" }
+    ]
+  },
+  {
+    "name": "10.16",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG901-11", "link": true, "note": "" },
+      { "code": "CN-HG701-11", "link": true, "note": "" },
+      { "code": "CN-HG601-11", "link": true, "note": "" },
+      { "code": "CN-LG500", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "10.17",
+    "category": "shifter",
+    "components": [{ "code": "SW-EN605-R", "link": true, "note": "" }]
+  },
+  {
+    "name": "10.18",
+    "category": "shifter",
+    "components": [
+      { "code": "SW-M8150-R", "link": true, "note": "" },
+      { "code": "SW-M8150-IR", "link": true, "note": "" },
+      { "code": "SW-EM800-L", "link": true, "note": "" },
+      { "code": "SW-EN600-R", "link": true, "note": "" }
+    ]
+  },
+  {
+    "name": "10.19",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-U8050-SGS",
+        "link": true,
+        "note": "(45T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.20",
+    "category": "rear derailleur",
+    "components": [
+      {
+        "code": "RD-M8150-11",
+        "link": true,
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+      },
+      {
+        "code": "RD-U6070",
+        "link": true,
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
+      }
+    ]
+  },
+  {
+    "name": "10.21",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG700-11", "link": true, "note": "(11-45T)" },
+      { "code": "CS-LG400-11", "link": true, "note": "(11-45T)" }
+    ]
+  },
+  {
+    "name": "10.22",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG700-11", "link": true, "note": "(11-50T)" },
+      { "code": "CS-LG600-11", "link": false, "note": "(11-50T)" },
+      { "code": "CS-LG400-11", "link": true, "note": "(11-50T)" }
+    ]
+  }
+]
