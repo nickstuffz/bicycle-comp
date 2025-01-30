@@ -1,4 +1,8 @@
-const raw = require("./raw.json");
+const podRelations = require("./json/podRelations.json");
 
-// podName1, podName2
-// ensure pod1 < pod2
+const pod_compatibility = [];
+podRelations.forEach((pod) => {
+  pod_compatibility.push({ podNameA: pod[0], podNameB: pod[1] });
+});
+
+module.exports = { pod_compatibility };

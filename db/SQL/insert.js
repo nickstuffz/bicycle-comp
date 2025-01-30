@@ -2,6 +2,7 @@ import { categories } from "../data/categories.js";
 import { components } from "../data/components.cjs";
 import { pods } from "../data/pods.cjs";
 import { pod_components } from "../data/pod_components.cjs";
+import { pod_compatibility } from "../data/pod_compatibility.cjs";
 
 export const insertSQL = `
 
@@ -36,8 +37,17 @@ INSERT INTO pod_components (pod_id, component_id, note)
       .map((item) => {
         return `( (SELECT id FROM pods WHERE name = '${item.podName}'),
         (SELECT id FROM components WHERE code = '${item.componentCode}'),
-        '${item.note}')`;
+        '${item.note}' )`;
       })
-      .join(",")};      
+      .join(",")};
+
+INSERT INTO pod_compatibility (podA_id, podB_id)
+    VALUES
+    ${pod_compatibility
+      .map((item) => {
+        return `( (SELECT id FROM pods WHERE name = '${item.podNameA}'),
+        (SELECT id FROM pods WHERE name = '${item.podNameB}') )`;
+      })
+      .join(",")};
 
 `;

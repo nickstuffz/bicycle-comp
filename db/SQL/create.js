@@ -25,16 +25,18 @@ CREATE TABLE pod_components (
 );
 
 CREATE TABLE pod_compatibility (
-    pod1_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
-    pod2_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
-    PRIMARY KEY (pod1_id, pod2_id),
-    CHECK (pod1_id <= pod2_id)
+    podA_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
+    podB_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
+    PRIMARY KEY (podA_id, podB_id),
+    CHECK (podA_id <= podB_id)
 );
 
 CREATE INDEX idx_components_code ON components (code);
+CREATE INDEX idx_pods_name ON pods (name);
+CREATE INDEX idx_pod_components_pod_id ON pod_components (pod_id);
 CREATE INDEX idx_pod_components_component_id ON pod_components (component_id);
-CREATE INDEX idx_pod_compatibility_pod1_id ON pod_compatibility (pod1_id);
-CREATE INDEX idx_pod_compatibility_pod2_id ON pod_compatibility (pod2_id);
+CREATE INDEX idx_pod_compatibility_pod1_id ON pod_compatibility (podA_id);
+CREATE INDEX idx_pod_compatibility_pod2_id ON pod_compatibility (podB_id);
 
 
 `;
