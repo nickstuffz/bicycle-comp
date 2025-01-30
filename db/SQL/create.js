@@ -28,7 +28,7 @@ CREATE TABLE pod_compatibility (
     pod1_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
     pod2_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
     PRIMARY KEY (pod1_id, pod2_id),
-    CHECK (pod1_id < pod2_id)
+    CHECK (pod1_id <= pod2_id)
 );
 
 CREATE INDEX idx_components_code ON components (code);
