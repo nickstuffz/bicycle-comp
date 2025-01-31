@@ -5,7 +5,6 @@ export const categories = [
   { name: "cassette" },
   { name: "chain" },
   { name: "crankset" },
-  { name: "dual lever" },
   { name: "front derailleur" },
   { name: "rear derailleur" },
   { name: "shifter" },

@@ -4,8 +4,7 @@ import { pods } from "../data/pods.cjs";
 import { pod_components } from "../data/pod_components.cjs";
 import { pod_compatibility } from "../data/pod_compatibility.cjs";
 
-export const insertSQL = `
-
+const insertCategoriesSQL = `
 INSERT INTO categories (name)
     VALUES 
     ${categories
@@ -13,6 +12,9 @@ INSERT INTO categories (name)
         return `('${category.name}')`;
       })
       .join(",")};
+
+`;
+const insertComponentsSQL = `
 
 INSERT INTO components (code, link)
     VALUES
@@ -22,7 +24,9 @@ INSERT INTO components (code, link)
       })
       .join(",")};
 
+`;
 
+const insertPodsSQL = `
 INSERT INTO pods (name, category_id)
     VALUES 
     ${pods
@@ -31,6 +35,9 @@ INSERT INTO pods (name, category_id)
       })
       .join(",")};
 
+`;
+
+const insertPodComponentsSQL = `
 INSERT INTO pod_components (pod_id, component_id, note)
     VALUES 
     ${pod_components
@@ -40,7 +47,9 @@ INSERT INTO pod_components (pod_id, component_id, note)
         '${item.note}' )`;
       })
       .join(",")};
+`;
 
+const insertPodCompatibilitySQL = `
 INSERT INTO pod_compatibility (podA_id, podB_id)
     VALUES
     ${pod_compatibility
@@ -49,5 +58,12 @@ INSERT INTO pod_compatibility (podA_id, podB_id)
         (SELECT id FROM pods WHERE name = '${item.podNameB}') )`;
       })
       .join(",")};
-
 `;
+
+export {
+  insertCategoriesSQL,
+  insertComponentsSQL,
+  insertPodsSQL,
+  insertPodComponentsSQL,
+  insertPodCompatibilitySQL,
+};

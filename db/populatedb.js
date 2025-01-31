@@ -2,14 +2,18 @@
 
 import dotenv from "dotenv";
 import pg from "pg";
-import { resetSQL } from "./SQL/reset.js";
-import { createSQL } from "./SQL/create.js";
-import { insertSQL } from "./SQL/insert.js";
+import { resetSQL } from "./initialize/reset.js";
+import { createSQL } from "./initialize/create.js";
+import {
+  insertCategoriesSQL,
+  insertComponentsSQL,
+  insertPodsSQL,
+  insertPodComponentsSQL,
+  insertPodCompatibilitySQL,
+} from "./initialize/insert.js";
 
 dotenv.config();
 const { Client } = pg;
-
-const SQL = resetSQL + createSQL + insertSQL;
 
 async function main() {
   console.log("seeding...");
@@ -18,7 +22,23 @@ async function main() {
   });
   await client.connect();
   console.log("connected");
-  await client.query(SQL);
+  await client.query(resetSQL);
+  console.log("dropped tables");
+
+  await client.query(createSQL);
+  console.log("created tables");
+
+  await client.query(insertCategoriesSQL);
+  console.log("inserted categories");
+  await client.query(insertComponentsSQL);
+  console.log("inserted components");
+  await client.query(insertPodsSQL);
+  console.log("inserted pods");
+  await client.query(insertPodComponentsSQL);
+  console.log("inserted pod components");
+  await client.query(insertPodCompatibilitySQL);
+  console.log("inserted pod compatibility");
+
   await client.end();
   console.log("done");
 }

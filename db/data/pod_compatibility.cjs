@@ -6,3 +6,6 @@ podRelations.forEach((pod) => {
 });
 
 module.exports = { pod_compatibility };
+
+// A -> B entry
+// pod A must always be to the left of pod B
