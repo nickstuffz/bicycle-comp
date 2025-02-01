@@ -34,7 +34,7 @@ WITH compatiblePods AS (
 	SELECT pod_id FROM compatiblePodsB
 )
 SELECT 
-	c.code, c.link, pcs.note, p.name AS pod, cat.name AS category
+	c.code, cat.name AS category, p.name AS pod, c.status, c.link, pcs.note
 
 FROM compatiblePods cp
 JOIN pod_components pcs ON cp.pod_id = pcs.pod_id

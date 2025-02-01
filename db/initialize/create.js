@@ -8,6 +8,7 @@ CREATE TABLE categories (
 CREATE TABLE components (
     id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     code VARCHAR(50) UNIQUE NOT NULL,
+    status VARCHAR(50) NOT NULL,
     link VARCHAR(255)
 );
 

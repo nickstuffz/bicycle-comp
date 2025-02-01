@@ -3,242 +3,186 @@
     "name": "1.1",
     "category": "shifter",
     "components": [
-      { "code": "SL-M9100-R", "link": true, "note": "" },
-      { "code": "SL-M9100-IR", "link": true, "note": "" },
-      { "code": "SL-M8100-R", "link": true, "note": "" },
-      { "code": "SL-M8100-IR", "link": true, "note": "" },
-      { "code": "SL-M7100-R", "link": true, "note": "" },
-      { "code": "SL-M7100-IR", "link": true, "note": "" },
-      { "code": "SL-M6100-R", "link": true, "note": "" },
-      { "code": "SL-M6100-IR", "link": true, "note": "" }
+      { "code": "SL-M9100-R", "status": "current", "note": "" },
+      { "code": "SL-M9100-IR", "status": "current", "note": "" },
+      { "code": "SL-M8100-R", "status": "current", "note": "" },
+      { "code": "SL-M8100-IR", "status": "current", "note": "" },
+      { "code": "SL-M7100-R", "status": "current", "note": "" },
+      { "code": "SL-M7100-IR", "status": "current", "note": "" },
+      { "code": "SL-M6100-R", "status": "current", "note": "" },
+      { "code": "SL-M6100-IR", "status": "current", "note": "" }
     ]
   },
   {
     "name": "1.2",
     "category": "shifter",
     "components": [
-      { "code": "SW-M8150-R", "link": true, "note": "" },
-      { "code": "SW-M8150-IR", "link": true, "note": "" },
-      { "code": "SW-EM800-L", "link": true, "note": "" },
-      { "code": "SW-EN600-R", "link": true, "note": "" }
+      { "code": "SW-M8150-R", "status": "current", "note": "" },
+      { "code": "SW-M8150-IR", "status": "current", "note": "" },
+      { "code": "SW-EM800-L", "status": "current", "note": "" },
+      { "code": "SW-EN600-R", "status": "current", "note": "" }
     ]
   },
   {
     "name": "1.3",
     "category": "rear derailleur",
     "components": [
-      { "code": "RD-M9100-GS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M9120-SGS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M8100-GS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M8120-SGS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M7120-SGS", "link": true, "note": "1x12-speed" }
+      { "code": "RD-M9100-GS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M9120-SGS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M8100-GS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M8120-SGS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M7120-SGS", "status": "current", "note": "1x12-speed" }
     ]
   },
   {
     "name": "1.4",
     "category": "rear derailleur",
     "components": [
-      { "code": "RD-M9120-SGS", "link": true, "note": "2x12-speed" },
-      { "code": "RD-M8120-SGS", "link": true, "note": "2x12-speed" },
-      { "code": "RD-M7120-SGS", "link": true, "note": "2x12-speed" }
+      { "code": "RD-M9120-SGS", "status": "current", "note": "2x12-speed" },
+      { "code": "RD-M8120-SGS", "status": "current", "note": "2x12-speed" },
+      { "code": "RD-M7120-SGS", "status": "current", "note": "2x12-speed" }
     ]
   },
   {
     "name": "1.5",
     "category": "rear derailleur",
     "components": [
-      { "code": "RD-M9100-SGS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M8100-SGS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M7100-SGS", "link": true, "note": "1x12-speed" },
-      { "code": "RD-M6100-SGS", "link": true, "note": "1x12-speed" }
+      { "code": "RD-M9100-SGS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M8100-SGS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M7100-SGS", "status": "current", "note": "1x12-speed" },
+      { "code": "RD-M6100-SGS", "status": "current", "note": "1x12-speed" }
     ]
   },
   {
     "name": "1.6",
     "category": "rear derailleur",
-    "components": [
-      {
-        "code": "RD-M8150-12",
-        "link": true,
-        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed)"
-      }
-    ]
+    "components": [{ "code": "RD-M8150-12", "status": "current", "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed)" }]
   },
   {
     "name": "1.7",
     "category": "cassette",
     "components": [
-      { "code": "CS-M9101-12", "link": true, "note": "10-45T" },
-      { "code": "CS-M9100-12", "link": false, "note": "10-45T" },
-      { "code": "CS-M8100-12", "link": true, "note": "10-45T" },
-      { "code": "CS-M7100-12", "link": true, "note": "10-45T" }
+      { "code": "CS-M9101-12", "status": "current", "note": "10-45T" },
+      { "code": "CS-M9100-12", "status": "discont", "note": "10-45T" },
+      { "code": "CS-M8100-12", "status": "current", "note": "10-45T" },
+      { "code": "CS-M7100-12", "status": "current", "note": "10-45T" }
     ]
   },
   {
     "name": "1.8",
     "category": "cassette",
     "components": [
-      { "code": "CS-M9101-12", "link": true, "note": "10-51T" },
-      { "code": "CS-M9100-12", "link": false, "note": "10-51T" },
-      { "code": "CS-M8100-12", "link": true, "note": "10-51T" },
-      { "code": "CS-M7100-12", "link": true, "note": "10-51T" },
-      { "code": "CS-M6100-12", "link": true, "note": "10-51T" }
+      { "code": "CS-M9101-12", "status": "current", "note": "10-51T" },
+      { "code": "CS-M9100-12", "status": "discont", "note": "10-51T" },
+      { "code": "CS-M8100-12", "status": "current", "note": "10-51T" },
+      { "code": "CS-M7100-12", "status": "current", "note": "10-51T" },
+      { "code": "CS-M6100-12", "status": "current", "note": "10-51T" }
     ]
   },
   {
     "name": "1.9",
     "category": "cassette",
     "components": [
-      { "code": "CS-M9101-12", "link": true, "note": "10-51T" },
-      { "code": "CS-M9100-12", "link": false, "note": "10-51T" },
-      { "code": "CS-M8100-12", "link": true, "note": "10-51T" },
-      { "code": "CS-M7100-12", "link": true, "note": "10-51T" },
-      { "code": "CS-M6100-12", "link": true, "note": "10-51T" }
+      { "code": "CS-M9101-12", "status": "current", "note": "10-51T" },
+      { "code": "CS-M9100-12", "status": "discont", "note": "10-51T" },
+      { "code": "CS-M8100-12", "status": "current", "note": "10-51T" },
+      { "code": "CS-M7100-12", "status": "current", "note": "10-51T" },
+      { "code": "CS-M6100-12", "status": "current", "note": "10-51T" }
     ]
   },
   {
     "name": "1.10",
     "category": "chain",
     "components": [
-      { "code": "CN-M9100", "link": true, "note": "" },
-      { "code": "CN-M8100", "link": true, "note": "" },
-      { "code": "CN-M7100", "link": true, "note": "" },
-      { "code": "CN-M6100", "link": true, "note": "" }
+      { "code": "CN-M9100", "status": "current", "note": "" },
+      { "code": "CN-M8100", "status": "current", "note": "" },
+      { "code": "CN-M7100", "status": "current", "note": "" },
+      { "code": "CN-M6100", "status": "current", "note": "" }
     ]
   },
   {
     "name": "2.1",
     "category": "shifter",
     "components": [
-      { "code": "SL-M9000-R", "link": true, "note": "" },
-      { "code": "SL-M9000-IR", "link": false, "note": "" },
-      { "code": "SL-M8000-R", "link": true, "note": "" },
-      { "code": "SL-M8000-IR", "link": true, "note": "" },
-      { "code": "SL-M8000-B-IR", "link": true, "note": "" },
-      { "code": "SL-M7000-11-R", "link": true, "note": "" },
-      { "code": "SL-M7000-11-IR", "link": true, "note": "" },
-      { "code": "SL-M7000-11-B-IR", "link": true, "note": "" },
-      { "code": "SL-M5100-R", "link": true, "note": "" },
-      { "code": "SL-M5100-IR", "link": true, "note": "" }
+      { "code": "SL-M9000-R", "status": "current", "note": "" },
+      { "code": "SL-M9000-IR", "status": "discont", "note": "" },
+      { "code": "SL-M8000-R", "status": "current", "note": "" },
+      { "code": "SL-M8000-IR", "status": "current", "note": "" },
+      { "code": "SL-M8000-B-IR", "status": "current", "note": "" },
+      { "code": "SL-M7000-11-R", "status": "current", "note": "" },
+      { "code": "SL-M7000-11-IR", "status": "current", "note": "" },
+      { "code": "SL-M7000-11-B-IR", "status": "current", "note": "" },
+      { "code": "SL-M5100-R", "status": "current", "note": "" },
+      { "code": "SL-M5100-IR", "status": "current", "note": "" }
     ]
   },
   {
     "name": "2.2",
     "category": "shifter",
     "components": [
-      { "code": "SW-M9050", "link": false, "note": "" },
-      { "code": "SW-M8050", "link": true, "note": "" }
+      { "code": "SW-M9050", "status": "discont", "note": "" },
+      { "code": "SW-M8050", "status": "current", "note": "" }
     ]
   },
   {
     "name": "2.3",
     "category": "rear derailleur",
     "components": [
-      {
-        "code": "RD-M9000-SGS",
-        "link": false,
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
-      },
-      {
-        "code": "RD-M8000-SGS",
-        "link": true,
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
-      },
-      {
-        "code": "RD-M8000-GS",
-        "link": true,
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
-      },
-      {
-        "code": "RD-M7000-11-SGS",
-        "link": false,
-        "note": "(32T ≤ Largest sprocket ≤ 36T)"
-      },
-      {
-        "code": "RD-M5120-SGS",
-        "link": true,
-        "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)"
-      },
-      {
-        "code": "RD-M4120-SGS",
-        "link": true,
-        "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)"
-      }
+      { "code": "RD-M9000-SGS", "status": "discont", "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)" },
+      { "code": "RD-M8000-SGS", "status": "current", "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)" },
+      { "code": "RD-M8000-GS", "status": "current", "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)" },
+      { "code": "RD-M7000-11-SGS", "status": "discont", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M5120-SGS", "status": "current", "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)" },
+      { "code": "RD-M4120-SGS", "status": "current", "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)" }
     ]
   },
   {
     "name": "2.4",
     "category": "rear derailleur",
-    "components": [
-      {
-        "code": "RD-M5100-SGS",
-        "link": true,
-        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x11-speed)"
-      }
-    ]
+    "components": [{ "code": "RD-M5100-SGS", "status": "current", "note": "(51T ≤ Largest sprocket ≤ 51T for 1x11-speed)" }]
   },
   {
     "name": "2.5",
     "category": "rear derailleur",
     "components": [
-      {
-        "code": "RD-M9050-SGS",
-        "link": false,
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)"
-      },
-      {
-        "code": "RD-M9050-GS",
-        "link": false,
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
-      },
-      {
-        "code": "RD-M8050-GS",
-        "link": true,
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)"
-      }
+      { "code": "RD-M9050-SGS", "status": "discont", "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)" },
+      { "code": "RD-M9050-GS", "status": "discont", "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)" },
+      { "code": "RD-M8050-GS", "status": "current", "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)" }
     ]
   },
   {
     "name": "2.6",
     "category": "cassette",
     "components": [
-      { "code": "CS-M9001", "link": false, "note": "(11-40T)" },
-      { "code": "CS-M8000", "link": true, "note": "(11-40T, 11-42T, 11-46T)" },
-      {
-        "code": "CS-M7000-11",
-        "link": false,
-        "note": "(11-40T, 11-42T, 11-46T)"
-      },
-      { "code": "CS-M5100-11", "link": true, "note": "(11-42T)" }
+      { "code": "CS-M9001", "status": "discont", "note": "(11-40T)" },
+      { "code": "CS-M8000", "status": "current", "note": "(11-40T, 11-42T, 11-46T)" },
+      { "code": "CS-M7000-11", "status": "discont", "note": "(11-40T, 11-42T, 11-46T)" },
+      { "code": "CS-M5100-11", "status": "current", "note": "(11-42T)" }
     ]
   },
   {
     "name": "2.7",
     "category": "cassette",
-    "components": [{ "code": "CS-M5100-11", "link": true, "note": "(11-51T)" }]
+    "components": [{ "code": "CS-M5100-11", "status": "current", "note": "(11-51T)" }]
   },
   {
     "name": "2.8",
     "category": "cassette",
     "components": [
-      { "code": "CS-M9001", "link": false, "note": "(11-40T)" },
-      { "code": "CS-M8000", "link": true, "note": "(11-40T, 11-42T, 11-46T)" },
-      {
-        "code": "CS-M7000-11",
-        "link": false,
-        "note": "(11-40T, 11-42T, 11-46T)"
-      },
-      { "code": "CS-M5100-11", "link": true, "note": "(11-42T)" }
+      { "code": "CS-M9001", "status": "discont", "note": "(11-40T)" },
+      { "code": "CS-M8000", "status": "current", "note": "(11-40T, 11-42T, 11-46T)" },
+      { "code": "CS-M7000-11", "status": "discont", "note": "(11-40T, 11-42T, 11-46T)" },
+      { "code": "CS-M5100-11", "status": "current", "note": "(11-42T)" }
     ]
   },
   {
     "name": "2.9",
     "category": "chain",
     "components": [
-      { "code": "CN-HG901-11", "link": true, "note": "" },
-      { "code": "CN-HG701-11", "link": true, "note": "" },
-      { "code": "CN-HG601-11", "link": true, "note": "" },
-      { "code": "CN-LG500", "link": true, "note": "" }
+      { "code": "CN-HG901-11", "status": "current", "note": "" },
+      { "code": "CN-HG701-11", "status": "current", "note": "" },
+      { "code": "CN-HG601-11", "status": "current", "note": "" },
+      { "code": "CN-LG500", "status": "current", "note": "" }
     ]
   },
 
@@ -246,152 +190,226 @@
     "name": "3.1",
     "category": "shifter",
     "components": [
-      { "code": "SL-M8130-R11", "link": true, "note": "" },
-      { "code": "SL-M8130-IR11", "link": true, "note": "" },
-      { "code": "SL-U8000-11R", "link": true, "note": "" },
-      { "code": "SL-U8000-11IR", "link": true, "note": "" },
-      { "code": "SL-U6000-11R", "link": true, "note": "" },
-      { "code": "SL-U6050-11R", "link": true, "note": "" }
+      { "code": "SL-M8130-R11", "status": "current", "note": "" },
+      { "code": "SL-M8130-IR11", "status": "current", "note": "" },
+      { "code": "SL-U8000-11R", "status": "current", "note": "" },
+      { "code": "SL-U8000-11IR", "status": "current", "note": "" },
+      { "code": "SL-U6000-11R", "status": "current", "note": "" },
+      { "code": "SL-U6050-11R", "status": "new", "note": "" }
     ]
   },
   {
     "name": "3.2",
     "category": "rear derailleur",
     "components": [
-      {
-        "code": "RD-U8020",
-        "link": true,
-        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)"
-      },
-      {
-        "code": "RD-U6020-11",
-        "link": true,
-        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)"
-      }
+      { "code": "RD-U8020", "status": "current", "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)" },
+      { "code": "RD-U6020-11", "status": "current", "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)" }
     ]
   },
   {
     "name": "3.3",
     "category": "rear derailleur",
-    "components": [
-      {
-        "code": "RD-U6000",
-        "link": true,
-        "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11 / 10-speed)"
-      }
-    ]
+    "components": [{ "code": "RD-U6000", "status": "current", "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11 / 10-speed)" }]
   },
   {
     "name": "3.4",
     "category": "rear derailleur",
     "components": [
-      {
-        "code": "RD-M8130-SGS",
-        "link": true,
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
-      },
-      {
-        "code": "RD-U8000",
-        "link": true,
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
-      }
+      { "code": "RD-M8130-SGS", "status": "current", "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)" },
+      { "code": "RD-U8000", "status": "current", "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)" }
     ]
   },
   {
     "name": "3.5",
     "category": "cassette",
     "components": [
-      { "code": "CS-LG700-11", "link": true, "note": "(11-45T)" },
-      { "code": "CS-LG400-11", "link": true, "note": "(11-45T)" }
+      { "code": "CS-LG700-11", "status": "current", "note": "(11-45T)" },
+      { "code": "CS-LG400-11", "status": "current", "note": "(11-45T)" }
     ]
   },
   {
     "name": "3.6",
     "category": "cassette",
     "components": [
-      { "code": "CS-LG700-11", "link": true, "note": "(11-50T)" },
-      { "code": "CS-LG600-11", "link": false, "note": "(11-50T)" },
-      { "code": "CS-LG400-11", "link": true, "note": "(11-50T)" }
+      { "code": "CS-LG700-11", "status": "current", "note": "(11-50T)" },
+      { "code": "CS-LG600-11", "status": "discont", "note": "(11-50T)" },
+      { "code": "CS-LG400-11", "status": "current", "note": "(11-50T)" }
     ]
   },
   {
     "name": "3.7",
     "category": "chain",
     "components": [
-      { "code": "CN-HG901-11", "link": true, "note": "" },
-      { "code": "CN-HG701-11", "link": true, "note": "" },
-      { "code": "CN-HG601-11", "link": true, "note": "" },
-      { "code": "CN-LG500", "link": true, "note": "" }
+      { "code": "CN-HG901-11", "status": "current", "note": "" },
+      { "code": "CN-HG701-11", "status": "current", "note": "" },
+      { "code": "CN-HG601-11", "status": "current", "note": "" },
+      { "code": "CN-LG500", "status": "current", "note": "" }
     ]
   },
 
   {
     "name": "4.1",
     "category": "shifter",
-    "components": [{ "code": "SW-EN605-R", "link": true, "note": "" }]
+    "components": [{ "code": "SW-EN605-R", "status": "new", "note": "" }]
   },
   {
     "name": "4.2",
     "category": "shifter",
     "components": [
-      { "code": "SW-M8150-R", "link": true, "note": "" },
-      { "code": "SW-M8150-IR", "link": true, "note": "" },
-      { "code": "SW-EM800-L", "link": true, "note": "" },
-      { "code": "SW-EN600-R", "link": true, "note": "" }
+      { "code": "SW-M8150-R", "status": "current", "note": "" },
+      { "code": "SW-M8150-IR", "status": "current", "note": "" },
+      { "code": "SW-EM800-L", "status": "current", "note": "" },
+      { "code": "SW-EN600-R", "status": "current", "note": "" }
     ]
   },
   {
     "name": "4.3",
     "category": "rear derailleur",
-    "components": [
-      {
-        "code": "RD-U8050-SGS",
-        "link": true,
-        "note": "(45T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
-      }
-    ]
+    "components": [{ "code": "RD-U8050-SGS", "status": "new", "note": "(45T ≤ Largest sprocket ≤ 50T for 1x11-speed)" }]
   },
   {
     "name": "4.4",
     "category": "rear derailleur",
     "components": [
-      {
-        "code": "RD-M8150-11",
-        "link": true,
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
-      },
-      {
-        "code": "RD-U6070",
-        "link": true,
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)"
-      }
+      { "code": "RD-M8150-11", "status": "current", "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)" },
+      { "code": "RD-U6070", "status": "current", "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)" }
     ]
   },
   {
     "name": "4.5",
     "category": "cassette",
     "components": [
-      { "code": "CS-LG700-11", "link": true, "note": "(11-45T)" },
-      { "code": "CS-LG400-11", "link": true, "note": "(11-45T)" }
+      { "code": "CS-LG700-11", "status": "current", "note": "(11-45T)" },
+      { "code": "CS-LG400-11", "status": "current", "note": "(11-45T)" }
     ]
   },
   {
     "name": "4.6",
     "category": "cassette",
     "components": [
-      { "code": "CS-LG700-11", "link": true, "note": "(11-50T)" },
-      { "code": "CS-LG600-11", "link": false, "note": "(11-50T)" },
-      { "code": "CS-LG400-11", "link": true, "note": "(11-50T)" }
+      { "code": "CS-LG700-11", "status": "current", "note": "(11-50T)" },
+      { "code": "CS-LG600-11", "status": "discont", "note": "(11-50T)" },
+      { "code": "CS-LG400-11", "status": "current", "note": "(11-50T)" }
     ]
   },
   {
     "name": "4.7",
     "category": "chain",
     "components": [
-      { "code": "CN-HG901-11", "link": true, "note": "" },
-      { "code": "CN-HG701-11", "link": true, "note": "" },
-      { "code": "CN-HG601-11", "link": true, "note": "" },
-      { "code": "CN-LG500", "link": true, "note": "" }
+      { "code": "CN-HG901-11", "status": "current", "note": "" },
+      { "code": "CN-HG701-11", "status": "current", "note": "" },
+      { "code": "CN-HG601-11", "status": "current", "note": "" },
+      { "code": "CN-LG500", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "5.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M7000-10-R", "status": "current", "note": "" },
+      { "code": "SL-M7000-10-IR", "status": "current", "note": "" },
+      { "code": "SL-M7000-10-B-IR", "status": "current", "note": "" },
+      { "code": "SL-M6000-R", "status": "current", "note": "" },
+      { "code": "SL-M6000-IR", "status": "current", "note": "" },
+      { "code": "SL-M4100-R", "status": "current", "note": "" },
+      { "code": "SL-M4100-IR", "status": "current", "note": "" },
+      { "code": "SL-M820-R", "status": "current", "note": "" },
+      { "code": "SL-M820-B-IR", "status": "current", "note": "" },
+      { "code": "SL-M640-R", "status": "discont", "note": "" },
+      { "code": "SL-M610-R", "status": "discont", "note": "" },
+      { "code": "SL-M610-IR", "status": "current", "note": "" },
+      { "code": "SL-T8000-R", "status": "current", "note": "" },
+      { "code": "SL-T6000-R", "status": "current", "note": "" },
+      { "code": "SL-T670-R", "status": "discont", "note": "" },
+      { "code": "SL-T610-R", "status": "discont", "note": "" }
+    ]
+  },
+  {
+    "name": "5.2",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-M5120-SGS", "status": "current", "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)" }]
+  },
+  {
+    "name": "5.3",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M4120-SGS", "status": "current", "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)" },
+      { "code": "RD-M6000-GS", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "5.4",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M7000-10", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-T8000", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M6000-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-T6000", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" }
+    ]
+  },
+  {
+    "name": "5.5",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M820", "status": "current", "note": "(23T ≤ Largest sprocket ≤ 28T)*2 (32T ≤ Largest sprocket ≤ 36T)*1" },
+      { "code": "RD-M640", "status": "discont", "note": "(23T ≤ Largest sprocket ≤ 28T downhill spec.)*2 (32T ≤ Largest sprocket ≤ 36T free ride spec.)" }
+    ]
+  },
+  {
+    "name": "5.6",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-T780", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)*2" },
+      { "code": "RD-T670-A", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)*2" },
+      { "code": "RD-T610", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)*2" }
+    ]
+  },
+  {
+    "name": "5.7",
+    "category": "cassette",
+    "components": [{ "code": "CS-M4100-10", "status": "current", "note": "(11-46T, 1x10-speed)" }]
+  },
+  {
+    "name": "5.8",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M4100-10", "status": "current", "note": "(11-42T)" },
+      { "code": "CS-HG500-10", "status": "discont", "note": "(11-42T)" }
+    ]
+  },
+  {
+    "name": "5.9",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M771-10", "status": "current", "note": "(11-36T)" },
+      { "code": "CS-HG81-10", "status": "discont", "note": "(11-36T)" },
+      { "code": "CS-HG50-10", "status": "current", "note": "(11-36T)" }
+    ]
+  },
+  {
+    "name": "5.10",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-M771-10", "status": "current", "note": "(11-32T, 11-34T)" },
+      { "code": "CS-HG81-10", "status": "discont", "note": "(11-32T, 11-34T)" },
+      { "code": "CS-HG500-10", "status": "current", "note": "(11-32T, 11-34T)" }
+    ]
+  },
+  {
+    "name": "5.11",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-6700", "status": "current", "note": "" },
+      { "code": "CS-5700", "status": "discont", "note": "" },
+      { "code": "CS-HG500-10", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "5.12",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG95", "status": "current", "note": "" },
+      { "code": "CN-HG54", "status": "current", "note": "" }
     ]
   }
 ]

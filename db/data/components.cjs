@@ -9,14 +9,17 @@ raw.forEach((pod) => {
     }
     seenCodes.add(component.code);
 
-    const link = component.link
-      ? `https://productinfo.shimano.com/product/${component.code}`
-      : null;
+    const link =
+      component.status !== "discont"
+        ? `https://productinfo.shimano.com/product/${component.code}`
+        : null;
 
-    components.push({ code: component.code, link: link });
+    components.push({
+      code: component.code,
+      status: component.status,
+      link: link,
+    });
   });
 });
-
-console.log(components);
 
 module.exports = { components };

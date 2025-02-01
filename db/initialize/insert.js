@@ -16,11 +16,11 @@ INSERT INTO categories (name)
 `;
 const insertComponentsSQL = `
 
-INSERT INTO components (code, link)
+INSERT INTO components (code, status, link)
     VALUES
     ${components
       .map((component) => {
-        return `('${component.code}', '${component.link}')`;
+        return `('${component.code}', '${component.status}', '${component.link}')`;
       })
       .join(",")};
 
