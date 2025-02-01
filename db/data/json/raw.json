@@ -351,17 +351,17 @@
     "name": "5.5",
     "category": "rear derailleur",
     "components": [
-      { "code": "RD-M820", "status": "current", "note": "(23T ≤ Largest sprocket ≤ 28T)*2 (32T ≤ Largest sprocket ≤ 36T)*1" },
-      { "code": "RD-M640", "status": "discont", "note": "(23T ≤ Largest sprocket ≤ 28T downhill spec.)*2 (32T ≤ Largest sprocket ≤ 36T free ride spec.)" }
+      { "code": "RD-M820", "status": "current", "note": "(23T ≤ Largest sprocket ≤ 28T) (32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M640", "status": "discont", "note": "(23T ≤ Largest sprocket ≤ 28T downhill spec.) (32T ≤ Largest sprocket ≤ 36T free ride spec.)" }
     ]
   },
   {
     "name": "5.6",
     "category": "rear derailleur",
     "components": [
-      { "code": "RD-T780", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)*2" },
-      { "code": "RD-T670-A", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)*2" },
-      { "code": "RD-T610", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)*2" }
+      { "code": "RD-T780", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-T670-A", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-T610", "status": "discont", "note": "(28T ≤ Largest sprocket ≤ 34T)" }
     ]
   },
   {
@@ -410,6 +410,126 @@
     "components": [
       { "code": "CN-HG95", "status": "current", "note": "" },
       { "code": "CN-HG54", "status": "current", "note": "" }
+    ]
+  },
+
+  {
+    "name": "6.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M5130-R10", "status": "current", "note": "" },
+      { "code": "SL-U6000-10R", "status": "current", "note": "" },
+      { "code": "SL-U6050-10R", "status": "new", "note": "" }
+    ]
+  },
+  {
+    "name": "6.2",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U6020-10", "status": "current", "note": "(39T ≤ Largest sprocket ≤ 39T for 2x10-speed)" }]
+  },
+  {
+    "name": "6.3",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U4010", "status": "new", "note": "(39T ≤ Largest sprocket ≤ 39T for 1x10-speed)" }]
+  },
+  {
+    "name": "6.4",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-M5130-GS", "status": "current", "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)" }]
+  },
+  {
+    "name": "6.5",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U6000", "status": "current", "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11/10-speed)" }]
+  },
+  {
+    "name": "6.6",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG400-10", "status": "current", "note": "(11-39T)" },
+      { "code": "CS-LG300-10", "status": "current", "note": "(11-39T)" }
+    ]
+  },
+  {
+    "name": "6.7",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG600-10", "status": "discont", "note": "(11-43T)" },
+      { "code": "CS-LG400-10", "status": "current", "note": "(11-43T)" }
+    ]
+  },
+  {
+    "name": "6.8",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG400-10", "status": "current", "note": "(11-48T)" },
+      { "code": "CS-LG300-10", "status": "current", "note": "(11-48T)" }
+    ]
+  },
+  {
+    "name": "6.9",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG901-11", "status": "current", "note": "" },
+      { "code": "CN-HG701-11", "status": "current", "note": "" },
+      { "code": "CN-HG601-11", "status": "current", "note": "" },
+      { "code": "CN-LG500", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "7.1",
+    "category": "shifter",
+    "components": [{ "code": "SW-EN605-R", "status": "new", "note": "" }]
+  },
+  {
+    "name": "7.2",
+    "category": "shifter",
+    "components": [
+      { "code": "SW-M8150-R", "status": "current", "note": "" },
+      { "code": "SW-M8150-IR", "status": "current", "note": "" },
+      { "code": "SW-EM800-L", "status": "current", "note": "" },
+      { "code": "SW-EN600-R", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "7.3",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U8050-SGS", "status": "new", "note": "(48T ≤ Largest sprocket ≤ 48T for 1x10-speed)" }]
+  },
+  {
+    "name": "7.4",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U8050-GS", "status": "new", "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)" }]
+  },
+  {
+    "name": "7.5",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U6050", "status": "current", "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)" }]
+  },
+  {
+    "name": "7.6",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG400-10", "status": "current", "note": "(11-48T)" },
+      { "code": "CS-LG300-10", "status": "current", "note": "(11-48T)" }
+    ]
+  },
+  {
+    "name": "7.7",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG600-10", "status": "discont", "note": "(11-43T)" },
+      { "code": "CS-LG400-10", "status": "current", "note": "(11-43T)" }
+    ]
+  },
+  {
+    "name": "7.8",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG901-11", "status": "current", "note": "" },
+      { "code": "CN-HG701-11", "status": "current", "note": "" },
+      { "code": "CN-HG601-11", "status": "current", "note": "" },
+      { "code": "CN-LG500", "status": "current", "note": "" }
     ]
   }
 ]

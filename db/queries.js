@@ -50,4 +50,4 @@ async function testDB(testInput) {
   return;
 }
 
-testDB("RD-U6020-11");
+testDB("RD-M5130-GS");
