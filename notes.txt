@@ -1,9 +1,34 @@
 API Design:
     Endpoints:
-        READ(partName)
-        Response: {
-            [{part1},{part2},...]
-        }
+    
+    Searching all component codes to filter available results
+        READ(component code)
+        GET
+        response: [code1, code2, ...]
+        
+    Find compatible components
+        READ(component code)
+        GET 
+        response: [
+            {part1},{part2}, ...
+        ]
+        each part has code, category, pod, status, link, note
+            
+            - get list of all compatible parts, sort and display on front end
+        
+
+    Future Endpoints:
+        CREATE user build
+         - user info, build info, components in build
+        UPDATE user build
+         - user info, build info, components in build        
+        DELETE user build
+         - user info, build info, components in build
+
+
+
+
+        
 
 Todo:
 User authenticated build page

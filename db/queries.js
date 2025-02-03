@@ -44,10 +44,9 @@ JOIN categories cat ON p.category_id = cat.id
 
 `;
 
-async function testDB(testInput) {
-  const { rows } = await pool.query(testSQL, [testInput]);
-  console.log(rows);
-  return;
+async function componentCode_compatList(componentCode) {
+  const { rows } = await pool.query(testSQL, [componentCode]);
+  return rows;
 }
 
-testDB("RD-M5130-GS");
+export { componentCode_compatList };
