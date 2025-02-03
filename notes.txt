@@ -31,6 +31,7 @@ API Design:
         
 
 Todo:
+Handle errors (asynchandler), error function
 User authenticated build page
 Look into indexing tables
 Functionality: take the queried part and return extra information regarding it? Link, block name?

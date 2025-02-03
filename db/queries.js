@@ -45,8 +45,13 @@ JOIN categories cat ON p.category_id = cat.id
 `;
 
 async function componentCode_compatList(componentCode) {
-  const { rows } = await pool.query(testSQL, [componentCode]);
-  return rows;
+  try {
+    const { rows } = await pool.query(testSQL, [componentCode]);
+    return rows;
+  } catch (error) {
+    console.error(error);
+    throw new Error("Database Query Failed");
+  }
 }
 
 export { componentCode_compatList };
