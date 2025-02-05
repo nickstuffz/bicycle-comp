@@ -1,0 +1,749 @@
+[
+  {
+    "name": "1.1",
+    "components": [
+      {
+        "code": "SL-M9100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M9100-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8100-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7100-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6100-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter lever"
+  },
+  {
+    "name": "1.2",
+    "components": [
+      {
+        "code": "SW-M8150-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-M8150-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-EM800-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-EN600-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "1.3",
+    "components": [
+      {
+        "code": "RD-M9100-GS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M9120-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8100-GS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8120-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M7120-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "1.4",
+    "components": [
+      {
+        "code": "RD-M9120-SGS",
+        "status": "current",
+        "note": "(2x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8120-SGS",
+        "status": "current",
+        "note": "(2x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M7120-SGS",
+        "status": "current",
+        "note": "(2x12-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "1.5",
+    "components": [
+      {
+        "code": "RD-M9100-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8100-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M7100-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M6100-SGS",
+        "status": "current",
+        "note": "(1x12-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "1.6",
+    "components": [
+      {
+        "code": "RD-M8150-12",
+        "status": "current",
+        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed)",
+        "warning": "#Only for E-BIKE"
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "1.7",
+    "components": [
+      {
+        "code": "CS-M9101-12",
+        "status": "current",
+        "note": "(10-45T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M9100-12",
+        "status": "discont",
+        "note": "(10-45T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M8100-12",
+        "status": "current",
+        "note": "(10-45T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M7100-12",
+        "status": "current",
+        "note": "(10-45T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "1.8",
+    "components": [
+      {
+        "code": "CS-M9101-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M9100-12",
+        "status": "discont",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M8100-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M7100-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M6100-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "1.9",
+    "components": [
+      {
+        "code": "CS-M9101-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M9100-12",
+        "status": "discont",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M8100-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M7100-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M6100-12",
+        "status": "current",
+        "note": "(10-51T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "1.10",
+    "components": [
+      {
+        "code": "CN-M9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M8100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M7100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M6100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "2.1",
+    "components": [
+      {
+        "code": "SL-M9000-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M9000-IR",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-B-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-11-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-11-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-11-B-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M5100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M5100-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter lever"
+  },
+  {
+    "name": "2.2",
+    "components": [
+      {
+        "code": "SW-M9050",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-M8050",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "2.3",
+    "components": [
+      {
+        "code": "RD-M9000-SGS",
+        "status": "discont",
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8000-SGS",
+        "status": "current",
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8000-GS",
+        "status": "current",
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M7000-11-SGS",
+        "status": "discont",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "RD-M5120-SGS",
+        "status": "current",
+        "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M4120-SGS",
+        "status": "current",
+        "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "2.4",
+    "components": [
+      {
+        "code": "RD-M5100-SGS",
+        "status": "current",
+        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x11-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "2.5",
+    "components": [
+      {
+        "code": "RD-M9050-SGS",
+        "status": "discont",
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M9050-GS",
+        "status": "discont",
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M8050-GS",
+        "status": "current",
+        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "2.6",
+    "components": [
+      {
+        "code": "CS-M9001",
+        "status": "discont",
+        "note": "(11-40T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M8000",
+        "status": "current",
+        "note": "(11-40T, 11-42T, 11-46T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M7000-11",
+        "status": "discont",
+        "note": "(11-40T, 11-42T, 11-46T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M5100-11",
+        "status": "current",
+        "note": "(11-42T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "2.7",
+    "components": [
+      {
+        "code": "CS-M5100-11",
+        "status": "current",
+        "note": "(11-51T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "2.8",
+    "components": [
+      {
+        "code": "CS-M9001",
+        "status": "discont",
+        "note": "(11-40T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M8000",
+        "status": "current",
+        "note": "(11-40T, 11-42T, 11-46T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M7000-11",
+        "status": "discont",
+        "note": "(11-40T, 11-42T, 11-46T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-M5100-11",
+        "status": "current",
+        "note": "(11-42T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "2.9",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "3.1",
+    "components": []
+  },
+  {
+    "name": "3.2",
+    "components": []
+  },
+  {
+    "name": "3.3",
+    "components": []
+  },
+  {
+    "name": "3.4",
+    "components": []
+  },
+  {
+    "name": "3.5",
+    "components": []
+  },
+  {
+    "name": "3.6",
+    "components": []
+  },
+  {
+    "name": "3.7",
+    "components": []
+  },
+  {
+    "name": "4.1",
+    "components": []
+  },
+  {
+    "name": "4.2",
+    "components": []
+  },
+  {
+    "name": "4.3",
+    "components": []
+  },
+  {
+    "name": "4.4",
+    "components": []
+  },
+  {
+    "name": "4.5",
+    "components": []
+  },
+  {
+    "name": "4.6",
+    "components": []
+  },
+  {
+    "name": "4.7",
+    "components": []
+  },
+  {
+    "name": "5.1",
+    "components": []
+  },
+  {
+    "name": "5.2",
+    "components": []
+  },
+  {
+    "name": "5.3",
+    "components": []
+  },
+  {
+    "name": "5.4",
+    "components": []
+  },
+  {
+    "name": "5.5",
+    "components": []
+  },
+  {
+    "name": "5.6",
+    "components": []
+  },
+  {
+    "name": "5.7",
+    "components": []
+  },
+  {
+    "name": "5.8",
+    "components": []
+  },
+  {
+    "name": "5.9",
+    "components": []
+  },
+  {
+    "name": "5.10",
+    "components": []
+  },
+  {
+    "name": "5.11",
+    "components": []
+  },
+  {
+    "name": "5.12",
+    "components": []
+  },
+  {
+    "name": "6.1",
+    "components": []
+  },
+  {
+    "name": "6.2",
+    "components": []
+  },
+  {
+    "name": "6.3",
+    "components": []
+  },
+  {
+    "name": "6.4",
+    "components": []
+  },
+  {
+    "name": "6.5",
+    "components": []
+  },
+  {
+    "name": "6.6",
+    "components": []
+  },
+  {
+    "name": "6.7",
+    "components": []
+  },
+  {
+    "name": "6.8",
+    "components": []
+  },
+  {
+    "name": "6.9",
+    "components": []
+  },
+  {
+    "name": "7.1",
+    "components": []
+  },
+  {
+    "name": "7.2",
+    "components": []
+  },
+  {
+    "name": "7.3",
+    "components": []
+  },
+  {
+    "name": "7.4",
+    "components": []
+  },
+  {
+    "name": "7.5",
+    "components": []
+  },
+  {
+    "name": "7.6",
+    "components": []
+  },
+  {
+    "name": "7.7",
+    "components": []
+  }
+]

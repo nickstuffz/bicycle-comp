@@ -531,5 +531,219 @@
       { "code": "CN-HG601-11", "status": "current", "note": "" },
       { "code": "CN-LG500", "status": "current", "note": "" }
     ]
+  },
+  {
+    "name": "8.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M590-R", "status": "current", "note": "" },
+      { "code": "SL-M4000-R", "status": "current", "note": "" },
+      { "code": "SL-M3100-R", "status": "current", "note": "" },
+      { "code": "SL-M3000-R", "status": "current", "note": "" },
+      { "code": "SL-M2010-9R", "status": "current", "note": "" },
+      { "code": "SL-M2000-R", "status": "current", "note": "" },
+      { "code": "SL-M370-R", "status": "current", "note": "" },
+      { "code": "ST-M4050-R", "status": "current", "note": "" },
+      { "code": "ST-M3050-R", "status": "current", "note": "" },
+      { "code": "ST-M4000-R", "status": "current", "note": "" },
+      { "code": "ST-T4000-R", "status": "current", "note": "" },
+      { "code": "ST-T3000-R", "status": "current", "note": "" },
+      { "code": "ST-M370-R", "status": "current", "note": "" },
+      { "code": "ST-EF65-9R2", "status": "current", "note": "" },
+      { "code": "ST-EF65-9R4", "status": "current", "note": "" },
+      { "code": "ST-EF510-9R2A", "status": "current", "note": "" },
+      { "code": "ST-EF505-9R", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "8.2",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M772-GS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M772-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M592-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M4000-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M3100-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M3000-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" },
+      { "code": "RD-M2000-SGS", "status": "current", "note": "(32T ≤ Largest sprocket ≤ 36T)" }
+    ]
+  },
+  {
+    "name": "8.3",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M771-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-M591-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-T4000-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-T3000-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-M370-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" }
+    ]
+  },
+  {
+    "name": "8.4",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-HG400-9", "status": "current", "note": "(11-36T/12-36T)" },
+      { "code": "CS-HG300-9", "status": "current", "note": "(12-36T)" }
+    ]
+  },
+  {
+    "name": "8.5",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-HG201-9", "status": "current", "note": "(11-36T)" },
+      { "code": "CS-HG200-9", "status": "current", "note": "(11-36T)" }
+    ]
+  },
+  {
+    "name": "8.6",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-HG400-9", "status": "current", "note": "(11-32T/11-34T)" },
+      { "code": "CS-HG300-9", "status": "current", "note": "(11-32T/11-34T)" },
+      { "code": "CS-HG201-9", "status": "current", "note": "(11-32T/11-34T)" },
+      { "code": "CS-HG200-9", "status": "current", "note": "(11-32T/11-34T)" }
+    ]
+  },
+  {
+    "name": "8.7",
+    "category": "cassette",
+    "components": [{ "code": "CS-HG400-9", "status": "current", "note": "(11-28T)" }]
+  },
+  {
+    "name": "8.8",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG93", "status": "current", "note": "" },
+      { "code": "CN-HG53", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "9.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-U4000-9R", "status": "current", "note": "" },
+      { "code": "SL-U4010-9R", "status": "current", "note": "" },
+      { "code": "SL-U4050-9R", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "9.2",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-U4020", "status": "current", "note": "(36T ≤ Largest sprocket ≤ 36T for 2x9-speed)" },
+      { "code": "RD-U3020", "status": "current", "note": "(36T ≤ Largest sprocket ≤ 36T for 2x9-speed)" }
+    ]
+  },
+  {
+    "name": "9.3",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U4010", "status": "current", "note": "(36T ≤ Largest sprocket ≤ 36T for 1x9-speed)" }]
+  },
+  {
+    "name": "9.4",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U4000", "status": "current", "note": "(41T ≤ Largest sprocket ≤ 46T for 1x9-speed)" }]
+  },
+  {
+    "name": "9.5",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG400-9", "status": "current", "note": "(11-36T)" },
+      { "code": "CS-LG300-9", "status": "current", "note": "(11-36T)" }
+    ]
+  },
+  {
+    "name": "9.6",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-LG400-9", "status": "current", "note": "(11-41T, 11-46T)" },
+      { "code": "CS-LG300-9", "status": "current", "note": "(11-41T, 11-46T)" }
+    ]
+  },
+  {
+    "name": "9.7",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG93", "status": "current", "note": "" },
+      { "code": "CN-HG53", "status": "current", "note": "" },
+      { "code": "CN-HG901-11", "status": "current", "note": "" },
+      { "code": "CN-HG701-11", "status": "current", "note": "" },
+      { "code": "CN-HG601-11", "status": "current", "note": "" },
+      { "code": "CN-LG500", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "10.1",
+    "category": "shifter",
+    "components": [
+      { "code": "SL-M360-R", "status": "current", "note": "" },
+      { "code": "SL-M310-8R", "status": "current", "note": "" },
+      { "code": "SL-M315-8R", "status": "current", "note": "" },
+      { "code": "SL-RS47-8R", "status": "current", "note": "" },
+      { "code": "SL-RS45-8R", "status": "current", "note": "" },
+      { "code": "SL-RV400-8R", "status": "current", "note": "" },
+      { "code": "ST-M310-8R2", "status": "current", "note": "" },
+      { "code": "ST-M310-8R4", "status": "current", "note": "" },
+      { "code": "ST-TX800-8R", "status": "current", "note": "" },
+      { "code": "ST-EF65-8R2", "status": "current", "note": "" },
+      { "code": "ST-EF65-8R4", "status": "current", "note": "" },
+      { "code": "ST-EF500-8R2A", "status": "current", "note": "" },
+      { "code": "ST-EF500-8R4A", "status": "current", "note": "" },
+      { "code": "ST-EF510-8R2A", "status": "current", "note": "" },
+      { "code": "ST-EF510-8R4A", "status": "current", "note": "" },
+      { "code": "ST-EF505-8R", "status": "current", "note": "" },
+      { "code": "ST-EF515-8R", "status": "current", "note": "" }
+    ]
+  },
+  {
+    "name": "10.2",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-U2000", "status": "current", "note": "(45T ≤ Largest sprocket ≤ 45T for 1x8-speed)" }]
+  },
+  {
+    "name": "10.3",
+    "category": "rear derailleur",
+    "components": [{ "code": "RD-M3020-8", "status": "current", "note": "(30T ≤ Largest sprocket ≤ 40T)" }]
+  },
+  {
+    "name": "10.4",
+    "category": "rear derailleur",
+    "components": [
+      { "code": "RD-M360-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-M310-Smart", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" },
+      { "code": "RD-TX800-SGS", "status": "current", "note": "(28T ≤ Largest sprocket ≤ 34T)" }
+    ]
+  },
+  {
+    "name": "10.5",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-HG400-8", "status": "current", "note": "(11-45T)" },
+      { "code": "CS-HG300-8", "status": "current", "note": "(11-45T)" }
+    ]
+  },
+  {
+    "name": "10.6",
+    "category": "cassette",
+    "components": [{ "code": "CS-HG400-8", "status": "current", "note": "(11-40T)" }]
+  },
+  {
+    "name": "10.7",
+    "category": "cassette",
+    "components": [
+      { "code": "CS-HG51-8", "status": "current", "note": "(11-28T, 11-30T, 11-32T)" },
+      { "code": "CS-HG41-8", "status": "current", "note": "(11-30T, 11-32T, 11-34T)" },
+      { "code": "CS-HG31-8", "status": "current", "note": "(11-30T, 11-32T, 11-34T)" },
+      { "code": "CS-HG200-8", "status": "current", "note": "(12-32T)" }
+    ]
+  },
+  {
+    "name": "10.8",
+    "category": "chain",
+    "components": [
+      { "code": "CN-HG71", "status": "current", "note": "" },
+      { "code": "CN-HG40", "status": "current", "note": "" }
+    ]
   }
 ]

@@ -1,0 +1,214 @@
+### Block 1.1
+SL-M9100-R
+SL-M9100-IR
+SL-M8100-R
+SL-M8100-IR
+SL-M7100-R
+SL-M7100-IR
+SL-M6100-R
+SL-M6100-IR
+
+### Block 1.2
+SW-M8150-R
+SW-M8150-IR
+SW-EM800-L
+SW-EN600-R
+
+### Block 1.3
+RD-M9100-GS
+RD-M9120-SGS
+RD-M8100-GS
+RD-M8120-SGS
+RD-M7120-SGS
+(1x12-speed)
+
+### Block 1.4
+RD-M9120-SGS
+RD-M8120-SGS
+RD-M7120-SGS
+(2x12-speed)
+
+### Block 1.5
+RD-M9100-SGS
+RD-M8100-SGS
+RD-M7100-SGS
+RD-M6100-SGS
+(1x12-speed)
+
+### Block 1.6
+RD-M8150-12
+#Only for E-BIKE
+(51T ≤ Largest
+sprocket ≤ 51T
+for 1x12-speed)
+
+### Block 1.7
+CS-M9101-12
+CS-M9100-12*
+CS-M8100-12
+CS-M7100-12
+(10-45T)
+
+### Block 1.8
+CS-M9101-12
+CS-M9100-12*
+CS-M8100-12
+CS-M7100-12
+CS-M6100-12
+(10-51T)
+
+### Block 1.9
+CS-M9101-12
+CS-M9100-12*
+CS-M8100-12
+CS-M7100-12
+CS-M6100-12
+(10-51T)
+
+### Block 1.10
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 2.1
+SL-M9000-R
+SL-M9000-IR*
+SL-M8000-R
+SL-M8000-IR
+SL-M8000-B-IR
+SL-M7000-11-R
+SL-M7000-11-IR
+SL-M7000-11-B-IR
+SL-M5100-R
+SL-M5100-IR
+
+### Block 2.2
+SW-M9050*
+SW-M8050
+
+### Block 2.3
+RD-M9000-SGS*
+RD-M8000-SGS
+(40T≤Largest sprocket
+≤46T for 1x11-speed,
+42T for 2x11-speed,
+40T for 3x11-speed)
+RD-M8000-GS
+(40T≤Largest sprocket
+≤46T for 1x11-speed,
+42T for 2x11-speed)
+RD-M7000-11-SGS*
+(32T≤Largest sprocket
+≤36T)
+---
+RD-M5120-SGS
+(42T≤Largest sprocket
+≤46T for 1x11 and
+1x10-speed,
+42T for 2x11 and
+2x10-speed)
+RD-M4120-SGS
+(42T≤Largest sprocket
+≤42T for 2x11 and
+2x10-speed)
+
+### Block 2.4
+RD-M5100-SGS
+(51T≤Largest sprocket
+≤51T for 1x11-speed)
+
+### Block 2.5
+RD-M9050-SGS*
+(40T≤Largest sprocket
+≤46T for 1x11-speed,
+42T for 2x11-speed,
+40T for 3x11-speed)
+RD-M9050-GS*
+RD-M8050-GS
+(40T≤Largest sprocket
+≤46T for 1x11-speed,
+42T for 2x11-speed)
+
+### Block 2.6
+CS-M9001*
+(11-40T)
+CS-M8000
+CS-M7000-11*
+(11-40T, 11-42T,
+11-46T)
+CS-M5100-11
+(11-42T)
+
+### Block 2.7
+CS-M5100-11
+(11-51T)
+
+### Block 2.8
+CS-M9001*
+(11-40T)
+CS-M8000
+CS-M7000-11*
+(11-40T, 11-42T,
+11-46T)
+CS-M5100-11
+(11-42T)
+
+### Block 2.9
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 3.1
+### Block 3.2
+### Block 3.3
+### Block 3.4
+### Block 3.5
+### Block 3.6
+### Block 3.7
+
+### Block 4.1
+### Block 4.2
+### Block 4.3
+### Block 4.4
+### Block 4.5
+### Block 4.6
+### Block 4.7
+
+### Block 5.1
+### Block 5.2
+### Block 5.3
+### Block 5.4
+### Block 5.5
+### Block 5.6
+### Block 5.7
+### Block 5.8
+### Block 5.9
+### Block 5.10
+### Block 5.11
+### Block 5.12
+
+### Block 6.1
+### Block 6.2
+### Block 6.3
+### Block 6.4
+### Block 6.5
+### Block 6.6
+### Block 6.7
+### Block 6.8
+### Block 6.9
+
+### Block 7.1
+### Block 7.2
+### Block 7.3
+### Block 7.4
+### Block 7.5
+### Block 7.6
+### Block 7.7
+### Block 7.8
+
+
+
+
+
