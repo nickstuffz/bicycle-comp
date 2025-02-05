@@ -27,7 +27,11 @@ API Design:
 
 
 
-
+Now:
+Fill in raw.txt data
+Reroute from raw.json to the new parsedRaw.json
+Handle new Warning data field
+Create a relations.txt and parseRelationsTxt.js and parsedRelations.json
         
 
 Todo:

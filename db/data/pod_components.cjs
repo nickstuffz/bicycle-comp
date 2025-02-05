@@ -2,7 +2,7 @@ const raw = require("./json/raw.json");
 
 const pod_components = [];
 raw.forEach((pod) => {
-  pod.components.map((component) => {
+  pod.components.forEach((component) => {
     pod_components.push({
       podName: pod.name,
       componentCode: component.code,

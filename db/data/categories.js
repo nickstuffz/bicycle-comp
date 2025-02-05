@@ -1,11 +1,15 @@
-export const categories = [
-  { name: "bottom bracket" },
-  { name: "brake" },
-  { name: "brake lever" },
-  { name: "cassette" },
-  { name: "chain" },
-  { name: "crankset" },
-  { name: "front derailleur" },
-  { name: "rear derailleur" },
-  { name: "shifter" },
-];
+import { catMap } from "./raw/catMap.js";
+
+const seenCats = new Set();
+const categories = [];
+
+Object.keys(catMap).forEach((key) => {
+  if (seenCats.has(catMap[key])) {
+    return;
+  }
+  seenCats.add(catMap[key]);
+
+  categories.push({ name: catMap[key] });
+});
+
+export { categories };

@@ -1,18 +1,7 @@
 import fs from "fs";
+import { catMap } from "./catMap.js";
 
 function parseBlocks(rawText) {
-  const catMap = {
-    BB: "bottom braket",
-    BR: "brake",
-    BL: "brake lever",
-    CS: "cassette",
-    CH: "chain",
-    CR: "crankset",
-    FD: "front derailleur",
-    RD: "rear derailleur",
-    SH: "shifter",
-    SL: "shifter lever",
-  };
   const lines = rawText
     // aggregate and format note lines
     .replace(/\(\s*([^)]+)\s*\)/g, (match, p1) => {
@@ -89,15 +78,15 @@ function parseBlocks(rawText) {
       console.error("Error: Unhandled Line: " + line);
     }
   });
-  console.dir(output, { depth: null });
   return output;
 }
 
 const inputText = fs.readFileSync("db/data/raw/raw.txt", "utf8");
-
+console.log("parsing...");
 const jsonOutput = parseBlocks(inputText);
-
+console.log("writing...");
 fs.writeFileSync(
   "db/data/json/parsedRaw.json",
   JSON.stringify(jsonOutput, null, 2),
 );
+console.log("done");
