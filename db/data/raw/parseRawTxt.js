@@ -1,8 +1,8 @@
 import fs from "fs";
 import { catMap } from "./catMap.js";
 
-function parseBlocks(rawText) {
-  const lines = rawText
+function parseRaw(text) {
+  const lines = text
     // aggregate and format note lines
     .replace(/\(\s*([^)]+)\s*\)/g, (match, p1) => {
       return `(${p1.replace(/\s*≤\s*/g, " ≤ ").replace(/\s+/g, " ")})`;
@@ -82,9 +82,9 @@ function parseBlocks(rawText) {
 }
 
 const inputText = fs.readFileSync("db/data/raw/raw.txt", "utf8");
-console.log("parsing...");
-const jsonOutput = parseBlocks(inputText);
-console.log("writing...");
+console.log("parsing raw...");
+const jsonOutput = parseRaw(inputText);
+console.log("writing raw...");
 fs.writeFileSync(
   "db/data/json/parsedRaw.json",
   JSON.stringify(jsonOutput, null, 2),
