@@ -580,170 +580,8768 @@
   },
   {
     "name": "3.1",
-    "components": []
+    "components": [
+      {
+        "code": "SL-M8130-R11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8130-IR11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U8000-11R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U8000-11IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6000-11R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6050-11R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
   },
   {
     "name": "3.2",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U8020",
+        "status": "current",
+        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-U6020-11",
+        "status": "current",
+        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "3.3",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U6000",
+        "status": "current",
+        "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11/10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "3.4",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M8130-SGS",
+        "status": "current",
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-U8000",
+        "status": "current",
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "3.5",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG700-11",
+        "status": "current",
+        "note": "(11-45T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG400-11",
+        "status": "current",
+        "note": "(11-45T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "3.6",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG700-11",
+        "status": "current",
+        "note": "(11-50T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG600-11",
+        "status": "discont",
+        "note": "(11-50T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG400-11",
+        "status": "current",
+        "note": "(11-50T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "3.7",
-    "components": []
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "4.1",
-    "components": []
+    "components": [
+      {
+        "code": "SW-EN605-R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "4.2",
-    "components": []
+    "components": [
+      {
+        "code": "SW-M8150-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-M8150-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-EM800-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-EN600-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "4.3",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U8050-SGS",
+        "status": "new",
+        "note": "(45T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "warning": "#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "4.4",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M8150-11",
+        "status": "current",
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "warning": "#Only for E-BIKE"
+      },
+      {
+        "code": "RD-U6070",
+        "status": "current",
+        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "warning": "#Only for E-BIKE"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "4.5",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG700-11",
+        "status": "current",
+        "note": "(11-45T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG400-11",
+        "status": "current",
+        "note": "(11-45T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "4.6",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG700-11",
+        "status": "current",
+        "note": "(11-50T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG600-11",
+        "status": "discont",
+        "note": "(11-50T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG400-11",
+        "status": "current",
+        "note": "(11-50T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "4.7",
-    "components": []
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "5.1",
-    "components": []
+    "components": [
+      {
+        "code": "SL-M7000-10-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-10-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-10-B-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6000-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6000-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M4100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M4100-IR",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SL-M820-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M820-B-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M640-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-IR",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SL-T8000-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-T6000-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-T670-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-T610-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
   },
   {
     "name": "5.2",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M5120-SGS",
+        "status": "current",
+        "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "5.3",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M4120-SGS",
+        "status": "current",
+        "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M6000-GS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "5.4",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M7000-10",
+        "status": "current",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-T8000",
+        "status": "current",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M6000-SGS",
+        "status": "current",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-T6000",
+        "status": "current",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "5.5",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M820",
+        "status": "current",
+        "note": "(23T ≤ Largest sprocket ≤ 28T)",
+        "warning": "#Mode converter",
+        "noteStop": true
+      },
+      {
+        "code": "RD-M640",
+        "status": "discont",
+        "note": "(23T ≤ Largest sprocket ≤ 28T downhill spec. / 32T ≤ Largest sprocket ≤ 36T free ride spec.)",
+        "warning": "#Compatible with ROAD cassette"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "5.6",
-    "components": []
+    "components": [
+      {
+        "code": "RD-T780",
+        "status": "discont",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-T670-A",
+        "status": "discont",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-T610",
+        "status": "discont",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": "#Compatible with ROAD cassette"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "5.7",
-    "components": []
+    "components": [
+      {
+        "code": "CS-M4100-10",
+        "status": "current",
+        "note": "(11-46T, 1x10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "5.8",
-    "components": []
+    "components": [
+      {
+        "code": "CS-M4100-10",
+        "status": "current",
+        "note": "(11-42T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG500-10",
+        "status": "discont",
+        "note": "(11-42T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "5.9",
-    "components": []
+    "components": [
+      {
+        "code": "CS-M771-10",
+        "status": "current",
+        "note": "(11-36T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG81-10",
+        "status": "discont",
+        "note": "(11-36T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG50-10",
+        "status": "current",
+        "note": "(11-36T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "5.10",
-    "components": []
+    "components": [
+      {
+        "code": "CS-M771-10",
+        "status": "current",
+        "note": "(11-32T, 11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG81-10",
+        "status": "discont",
+        "note": "(11-32T, 11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG500-10",
+        "status": "current",
+        "note": "(11-32T, 11-34T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "5.11",
-    "components": []
+    "components": [
+      {
+        "code": "CS-6700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CS-5700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG500-10",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "5.12",
-    "components": []
+    "components": [
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "6.1",
-    "components": []
+    "components": [
+      {
+        "code": "SL-M5130-R10",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6000-10R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6050-10R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
   },
   {
     "name": "6.2",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U6020-10",
+        "status": "current",
+        "note": "(39T ≤ Largest sprocket ≤ 39T for 2x10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "6.3",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U4010",
+        "status": "new",
+        "note": "(39T ≤ Largest sprocket ≤ 39T for 1x10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "6.4",
-    "components": []
+    "components": [
+      {
+        "code": "RD-M5130-GS",
+        "status": "current",
+        "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "6.5",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U6000",
+        "status": "current",
+        "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11/10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "6.6",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG400-10",
+        "status": "current",
+        "note": "(11-39T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG300-10",
+        "status": "current",
+        "note": "(11-39T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "6.7",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG600-10",
+        "status": "discont",
+        "note": "(11-43T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG400-10",
+        "status": "current",
+        "note": "(11-43T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "6.8",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG400-10",
+        "status": "current",
+        "note": "(11-48T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG300-10",
+        "status": "current",
+        "note": "(11-48T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "6.9",
-    "components": []
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "7.1",
-    "components": []
+    "components": [
+      {
+        "code": "SW-EN605-R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "7.2",
-    "components": []
+    "components": [
+      {
+        "code": "SW-M8150-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-M8150-IR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-EM800-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-EN600-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
   },
   {
     "name": "7.3",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U8050-SGS",
+        "status": "new",
+        "note": "(48T ≤ Largest sprocket ≤ 48T for 1x10-speed)",
+        "warning": "#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "7.4",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U8050-GS",
+        "status": "new",
+        "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)",
+        "warning": "#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "7.5",
-    "components": []
+    "components": [
+      {
+        "code": "RD-U6050",
+        "status": "current",
+        "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)",
+        "warning": "#Only for SHIMANO E-BIKE SYSTEMS"
+      }
+    ],
+    "category": "rear derailleur"
   },
   {
     "name": "7.6",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG400-10",
+        "status": "current",
+        "note": "(11-48T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG300-10",
+        "status": "current",
+        "note": "(11-48T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
   },
   {
     "name": "7.7",
-    "components": []
+    "components": [
+      {
+        "code": "CS-LG600-10",
+        "status": "discont",
+        "note": "(11-43T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG400-10",
+        "status": "current",
+        "note": "(11-43T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "7.8",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "8.1",
+    "components": [
+      {
+        "code": "SL-M590-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M4000-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M3100-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M3000-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M2010-9R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M2000-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M370-R",
+        "status": "discont",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-M4050-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M3050-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M4000-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-T4000-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-T3000-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M370-R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-9R2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-9R4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-9R2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-9R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "8.2",
+    "components": [
+      {
+        "code": "RD-M772-GS",
+        "status": "discont",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M772-SGS",
+        "status": "discont",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M592-SGS",
+        "status": "discont",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M4000-SGS",
+        "status": "discont",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M3100-SGS",
+        "status": "current",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M3000-SGS",
+        "status": "discont",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M2000-SGS",
+        "status": "current",
+        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "8.3",
+    "components": [
+      {
+        "code": "RD-M771-SGS",
+        "status": "discont",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M591-SGS",
+        "status": "discont",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-T4000-SGS",
+        "status": "current",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-T3000-SGS",
+        "status": "current",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M370-SGS",
+        "status": "current",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "8.4",
+    "components": [
+      {
+        "code": "CS-HG400-9",
+        "status": "current",
+        "note": "(11-36T/12-36T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG300-9",
+        "status": "discont",
+        "note": "(12-36T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "8.5",
+    "components": [
+      {
+        "code": "CS-HG201-9",
+        "status": "current",
+        "note": "(11-36T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG200-9",
+        "status": "current",
+        "note": "(11-36T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "8.6",
+    "components": [
+      {
+        "code": "CS-HG400-9",
+        "status": "current",
+        "note": "(11-32T/11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG300-9",
+        "status": "discont",
+        "note": "(11-32T/11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG201-9",
+        "status": "current",
+        "note": "(11-32T/11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG200-9",
+        "status": "current",
+        "note": "(11-32T/11-34T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "8.7",
+    "components": [
+      {
+        "code": "CS-HG400-9",
+        "status": "current",
+        "note": "(11-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "8.8",
+    "components": [
+      {
+        "code": "CN-HG93",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG53",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "9.1",
+    "components": [
+      {
+        "code": "SL-U4000-9R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U4010-9R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U4050-9R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "9.2",
+    "components": [
+      {
+        "code": "RD-U4020",
+        "status": "current",
+        "note": "(36T ≤ Largest sprocket ≤ 36T for 2x9-speed)",
+        "warning": ""
+      },
+      {
+        "code": "RD-U3020",
+        "status": "current",
+        "note": "(36T ≤ Largest sprocket ≤ 36T for 2x9-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "9.3",
+    "components": [
+      {
+        "code": "RD-U4010",
+        "status": "new",
+        "note": "(36T ≤ Largest sprocket ≤ 36T for 1x9-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "9.4",
+    "components": [
+      {
+        "code": "RD-U4000",
+        "status": "current",
+        "note": "(41T ≤ Largest sprocket ≤ 46T for 1x9-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "9.5",
+    "components": [
+      {
+        "code": "CS-LG400-9",
+        "status": "current",
+        "note": "(11-36T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG300-9",
+        "status": "current",
+        "note": "(11-36T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "9.6",
+    "components": [
+      {
+        "code": "CS-LG400-9",
+        "status": "current",
+        "note": "(11-41T, 11-46T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-LG300-9",
+        "status": "current",
+        "note": "(11-41T, 11-46T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "9.7",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "10.1",
+    "components": [
+      {
+        "code": "SL-M360-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M310-8R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M315-8R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS47-8R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS45-8R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-8R",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-M310-8R2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M310-8R4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-TX800-8R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-8R2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-8R4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-8R2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-8R4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-8R2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-8R4A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-8R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-8R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "10.2",
+    "components": [
+      {
+        "code": "RD-U2000",
+        "status": "new",
+        "note": "(45T ≤ Largest sprocket ≤ 45T for 1x8-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "10.3",
+    "components": [
+      {
+        "code": "RD-M3020-8",
+        "status": "current",
+        "note": "(30T ≤ Largest sprocket ≤ 40T)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "10.4",
+    "components": [
+      {
+        "code": "RD-M360-SGS",
+        "status": "discont",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-M310-Smart",
+        "status": "current",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      },
+      {
+        "code": "RD-TX800-SGS",
+        "status": "current",
+        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "10.5",
+    "components": [
+      {
+        "code": "CS-HG400-8",
+        "status": "current",
+        "note": "(11-45T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG300-8",
+        "status": "new",
+        "note": "(11-45T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "10.6",
+    "components": [
+      {
+        "code": "CS-HG400-8",
+        "status": "current",
+        "note": "(11-40T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "10.7",
+    "components": [
+      {
+        "code": "CS-HG51-8",
+        "status": "current",
+        "note": "(11-28T, 11-30T, 11-32T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG41-8",
+        "status": "current",
+        "note": "(11-30T, 11-32T, 11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG31-8",
+        "status": "current",
+        "note": "(11-30T, 11-32T, 11-34T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG200-8",
+        "status": "current",
+        "note": "(12-32T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "10.8",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "11.1",
+    "components": [
+      {
+        "code": "SL-M310-7R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M315-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS47-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS45-7R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS36-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-7R",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SL-FT55-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX30-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ500-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ20-7R",
+        "status": "discont",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-EF65-7R2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-7R4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-7R2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-7R4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-7R2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-7R4A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF41-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-7R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "11.2",
+    "components": [
+      {
+        "code": "RD-M3020-8",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "11.3",
+    "components": [
+      {
+        "code": "RD-M360-SGS",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-M310-Smart",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TX800-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY500-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY300-SGS",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "RD-TY200-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "11.4",
+    "components": [
+      {
+        "code": "RD-FT35-A-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "11.5",
+    "components": [
+      {
+        "code": "CS-HG210-7",
+        "status": "new",
+        "note": "(12-32T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "11.6",
+    "components": [
+      {
+        "code": "CS-HG400-7",
+        "status": "new",
+        "note": "(11-28T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG210-7",
+        "status": "new",
+        "note": "(12-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "11.7",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "12.1",
+    "components": [
+      {
+        "code": "SL-M310-7R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M315-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS47-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS45-7R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS36-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-7R",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SL-FT55-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX30-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ500-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ20-7R",
+        "status": "discont",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-EF65-7R2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-7R4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-7R2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-7R4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-7R2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-7R4A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF41-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-7R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "12.2",
+    "components": [
+      {
+        "code": "RD-M3020-8",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "12.3",
+    "components": [
+      {
+        "code": "RD-M360-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-M310-Smart",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TX800-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY500-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY300-SGS",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "RD-TY200-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "12.4",
+    "components": [
+      {
+        "code": "RD-FT35-A-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "12.5",
+    "components": [
+      {
+        "code": "CS-HG200-7",
+        "status": "current",
+        "note": "(12-32T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "12.6",
+    "components": [
+      {
+        "code": "CS-HG41-7",
+        "status": "current",
+        "note": "(11-28T)",
+        "warning": ""
+      },
+      {
+        "code": "CS-HG200-7",
+        "status": "current",
+        "note": "(12-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "cassette"
+  },
+  {
+    "name": "12.7",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "13.1",
+    "components": [
+      {
+        "code": "SL-M310-7R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M315-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS47-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS45-7R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS36-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-7R",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SL-FT55-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX30-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ500-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ20-7R",
+        "status": "discont",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-EF65-7R2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-7R4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-7R2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-7R4A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-7R2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-7R4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF41-7R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-7R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "13.2",
+    "components": [
+      {
+        "code": "RD-M360-SGS",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-M310-Smart",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TX800-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY500-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY300-SGS",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "RD-TY200-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "13.3",
+    "components": [
+      {
+        "code": "RD-FT55-A-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      },
+      {
+        "code": "RD-FT35-A-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "13.4",
+    "components": [
+      {
+        "code": "RD-TY200-GS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "13.5",
+    "components": [
+      {
+        "code": "MF-HG37",
+        "status": "discont",
+        "note": "(13-28T)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "13.6",
+    "components": [
+      {
+        "code": "MF-TZ500-7",
+        "status": "current",
+        "note": "(14-34T)",
+        "warning": ""
+      },
+      {
+        "code": "MF-TZ510-7",
+        "status": "current",
+        "note": "(14-34T)",
+        "warning": ""
+      },
+      {
+        "code": "MF-TZ31",
+        "status": "discont",
+        "note": "(14-34T)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "13.7",
+    "components": [
+      {
+        "code": "MF-TZ500-7",
+        "status": "current",
+        "note": "(14-28T)",
+        "warning": ""
+      },
+      {
+        "code": "MF-TZ510-7",
+        "status": "current",
+        "note": "(14-28T)",
+        "warning": ""
+      },
+      {
+        "code": "MF-TZ21",
+        "status": "discont",
+        "note": "(14-28T)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "13.8",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "14.1",
+    "components": [
+      {
+        "code": "SL-RS45-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS36-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS34-6R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX30-6R",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SL-TZ500-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ20-6R",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF41-6R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "14.2",
+    "components": [
+      {
+        "code": "RD-TY500-SGS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY300-SGS",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "RD-TY200-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "14.3",
+    "components": [
+      {
+        "code": "RD-TY21-B-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      },
+      {
+        "code": "RD-FT55-A-SS",
+        "status": "discont",
+        "note": "(For front single)",
+        "warning": ""
+      },
+      {
+        "code": "RD-FT35-A-SS",
+        "status": "current",
+        "note": "(For front single)",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "14.4",
+    "components": [
+      {
+        "code": "RD-TZ500-GS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TZ50-GS",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY21-B-GS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "RD-TY200-GS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "rear derailleur"
+  },
+  {
+    "name": "14.5",
+    "components": [
+      {
+        "code": "MF-TZ30",
+        "status": "discont",
+        "note": "(14-34T)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "14.6",
+    "components": [
+      {
+        "code": "MF-TZ500-6",
+        "status": "current",
+        "note": "(14-28T)",
+        "warning": ""
+      },
+      {
+        "code": "MF-TZ510-6",
+        "status": "current",
+        "note": "(14-28T)",
+        "warning": ""
+      },
+      {
+        "code": "MF-TZ20",
+        "status": "discont",
+        "note": "(14-28T)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "14.7",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "15.1",
+    "components": [
+      {
+        "code": "SL-M9100-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M9100-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8100-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8100-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7100-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7100-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "15.2",
+    "components": [
+      {
+        "code": "FD-M9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M8100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M7100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "15.3",
+    "components": [
+      {
+        "code": "FC-M9100-2",
+        "status": "current",
+        "note": "(for O.L.D. 142 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8100-2",
+        "status": "current",
+        "note": "(for O.L.D. 142 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7100-2",
+        "status": "current",
+        "note": "(for O.L.D. 142 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT610-2",
+        "status": "current",
+        "note": "(for O.L.D. 142 mm)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FC-M9120-B2",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8120-B2",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7120-B2",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT610-B2",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "15.4",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "15.5",
+    "components": [
+      {
+        "code": "CN-M9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M8100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M7100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M6100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "16.1",
+    "components": [
+      {
+        "code": "FC-M9100-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M9120-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8100-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7100-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M6100-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT900-1",
+        "status": "discont",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT610",
+        "status": "discont",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT510-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT511-1",
+        "status": "current",
+        "note": "(for O.L.D. 142, 148 mm)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FC-M9125-1",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8120-1",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7120-1",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M6120-1",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT512-1",
+        "status": "current",
+        "note": "(for O.L.D. 148 mm)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FC-M9130-1",
+        "status": "current",
+        "note": "(for O.L.D. 157 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8130-1",
+        "status": "current",
+        "note": "(for O.L.D. 157 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7130-1",
+        "status": "current",
+        "note": "(for O.L.D. 157 mm)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M6130-1",
+        "status": "current",
+        "note": "(for O.L.D. 157 mm)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "16.2",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "16.3",
+    "components": [
+      {
+        "code": "CN-M9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M8100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M7100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M6100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "17.1",
+    "components": [
+      {
+        "code": "SL-M9000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M9000-IL",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-B-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-B-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "17.2",
+    "components": [
+      {
+        "code": "SW-M9050",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-M8050",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "17.3",
+    "components": [
+      {
+        "code": "FD-M9000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M8000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "17.4",
+    "components": [
+      {
+        "code": "FD-M9050",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "17.5",
+    "components": [
+      {
+        "code": "FC-M9020-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8000-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "17.6",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "17.7",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "18.1",
+    "components": [
+      {
+        "code": "SL-M9000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M9000-IL",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M8000-B-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-B-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M5100-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M5100-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "18.2",
+    "components": [
+      {
+        "code": "SW-M9050",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SW-M8050",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "18.3",
+    "components": [
+      {
+        "code": "FD-M9020",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M9025",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M8020",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M8025",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M7020-11",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M7025-11",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FD-M5100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "18.4",
+    "components": [
+      {
+        "code": "FD-M9070",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M8070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "18.5",
+    "components": [
+      {
+        "code": "FC-M9000-2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M9020-2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M9020-B2",
+        "status": "current",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-M8000-2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8000-B2",
+        "status": "current",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-M7000-2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7000-B2",
+        "status": "discont",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-M5100-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M5100-B2",
+        "status": "current",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-MT700-2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT700-B2",
+        "status": "current",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-MT600-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT600-B2",
+        "status": "discont",
+        "note": "",
+        "warning": "#Unspecified note"
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "18.6",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "18.7",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "19.1",
+    "components": [
+      {
+        "code": "FC-M9000-1",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M9020-1",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M9020-B1",
+        "status": "current",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-M8000-1",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M8000-B1",
+        "status": "current",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-M7000-1",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M7000-B1",
+        "status": "discont",
+        "note": "",
+        "warning": "#Unspecified note"
+      },
+      {
+        "code": "FC-M5100-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "19.2",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "19.3",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "20.1",
+    "components": [
+      {
+        "code": "SL-U8000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U8000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U4000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "20.2",
+    "components": [
+      {
+        "code": "FD-U8010-L",
+        "status": "current",
+        "note": "(For 46-32T at 11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6010-L",
+        "status": "current",
+        "note": "(For 40-26T/46-32T at 11-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "20.3",
+    "components": [
+      {
+        "code": "FD-U6010-L",
+        "status": "current",
+        "note": "(For 40-26T/46-32T at 11-speed)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6000-D",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6000-E",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6000-M",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "20.4",
+    "components": [
+      {
+        "code": "FC-U8000-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6010-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "20.5",
+    "components": [
+      {
+        "code": "FC-U6000-2",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6000-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4010-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4010-2",
+        "status": "current",
+        "note": "(36-22T/40-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "20.6",
+    "components": [
+      {
+        "code": "FC-U4000-2",
+        "status": "current",
+        "note": "(36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4000-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "20.7",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "20.8",
+    "components": [
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UR400",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "20.9",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "20.10",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "21.1",
+    "components": [
+      {
+        "code": "FC-U8000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "21.2",
+    "components": [
+      {
+        "code": "FC-U6000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "21.3",
+    "components": [
+      {
+        "code": "FC-U4000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "21.4",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "21.5",
+    "components": [
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UR400",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "21.6",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "21.7",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "22.1",
+    "components": [
+      {
+        "code": "SL-M7000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-B-IL",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "22.2",
+    "components": [
+      {
+        "code": "FD-M7000-10",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M7005-10",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M611",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M610",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M6000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "22.3",
+    "components": [
+      {
+        "code": "FC-M7000-10",
+        "status": "discont",
+        "note": "(40-30-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M622",
+        "status": "discont",
+        "note": "(40-30-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M523",
+        "status": "discont",
+        "note": "(40-30-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT500-3",
+        "status": "current",
+        "note": "(40-30-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M6000-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "22.4",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M522",
+        "status": "discont",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M523",
+        "status": "discont",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "22.5",
+    "components": [
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "23.1",
+    "components": [
+      {
+        "code": "SL-M7000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M7000-B-IL",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M6000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M5100-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M5100-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "23.2",
+    "components": [
+      {
+        "code": "FD-M617",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M618",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "23.3",
+    "components": [
+      {
+        "code": "FD-M6020",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M6025",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FD-M4100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "23.4",
+    "components": [
+      {
+        "code": "FC-M627",
+        "status": "discont",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M627",
+        "status": "discont",
+        "note": "(38-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M627-B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M617",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M617",
+        "status": "current",
+        "note": "(38-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M617-B2",
+        "status": "discont",
+        "note": "(36-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "23.5",
+    "components": [
+      {
+        "code": "FC-M6000-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M6000-B2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M4100-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M4100-B2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT500-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT500-B2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "23.6",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M522",
+        "status": "discont",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M523",
+        "status": "discont",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "23.7",
+    "components": [
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "24.1",
+    "components": [
+      {
+        "code": "FC-M5100-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "24.2",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M522",
+        "status": "discont",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M523",
+        "status": "discont",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "24.3",
+    "components": [
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "25.1",
+    "components": [
+      {
+        "code": "SL-T8000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M780-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M780-B-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-T670-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M670-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M670-B-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-T610-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M610-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M591-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-T6000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "25.2",
+    "components": [
+      {
+        "code": "FD-T8000-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T8000-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T670-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T670-6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T671-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T610-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T610-6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T611-3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T6000-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T6000-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "25.3",
+    "components": [
+      {
+        "code": "FC-T8000",
+        "status": "current",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T780",
+        "status": "discont",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T781",
+        "status": "discont",
+        "note": "(44-32-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T781",
+        "status": "discont",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M610",
+        "status": "discont",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T611",
+        "status": "discont",
+        "note": "(44-32-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T611",
+        "status": "discont",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T6010",
+        "status": "current",
+        "note": "(44-32-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T6010",
+        "status": "current",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T551",
+        "status": "current",
+        "note": "(44-32-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T551",
+        "status": "current",
+        "note": "(48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T521",
+        "status": "current",
+        "note": "(44-32-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T521",
+        "status": "current",
+        "note": "(48-36-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "25.4",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T521",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "25.5",
+    "components": [
+      {
+        "code": "CN-M981",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M980",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG94",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG75",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG74",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "26.1",
+    "components": [
+      {
+        "code": "SL-U8000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U8000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U4000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "26.2",
+    "components": [
+      {
+        "code": "FD-U8010-L",
+        "status": "current",
+        "note": "(For 46-30T at 10-speed)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6010-L",
+        "status": "current",
+        "note": "(For 46-30T at 10-speed)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "26.3",
+    "components": [
+      {
+        "code": "FD-U6000-D",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6000-E",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U6000-M",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-L",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-D",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-E",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-M",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "26.4",
+    "components": [
+      {
+        "code": "FC-U6000-2",
+        "status": "current",
+        "note": "(46-30T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4010-2",
+        "status": "current",
+        "note": "(46-30T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "26.5",
+    "components": [
+      {
+        "code": "FC-U6000-2",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6000-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4010-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FC-U4010-2",
+        "status": "current",
+        "note": "(36-22T/40-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "26.6",
+    "components": [
+      {
+        "code": "FC-U4000-2",
+        "status": "current",
+        "note": "(36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4000-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "26.7",
+    "components": [
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UR400",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "26.8",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "26.9",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "27.1",
+    "components": [
+      {
+        "code": "FC-U8000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "27.2",
+    "components": [
+      {
+        "code": "FC-U6000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "27.3",
+    "components": [
+      {
+        "code": "FC-U4000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "27.4",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "27.5",
+    "components": [
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UR400",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "27.6",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "27.7",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "28.1",
+    "components": [
+      {
+        "code": "SL-M590-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M4000-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M3100-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M3000-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M2010-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M2000-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M370-L",
+        "status": "discont",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-M4050-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M3050-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M4000-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-T4000-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-T3000-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M370-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-L2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-L4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-L2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-L2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-L4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "28.2",
+    "components": [
+      {
+        "code": "FD-M660-E",
+        "status": "discont",
+        "note": "(for 44-32-22T only)",
+        "warning": ""
+      },
+      {
+        "code": "FD-M661-D",
+        "status": "discont",
+        "note": "(for 44-32-22T only)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "28.3",
+    "components": [
+      {
+        "code": "FD-T4000-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T4000-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T4000-DS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T3000-TS3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-T3000-TS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M370-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M370-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M371-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M371-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "28.4",
+    "components": [
+      {
+        "code": "FD-M4000-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4000-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4000-DS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4000-DS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4000-M",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3100-M",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3000-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3000-TS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M2000-TS3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M2000-TS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M2000-DS3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M2000-DS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "28.5",
+    "components": [
+      {
+        "code": "FC-MT300",
+        "status": "discont",
+        "note": "(44-32-22T only)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT210-3",
+        "status": "current",
+        "note": "(44-32-22T only)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M590",
+        "status": "discont",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M591",
+        "status": "discont",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T4060",
+        "status": "current",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M4060",
+        "status": "discont",
+        "note": "(48-36-26T only)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.6",
+    "components": [
+      {
+        "code": "FC-T4010",
+        "status": "current",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-T3010-8",
+        "status": "discont",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.7",
+    "components": [
+      {
+        "code": "FC-T3010",
+        "status": "current",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M371",
+        "status": "current",
+        "note": "(44-32-22T / 48-36-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT101",
+        "status": "current",
+        "note": "(44-32-22T only)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M351",
+        "status": "discont",
+        "note": "(44-32-22T only)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.8",
+    "components": [
+      {
+        "code": "FC-M4050",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT300",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT210-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.9",
+    "components": [
+      {
+        "code": "FC-M4000",
+        "status": "discont",
+        "note": "(40-30-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M3000-8",
+        "status": "discont",
+        "note": "(40-30-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.10",
+    "components": [
+      {
+        "code": "FC-M3000",
+        "status": "discont",
+        "note": "(40-30-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.11",
+    "components": [
+      {
+        "code": "FC-M2000",
+        "status": "discont",
+        "note": "(40-30-22T only)",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT101",
+        "status": "current",
+        "note": "(40-30-22T only)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "28.12",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "28.13",
+    "components": [
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "28.14",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "28.15",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "28.16",
+    "components": [
+      {
+        "code": "CN-HG93",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG53",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "29.1",
+    "components": [
+      {
+        "code": "SL-M4010-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M3100-2L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M3010-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M2010-2L",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-EF505-2L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "29.2",
+    "components": [
+      {
+        "code": "FD-M4020-D",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4020-E",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4020-M",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3120-M",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M2020-TS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "29.3",
+    "components": [
+      {
+        "code": "FD-T3000-2-TS3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "29.4",
+    "components": [
+      {
+        "code": "FD-M4020-D",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4020-E",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M4020-M-B",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3120-D",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3120-E",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M3120-M-B",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M2020-TS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "29.5",
+    "components": [
+      {
+        "code": "FC-MT210-2",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "29.6",
+    "components": [
+      {
+        "code": "FC-MT101-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "29.7",
+    "components": [
+      {
+        "code": "FC-MT210-2",
+        "status": "current",
+        "note": "(46-30T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "29.8",
+    "components": [
+      {
+        "code": "FC-M4050-B2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT210-B2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "29.9",
+    "components": [
+      {
+        "code": "FC-M3000-B2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-MT101-B2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "29.10",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "29.11",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "29.12",
+    "components": [
+      {
+        "code": "CN-HG93",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG53",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "30.1",
+    "components": [
+      {
+        "code": "SL-U8000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U8000-IL",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U6000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-U4000-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "30.2",
+    "components": [
+      {
+        "code": "FD-U4010-L",
+        "status": "current",
+        "note": "(For 46-30T)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "30.3",
+    "components": [
+      {
+        "code": "FD-U4000-L",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-D",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-E",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-U4000-M",
+        "status": "current",
+        "note": "(For 36-22T/40-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "30.4",
+    "components": [
+      {
+        "code": "FC-U6000-2",
+        "status": "current",
+        "note": "(46-30T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4010-2",
+        "status": "current",
+        "note": "(46-30T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "30.5",
+    "components": [
+      {
+        "code": "FC-U6000-2",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6000-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4010-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "FC-U4010-2",
+        "status": "current",
+        "note": "(36-22T/40-26T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "30.6",
+    "components": [
+      {
+        "code": "FC-U4000-2",
+        "status": "current",
+        "note": "(36-22T/40-26T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-U4000-2B",
+        "status": "current",
+        "note": "(36-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "30.7",
+    "components": [
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UR400",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "30.8",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "30.9",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "31.1",
+    "components": [
+      {
+        "code": "FC-U8000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "31.2",
+    "components": [
+      {
+        "code": "FC-U6000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "31.3",
+    "components": [
+      {
+        "code": "FC-U4000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "31.4",
+    "components": [
+      {
+        "code": "SM-BB93",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB80",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB52",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "31.5",
+    "components": [
+      {
+        "code": "BB-MT801",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UR400",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "SM-BB94-41A",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT800-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-MT500-PA",
+        "status": "current",
+        "note": "(Press-Fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "31.6",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "31.7",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "32.1",
+    "components": [
+      {
+        "code": "SL-M360-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M310-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M315-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS47-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS45-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-LN",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-M310-L2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-M310-L4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-TX800-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-L2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-L4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-L2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-L4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-L2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-L4A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "32.2",
+    "components": [
+      {
+        "code": "FD-M410-E",
+        "status": "discont",
+        "note": "(for 42-32-22T only)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "32.3",
+    "components": [
+      {
+        "code": "FD-M313-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M313-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M310-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M310-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TX800-TS3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TX800-TS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "32.4",
+    "components": [
+      {
+        "code": "FD-TY700-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY700-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "32.5",
+    "components": [
+      {
+        "code": "FD-TY710-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY710-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY601-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY601-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "32.6",
+    "components": [
+      {
+        "code": "FC-M361",
+        "status": "discont",
+        "note": "(42-32-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M311",
+        "status": "discont",
+        "note": "(42-32-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TX801",
+        "status": "current",
+        "note": "(42-32-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "32.7",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "32.8",
+    "components": [
+      {
+        "code": "FC-M361",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M311",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TX801",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "32.9",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "32.10",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "33.1",
+    "components": [
+      {
+        "code": "SL-M315-2L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-2L2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-2L4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-2L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-2L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "33.2",
+    "components": [
+      {
+        "code": "FD-M315-TS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "33.3",
+    "components": [
+      {
+        "code": "FD-TY710-2-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY606-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "33.4",
+    "components": [
+      {
+        "code": "FC-M315-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M315-B2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "33.5",
+    "components": [
+      {
+        "code": "FC-TY501-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "33.6",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "33.7",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "34.1",
+    "components": [
+      {
+        "code": "FC-U2000-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "34.2",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "34.3",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "35.1",
+    "components": [
+      {
+        "code": "SL-M310-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-M315-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS47-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS45-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-L",
+        "status": "current",
+        "note": "",
+        "warning": "",
+        "noteStop": true
+      },
+      {
+        "code": "ST-EF65-L2",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF65-L4",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-L2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-L4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-L2A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF510-L4A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF41-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "35.2",
+    "components": [
+      {
+        "code": "SL-TX30-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ500-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ20-LN",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS36-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "35.3",
+    "components": [
+      {
+        "code": "FD-M410-E",
+        "status": "discont",
+        "note": "(for 42-32-22T only)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.4",
+    "components": [
+      {
+        "code": "FD-M313-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M313-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M310-3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-M310-6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TX800-TS3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TX800-TS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.5",
+    "components": [
+      {
+        "code": "FD-TY700-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY700-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.6",
+    "components": [
+      {
+        "code": "FD-TY500-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY500-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.7",
+    "components": [
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(475)",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(50)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.8",
+    "components": [
+      {
+        "code": "FD-TY710-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY710-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY601-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY601-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.9",
+    "components": [
+      {
+        "code": "FD-TY510-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY510-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.10",
+    "components": [
+      {
+        "code": "FD-TY700-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY700-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.11",
+    "components": [
+      {
+        "code": "FD-TY510-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY510-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.12",
+    "components": [
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(475)",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(50)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.13",
+    "components": [
+      {
+        "code": "FD-TZ500-DS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TZ30",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.14",
+    "components": [
+      {
+        "code": "FD-TY500-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY500-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.15",
+    "components": [
+      {
+        "code": "FD-TZ510-DS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TZ31",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "35.16",
+    "components": [
+      {
+        "code": "FC-M361",
+        "status": "discont",
+        "note": "(42-32-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M311",
+        "status": "discont",
+        "note": "(42-32-22T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TX801",
+        "status": "current",
+        "note": "(42-32-22T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "35.17",
+    "components": [
+      {
+        "code": "FC-M361",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M311",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TX801",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "35.18",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "35.19",
+    "components": [
+      {
+        "code": "FC-M361",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M311",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TX801",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "35.20",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "35.21",
+    "components": [
+      {
+        "code": "FC-M361",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-M311",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TX801",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "35.22",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "35.23",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "36.1",
+    "components": [
+      {
+        "code": "SL-M315-2L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-2L2A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF500-2L4A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF505-2L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF515-2L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "36.2",
+    "components": [
+      {
+        "code": "FD-M315-TS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "36.3",
+    "components": [
+      {
+        "code": "FD-TY710-2-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY606-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "36.4",
+    "components": [
+      {
+        "code": "FC-M315-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-M315-B2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "36.5",
+    "components": [
+      {
+        "code": "FC-TY501-2",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "36.6",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
+  },
+  {
+    "name": "36.7",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ]
+  },
+  {
+    "name": "37.1",
+    "components": [
+      {
+        "code": "SL-RS45-L",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-EF41-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "37.2",
+    "components": [
+      {
+        "code": "SL-RS36-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RS35-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV400-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV300-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-RV200-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX50-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TX30-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ500-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-TZ20-LN",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "37.3",
+    "components": [
+      {
+        "code": "FD-TY600-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY500-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY500-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.4",
+    "components": [
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(475)",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(50)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.5",
+    "components": [
+      {
+        "code": "FD-TY600-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY600-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY500-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY500-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.6",
+    "components": [
+      {
+        "code": "FD-TY601-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY601-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY510-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY510-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.7",
+    "components": [
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(475)",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY300-DS6",
+        "status": "current",
+        "note": "(50)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.8",
+    "components": [
+      {
+        "code": "FD-TZ500-DS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TZ30",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.9",
+    "components": [
+      {
+        "code": "FD-TY601-L3",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY601-L6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY510-TS3",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TY510-TS6",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.10",
+    "components": [
+      {
+        "code": "FD-TZ510-DS6",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-TZ31",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "37.11",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "37.12",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "37.13",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(42-34-24T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "37.14",
+    "components": [
+      {
+        "code": "FC-TY701",
+        "status": "discont",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY501",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      },
+      {
+        "code": "FC-TY301",
+        "status": "current",
+        "note": "(48-38-28T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "37.15",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom braket"
   }
 ]

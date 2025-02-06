@@ -161,54 +161,2085 @@ CN-HG601-11
 CN-LG500
 
 ### Block 3.1
+SL-M8130-R11
+SL-M8130-IR11
+SL-U8000-11R
+SL-U8000-11IR
+SL-U6000-11R
+SL-U6050-11R**
+
 ### Block 3.2
+RD-U8020
+RD-U6020-11
+(45T≤Largest sprocket
+≤45T for 2x11-speed)
+
 ### Block 3.3
+RD-U6000
+(48T≤Largest sprocket
+≤50T for 1x11/10-speed)
+
 ### Block 3.4
+RD-M8130-SGS
+RD-U8000
+(50T≤Largest sprocket
+≤50T for 1x11-speed)
+
 ### Block 3.5
+CS-LG700-11
+CS-LG400-11
+(11-45T)
+
 ### Block 3.6
+CS-LG700-11
+CS-LG600-11*
+CS-LG400-11
+(11-50T)
+
 ### Block 3.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
 
 ### Block 4.1
+SW-EN605-R**
+
 ### Block 4.2
+SW-M8150-R
+SW-M8150-IR
+SW-EM800-L
+SW-EN600-R
+
 ### Block 4.3
+RD-U8050-SGS**
+#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later
+(45T≤Largest sprocket
+≤50T for 1x11-speed)
+
 ### Block 4.4
+RD-M8150-11
+#Only for E-BIKE
+RD-U6070
+#Only for E-BIKE
+(50T≤Largest sprocket
+≤50T for 1x11-speed)
+
 ### Block 4.5
+CS-LG700-11
+CS-LG400-11
+(11-45T)
+
 ### Block 4.6
+CS-LG700-11
+CS-LG600-11*
+CS-LG400-11
+(11-50T)
+
 ### Block 4.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
 
 ### Block 5.1
+SL-M7000-10-R
+SL-M7000-10-IR
+SL-M7000-10-B-IR
+SL-M6000-R
+SL-M6000-IR
+SL-M4100-R
+SL-M4100-IR
+---
+SL-M820-R
+SL-M820-B-IR
+SL-M640-R*
+SL-M610-R*
+SL-M610-IR
+---
+SL-T8000-R
+SL-T6000-R
+SL-T670-R*
+SL-T610-R*
+
 ### Block 5.2
+RD-M5120-SGS
+(42T≤Largest sprocket
+≤46T for 1x11 and
+1x10-speed,
+42T for 2x11 and
+2x10-speed)
+
 ### Block 5.3
+RD-M4120-SGS
+(42T≤Largest sprocket
+≤42T for 2x11 and
+2x10-speed)
+RD-M6000-GS
+
 ### Block 5.4
+RD-M7000-10
+RD-T8000
+RD-M6000-SGS
+RD-T6000
+(32T≤Largest sprocket
+≤36T)
+
 ### Block 5.5
+RD-M820
+(23T≤Largest sprocket
+≤28T)
+#Compatible with ROAD cassette
+(32T≤Largest sprocket
+≤36T)
+#Mode converter
+---
+RD-M640*
+#Compatible with ROAD cassette
+(23T≤Largest sprocket
+≤28T
+downhill spec. / 32T≤Largest sprocket
+≤36T
+free ride spec.)
+
 ### Block 5.6
+RD-T780*
+RD-T670-A*
+RD-T610*
+#Compatible with ROAD cassette
+(28T≤Largest sprocket
+≤34T)
+
 ### Block 5.7
+CS-M4100-10
+(11-46T,
+1x10-speed)
+
 ### Block 5.8
+CS-M4100-10
+(11-42T)
+CS-HG500-10*
+(11-42T)
+
 ### Block 5.9
+CS-M771-10
+CS-HG81-10*
+CS-HG50-10
+(11-36T)
+
 ### Block 5.10
+CS-M771-10
+CS-HG81-10*
+CS-HG500-10
+(11-32T,
+11-34T)
+
 ### Block 5.11
+CS-6700
+CS-5700*
+CS-HG500-10
+
 ### Block 5.12
+CN-HG95
+CN-HG54
 
 ### Block 6.1
+SL-M5130-R10
+SL-U6000-10R
+SL-U6050-10R**
+
 ### Block 6.2
+RD-U6020-10
+(39T≤Largest sprocket
+≤39T for 2x10-speed)
+
 ### Block 6.3
+RD-U4010**
+(39T≤Largest sprocket
+≤39T for 1x10-speed)
+
 ### Block 6.4
+RD-M5130-GS
+(43T≤Largest sprocket
+≤43T for 1x10-speed)
+
 ### Block 6.5
+RD-U6000
+(48T≤Largest sprocket
+≤50T for 1x11/10-speed)
+
 ### Block 6.6
+CS-LG400-10
+CS-LG300-10
+(11-39T)
+
 ### Block 6.7
+CS-LG600-10*
+CS-LG400-10
+(11-43T)
+
 ### Block 6.8
+CS-LG400-10
+CS-LG300-10
+(11-48T)
+
 ### Block 6.9
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
 
 ### Block 7.1
+SW-EN605-R**
+
 ### Block 7.2
+SW-M8150-R
+SW-M8150-IR
+SW-EM800-L
+SW-EN600-R
+
 ### Block 7.3
+RD-U8050-SGS**
+#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later
+(48T≤Largest sprocket
+≤48T for 1x10-speed)
+
 ### Block 7.4
+RD-U8050-GS**
+#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later
+(43T≤Largest sprocket
+≤43T for 1x10-speed)
+
 ### Block 7.5
+RD-U6050
+#Only for SHIMANO E-BIKE SYSTEMS
+(43T≤Largest sprocket
+≤43T for 1x10-speed)
+
 ### Block 7.6
+CS-LG400-10
+CS-LG300-10
+(11-48T)
+
 ### Block 7.7
+CS-LG600-10*
+CS-LG400-10
+(11-43T)
+
 ### Block 7.8
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
 
+### Block 8.1
+SL-M590-R
+SL-M4000-R*
+SL-M3100-R
+SL-M3000-R
+SL-M2010-9R
+SL-M2000-R*
+SL-M370-R*
+---
+ST-M4050-R*
+ST-M3050-R*
+ST-M4000-R*
+ST-T4000-R*
+ST-T3000-R*
+ST-M370-R*
+ST-EF65-9R2*
+ST-EF65-9R4*
+ST-EF510-9R2A*
+ST-EF505-9R
 
+### Block 8.2
+RD-M772-GS*
+RD-M772-SGS*
+RD-M592-SGS*
+RD-M4000-SGS*
+RD-M3100-SGS
+RD-M3000-SGS*
+RD-M2000-SGS
+(32T≤Largest sprocket
+≤36T)
 
+### Block 8.3
+RD-M771-SGS*
+RD-M591-SGS*
+RD-T4000-SGS
+RD-T3000-SGS
+RD-M370-SGS
+(28T≤Largest sprocket
+≤34T)
 
+### Block 8.4
+CS-HG400-9
+(11-36T/12-36T)
+CS-HG300-9*
+(12-36T)
+
+### Block 8.5
+CS-HG201-9
+CS-HG200-9
+(11-36T)
+
+### Block 8.6
+CS-HG400-9
+CS-HG300-9*
+CS-HG201-9
+CS-HG200-9
+(11-32T/11-34T)
+
+### Block 8.7
+CS-HG400-9
+(11-28T)
+
+### Block 8.8
+CN-HG93
+CN-HG53
+
+### Block 9.1
+SL-U4000-9R
+SL-U4010-9R
+SL-U4050-9R**
+
+### Block 9.2
+RD-U4020
+RD-U3020
+(36T≤Largest sprocket
+≤36T
+for 2x9-speed)
+
+### Block 9.3
+RD-U4010**
+(36T≤Largest sprocket
+≤36T
+for 1x9-speed)
+
+### Block 9.4
+RD-U4000
+(41T≤Largest sprocket
+≤46T
+for 1x9-speed)
+
+### Block 9.5
+CS-LG400-9
+CS-LG300-9
+(11-36T)
+
+### Block 9.6
+CS-LG400-9
+CS-LG300-9
+(11-41T, 11-46T)
+
+### Block 9.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 10.1
+SL-M360-R
+SL-M310-8R*
+SL-M315-8R
+SL-RS47-8R
+SL-RS45-8R*
+SL-RV400-8R
+---
+ST-M310-8R2
+ST-M310-8R4*
+ST-TX800-8R
+ST-EF65-8R2*
+ST-EF65-8R4*
+ST-EF500-8R2A
+ST-EF500-8R4A
+ST-EF510-8R2A*
+ST-EF510-8R4A*
+ST-EF505-8R
+ST-EF515-8R**
+
+### Block 10.2
+RD-U2000**
+(45T≤Largest sprocket
+≤45T for 1x8-speed)
+
+### Block 10.3
+RD-M3020-8
+(30T≤Largest sprocket
+≤40T)
+
+### Block 10.4
+RD-M360-SGS*
+RD-M310-Smart
+RD-TX800-SGS
+(28T≤Largest sprocket
+≤34T)
+
+### Block 10.5
+CS-HG400-8
+CS-HG300-8**
+(11-45T)
+
+### Block 10.6
+CS-HG400-8
+(11-40T)
+
+### Block 10.7
+CS-HG51-8
+(11-28T, 11-30T, 11-32T)
+CS-HG41-8
+CS-HG31-8
+(11-30T, 11-32T, 11-34T)
+CS-HG200-8
+(12-32T)
+
+### Block 10.8
+CN-HG71
+CN-HG40
+
+### Block 11.1
+SL-M310-7R*
+SL-M315-7R
+SL-RS47-7R
+SL-RS45-7R*
+SL-RS36-7R
+SL-RS35-7R
+SL-RV400-7R
+SL-RV300-7R
+SL-RV200-7R
+---
+SL-FT55-7R
+SL-TX50-7R
+SL-TX30-7R
+SL-TZ500-7R
+SL-TZ20-7R*
+---
+ST-EF65-7R2*
+ST-EF65-7R4*
+ST-EF500-7R2A
+ST-EF500-7R4A
+ST-EF510-7R2A*
+ST-EF510-7R4A*
+ST-EF505-7R
+ST-EF41-7R
+ST-EF515-7R**
+
+### Block 11.2
+RD-M3020-8
+
+### Block 11.3
+RD-M360-SGS*
+RD-M310-Smart
+RD-TX800-SGS
+RD-TY500-SGS
+RD-TY300-SGS
+---
+RD-TY200-SS
+(For front single)
+
+### Block 11.4
+RD-FT35-A-SS
+(For front single)
+
+### Block 11.5
+CS-HG210-7**
+(12-32T)
+
+### Block 11.6
+CS-HG400-7**
+(11-28T)
+CS-HG210-7**
+(12-28T)
+
+### Block 11.7
+CN-HG71
+CN-HG40
+
+### Block 12.1
+SL-M310-7R*
+SL-M315-7R
+SL-RS47-7R
+SL-RS45-7R*
+SL-RS36-7R
+SL-RS35-7R
+SL-RV400-7R
+SL-RV300-7R
+SL-RV200-7R
+---
+SL-FT55-7R
+SL-TX50-7R
+SL-TX30-7R
+SL-TZ500-7R
+SL-TZ20-7R*
+---
+ST-EF65-7R2*
+ST-EF65-7R4*
+ST-EF500-7R2A
+ST-EF500-7R4A
+ST-EF510-7R2A*
+ST-EF510-7R4A*
+ST-EF505-7R
+ST-EF41-7R
+ST-EF515-7R**
+
+### Block 12.2
+RD-M3020-8
+
+### Block 12.3
+RD-M360-SGS
+RD-M310-Smart
+RD-TX800-SGS
+RD-TY500-SGS
+RD-TY300-SGS
+---
+RD-TY200-SS
+(For front single)
+
+### Block 12.4
+RD-FT35-A-SS
+(For front single)
+
+### Block 12.5
+CS-HG200-7
+(12-32T)
+
+### Block 12.6
+CS-HG41-7
+(11-28T)
+CS-HG200-7
+(12-28T)
+
+### Block 12.7
+CN-HG71
+CN-HG40
+
+### Block 13.1
+SL-M310-7R*
+SL-M315-7R
+SL-RS47-7R
+SL-RS45-7R*
+SL-RS36-7R
+SL-RS35-7R
+SL-RV400-7R
+SL-RV300-7R
+SL-RV200-7R
+---
+SL-FT55-7R
+SL-TX50-7R
+SL-TX30-7R
+SL-TZ500-7R
+SL-TZ20-7R*
+---
+ST-EF65-7R2*
+ST-EF65-7R4*
+ST-EF500-7R2A
+ST-EF500-7R4A*
+ST-EF510-7R2A*
+ST-EF510-7R4A
+ST-EF505-7R
+ST-EF41-7R
+ST-EF515-7R**
+
+### Block 13.2
+RD-M360-SGS*
+RD-M310-Smart
+RD-TX800-SGS
+RD-TY500-SGS
+RD-TY300-SGS
+---
+RD-TY200-SS
+(For front single)
+
+### Block 13.3
+RD-FT55-A-SS
+RD-FT35-A-SS
+(For front single)
+
+### Block 13.4
+RD-TY200-GS
+
+### Block 13.5
+MF-HG37*
+(13-28T)
+
+### Block 13.6
+MF-TZ500-7
+(14-34T)
+MF-TZ510-7
+(14-34T)
+MF-TZ31*
+(14-34T)
+
+### Block 13.7
+MF-TZ500-7
+(14-28T)
+MF-TZ510-7
+(14-28T)
+MF-TZ21*
+(14-28T)
+
+### Block 13.8
+CN-HG71
+CN-HG40
+
+### Block 14.1
+SL-RS45-6R
+SL-RS36-6R
+SL-RS35-6R
+SL-RS34-6R*
+SL-RV400-6R
+SL-RV300-6R
+SL-RV200-6R
+SL-TX50-6R
+SL-TX30-6R
+---
+SL-TZ500-6R
+SL-TZ20-6R*
+ST-EF41-6R
+
+### Block 14.2
+RD-TY500-SGS
+RD-TY300-SGS
+---
+RD-TY200-SS
+(For front single)
+
+### Block 14.3
+RD-TY21-B-SS
+RD-FT55-A-SS*
+RD-FT35-A-SS
+(For front single)
+
+### Block 14.4
+RD-TZ500-GS
+RD-TZ50-GS*
+RD-TY21-B-GS
+RD-TY200-GS
+
+### Block 14.5
+MF-TZ30*
+(14-34T)
+
+### Block 14.6
+MF-TZ500-6
+(14-28T)
+MF-TZ510-6
+(14-28T)
+MF-TZ20*
+(14-28T)
+
+### Block 14.7
+CN-HG71
+CN-HG40
+
+### Block 15.1
+SL-M9100-L
+SL-M9100-IL
+SL-M8100-L
+SL-M8100-IL
+SL-M7100-L
+SL-M7100-IL
+
+### Block 15.2
+FD-M9100
+FD-M8100
+FD-M7100
+
+### Block 15.3
+FC-M9100-2
+FC-M8100-2
+FC-M7100-2
+FC-MT610-2
+(for O.L.D. 142 mm)
+---
+FC-M9120-B2
+FC-M8120-B2
+FC-M7120-B2
+FC-MT610-B2
+(for O.L.D. 148 mm)
+
+### Block 15.4
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 15.5
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 16.1
+FC-M9100-1
+FC-M9120-1
+FC-M8100-1
+FC-M7100-1
+FC-M6100-1
+FC-MT900-1*
+FC-MT610*
+FC-MT510-1
+FC-MT511-1
+(for O.L.D. 142, 148 mm)
+---
+FC-M9125-1
+FC-M8120-1
+FC-M7120-1
+FC-M6120-1
+FC-MT512-1
+(for O.L.D. 148 mm)
+---
+FC-M9130-1
+FC-M8130-1
+FC-M7130-1
+FC-M6130-1
+(for O.L.D. 157 mm)
+
+### Block 16.2
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 16.3
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 17.1
+SL-M9000-L
+SL-M9000-IL*
+SL-M8000-L
+SL-M8000-IL
+SL-M8000-B-IL
+SL-M7000-L
+SL-M7000-IL
+SL-M7000-B-IL
+
+### Block 17.2
+SW-M9050*
+SW-M8050
+
+### Block 17.3
+FD-M9000*
+FD-M8000*
+
+### Block 17.4
+FD-M9050*
+
+### Block 17.5
+FC-M9020-3*
+FC-M8000-3*
+
+### Block 17.6
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 17.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 18.1
+SL-M9000-L
+SL-M9000-IL*
+SL-M8000-L
+SL-M8000-IL
+SL-M8000-B-IL
+SL-M7000-L
+SL-M7000-IL
+SL-M7000-B-IL
+SL-M5100-L
+SL-M5100-IL
+
+### Block 18.2
+SW-M9050*
+SW-M8050
+
+### Block 18.3
+FD-M9020*
+FD-M9025*
+FD-M8020*
+FD-M8025*
+FD-M7020-11*
+FD-M7025-11
+---
+FD-M5100
+
+### Block 18.4
+FD-M9070*
+FD-M8070
+
+### Block 18.5
+FC-M9000-2*
+FC-M9020-2*
+FC-M9020-B2
+#Unspecified note
+FC-M8000-2*
+FC-M8000-B2
+#Unspecified note
+FC-M7000-2*
+FC-M7000-B2*
+#Unspecified note
+FC-M5100-2
+FC-M5100-B2
+#Unspecified note
+FC-MT700-2*
+FC-MT700-B2
+#Unspecified note
+FC-MT600-2
+FC-MT600-B2*
+#Unspecified note
+
+### Block 18.6
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 18.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 19.1
+FC-M9000-1*
+FC-M9020-1*
+FC-M9020-B1
+#Unspecified note
+FC-M8000-1*
+FC-M8000-B1
+#Unspecified note
+FC-M7000-1*
+FC-M7000-B1*
+#Unspecified note
+FC-M5100-1
+
+### Block 19.2
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 19.3
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 20.1
+SL-U8000-L
+SL-U8000-IL
+SL-U6000-L
+SL-U4000-L
+
+### Block 20.2
+FD-U8010-L
+(For 46-32T
+at 11-speed)
+FD-U6010-L
+(For 40-26T/46-32T
+at 11-speed)
+
+### Block 20.3
+FD-U6010-L
+(For 40-26T/46-32T
+at 11-speed)
+FD-U6000-D
+FD-U6000-E
+FD-U6000-M
+(For 36-22T/40-26T)
+
+### Block 20.4
+FC-U8000-2
+FC-U6010-2
+
+### Block 20.5
+FC-U6000-2
+FC-U6000-2B
+FC-U4010-2B
+(36-22T)
+FC-U4010-2
+(36-22T/40-26T)
+
+### Block 20.6
+FC-U4000-2
+(36-22T/40-26T)
+FC-U4000-2B
+(36-22T)
+
+### Block 20.7
+SM-BB93
+SM-BB80
+BB-MT800
+SM-BB52
+BB-MT500
+(Threaded type)
+
+### Block 20.8
+BB-MT801
+BB-MT501
+BB-UR400
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 20.9
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 20.10
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 21.1
+FC-U8000-1
+
+### Block 21.2
+FC-U6000-1
+
+### Block 21.3
+FC-U4000-1
+
+### Block 21.4
+SM-BB93
+SM-BB80
+BB-MT800
+SM-BB52
+BB-MT500
+(Threaded type)
+
+### Block 21.5
+BB-MT801
+BB-MT501
+BB-UR400
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 21.6
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 21.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 22.1
+SL-M7000-L
+SL-M7000-IL
+SL-M7000-B-IL*
+SL-M6000-L
+SL-M6000-IL
+SL-M610-L*
+SL-M610-IL
+
+### Block 22.2
+FD-M7000-10*
+FD-M7005-10*
+FD-M611
+FD-M610
+FD-M6000
+
+### Block 22.3
+FC-M7000-10*
+(40-30-22T)
+FC-M622*
+(40-30-22T)
+FC-M523*
+(40-30-22T)
+FC-MT500-3
+(40-30-22T)
+FC-M6000-3*
+
+### Block 22.4
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+---
+BB-ES300
+FC-M522*
+FC-M523*
+(OCTALINK)
+
+### Block 22.5
+CN-HG95
+CN-HG54
+
+### Block 23.1
+SL-M7000-L
+SL-M7000-IL
+SL-M7000-B-IL*
+SL-M6000-L
+SL-M6000-IL
+SL-M5100-L
+SL-M5100-IL
+SL-M610-L*
+SL-M610-IL
+
+### Block 23.2
+FD-M617
+FD-M618
+
+### Block 23.3
+FD-M6020*
+FD-M6025
+---
+FD-M4100
+
+### Block 23.4
+FC-M627*
+(36-22T)
+FC-M627*
+(38-24T)
+FC-M627-B
+(36-22T)
+FC-M617
+(36-22T)
+FC-M617
+(38-24T)
+FC-M617-B2*
+(36-22T)
+
+### Block 23.5
+FC-M6000-2
+FC-M6000-B2*
+FC-M4100-2
+FC-M4100-B2
+FC-MT500-2
+FC-MT500-B2*
+
+### Block 23.6
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+---
+BB-ES300
+FC-M522*
+FC-M523*
+(OCTALINK)
+
+### Block 23.7
+CN-HG95
+CN-HG54
+
+### Block 24.1
+FC-M5100-1
+
+### Block 24.2
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+---
+BB-ES300
+FC-M522*
+FC-M523*
+(OCTALINK)
+
+### Block 24.3
+CN-HG95
+CN-HG54
+
+### Block 25.1
+SL-T8000-L
+SL-M780-L
+SL-M780-B-IL
+SL-T670-L*
+SL-M670-L*
+SL-M670-B-IL
+SL-T610-L*
+SL-M610-L*
+SL-M610-IL
+SL-M591-L*
+SL-T6000-L
+
+### Block 25.2
+FD-T8000-3
+FD-T8000-6
+FD-T670-3*
+FD-T670-6*
+FD-T671-3*
+FD-T610-3*
+FD-T610-6*
+FD-T611-3*
+FD-T6000-3
+FD-T6000-6
+
+### Block 25.3
+FC-T8000
+(48-36-26T)
+FC-T780*
+(48-36-26T)
+FC-T781*
+(44-32-24T)
+FC-T781*
+(48-36-26T)
+FC-M610*
+(48-36-26T)
+FC-T611*
+(44-32-24T)
+FC-T611*
+(48-36-26T)
+FC-T6010
+(44-32-24T)
+FC-T6010
+(48-36-26T)
+FC-T551
+(44-32-24T)
+FC-T551
+(48-36-26T)
+FC-T521
+(44-32-24T)
+FC-T521
+(48-36-26T)
+
+### Block 25.4
+SM-BB93
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+---
+BB-ES300
+FC-T521
+(OCTALINK)
+
+### Block 25.5
+CN-M981*
+CN-M980*
+CN-HG95
+CN-HG94*
+CN-HG75*
+CN-HG74*
+CN-HG54
+
+### Block 26.1
+SL-U8000-L
+SL-U8000-IL
+SL-U6000-L
+SL-U4000-L
+
+### Block 26.2
+FD-U8010-L
+(For 46-30T
+at 10-speed)
+FD-U6010-L
+(For 46-30T
+at 10-speed)
+
+### Block 26.3
+FD-U6000-D
+FD-U6000-E
+FD-U6000-M
+FD-U4000-L
+FD-U4000-D
+FD-U4000-E
+FD-U4000-M
+(For 36-22T/40-26T)
+
+### Block 26.4
+FC-U6000-2
+FC-U4010-2
+(46-30T)
+
+### Block 26.5
+FC-U6000-2
+FC-U6000-2B
+FC-U4010-2B
+(36-22T)
+---
+FC-U4010-2
+(36-22T/40-26T)
+
+### Block 26.6
+FC-U4000-2
+(36-22T/40-26T)
+FC-U4000-2B
+(36-22T)
+
+### Block 26.7
+BB-MT801
+BB-MT501
+BB-UR400
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 26.8
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 26.9
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 27.1
+FC-U8000-1
+
+### Block 27.2
+FC-U6000-1
+
+### Block 27.3
+FC-U4000-1
+
+### Block 27.4
+SM-BB93
+SM-BB80
+BB-MT800
+SM-BB52
+BB-MT500
+(Threaded type)
+
+### Block 27.5
+BB-MT801
+BB-MT501
+BB-UR400
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 27.6
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 27.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 28.1
+SL-M590-L
+SL-M4000-L*
+SL-M3100-L
+SL-M3000-L*
+SL-M2010-L
+SL-M2000-L*
+SL-M370-L*
+---
+ST-M4050-L*
+ST-M3050-L*
+ST-M4000-L*
+ST-T4000-L*
+ST-T3000-L*
+ST-M370-L*
+ST-EF65-L2*
+ST-EF65-L4*
+ST-EF510-L2A*
+ST-EF500-L2A
+ST-EF500-L4A
+ST-EF505-L
+
+### Block 28.2
+FD-M660-E*
+FD-M661-D*
+(for 44-32-22T only)
+
+### Block 28.3
+FD-T4000-TS3*
+FD-T4000-TS6*
+FD-T4000-DS3*
+FD-T3000-TS3
+FD-T3000-TS6
+FD-M370-3
+FD-M370-6
+FD-M371-3
+FD-M371-6
+
+### Block 28.4
+FD-M4000-TS3*
+FD-M4000-TS6*
+FD-M4000-DS3*
+FD-M4000-DS6*
+FD-M4000-M*
+FD-M3100-M
+FD-M3000-TS3*
+FD-M3000-TS6
+FD-M2000-TS3
+FD-M2000-TS6
+FD-M2000-DS3
+FD-M2000-DS6
+
+### Block 28.5
+FC-MT300*
+FC-MT210-3
+(44-32-22T only)
+FC-M590*
+FC-M591*
+FC-T4060
+(44-32-22T / 48-36-26T)
+FC-M4060*
+(48-36-26T only)
+
+### Block 28.6
+FC-T4010
+FC-T3010-8*
+(44-32-22T / 48-36-26T)
+
+### Block 28.7
+FC-T3010
+FC-M371
+(44-32-22T / 48-36-26T)
+FC-MT101
+(44-32-22T only)
+FC-M351*
+(44-32-22T only)
+
+### Block 28.8
+FC-M4050*
+FC-MT300*
+FC-MT210-3
+
+### Block 28.9
+FC-M4000*
+FC-M3000-8*
+(40-30-22T)
+
+### Block 28.10
+FC-M3000*
+(40-30-22T)
+
+### Block 28.11
+FC-M2000*
+FC-MT101
+(40-30-22T only)
+
+### Block 28.12
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 28.13
+BB-ES300
+(OCTALINK)
+
+### Block 28.14
+BB-UN55*
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 28.15
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 28.16
+CN-HG93
+CN-HG53
+
+### Block 29.1
+SL-M4010-L*
+SL-M3100-2L
+SL-M3010-L
+SL-M2010-2L
+---
+ST-EF505-2L
+
+### Block 29.2
+FD-M4020-D*
+FD-M4020-E*
+FD-M4020-M
+FD-M3120-M
+FD-M2020-TS
+
+### Block 29.3
+FD-T3000-2-TS3
+
+### Block 29.4
+FD-M4020-D*
+FD-M4020-E*
+FD-M4020-M-B*
+FD-M3120-D
+FD-M3120-E
+FD-M3120-M-B
+FD-M2020-TS
+
+### Block 29.5
+FC-MT210-2
+(36-22T)
+
+### Block 29.6
+FC-MT101-2
+
+### Block 29.7
+FC-MT210-2
+(46-30T)
+
+### Block 29.8
+FC-M4050-B2*
+FC-MT210-B2
+
+### Block 29.9
+FC-M3000-B2*
+FC-MT101-B2
+
+### Block 29.10
+SM-BB93
+SM-BB80
+BB-MT801
+BB-MT800
+SM-BB52
+BB-MT501
+BB-MT500
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 29.11
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 29.12
+CN-HG93
+CN-HG53
+
+### Block 30.1
+SL-U8000-L
+SL-U8000-IL
+SL-U6000-L
+SL-U4000-L
+
+### Block 30.2
+FD-U4010-L
+(For 46-30T)
+
+### Block 30.3
+FD-U4000-L
+FD-U4000-D
+FD-U4000-E
+FD-U4000-M
+(For 36-22T/40-26T)
+
+### Block 30.4
+FC-U6000-2
+FC-U4010-2
+(46-30T)
+
+### Block 30.5
+FC-U6000-2
+FC-U6000-2B
+FC-U4010-2B
+(36-22T)
+---
+FC-U4010-2
+(36-22T/40-26T)
+
+### Block 30.6
+FC-U4000-2
+(36-22T/40-26T)
+FC-U4000-2B
+(36-22T)
+
+### Block 30.7
+BB-MT801
+BB-MT501
+BB-UR400
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 30.8
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 30.9
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 31.1
+FC-U8000-1
+
+### Block 31.2
+FC-U6000-1
+
+### Block 31.3
+FC-U4000-1
+
+### Block 31.4
+SM-BB93
+SM-BB80
+BB-MT800
+SM-BB52
+BB-MT500
+(Threaded type)
+
+### Block 31.5
+BB-MT801
+BB-MT501
+BB-UR400
+(Threaded type)
+---
+SM-BB94-41A
+BB-MT800-PA
+BB-MT500-PA
+(Press-Fit type)
+
+### Block 31.6
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 31.7
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 32.1
+SL-M360-L*
+SL-M310-L*
+SL-M315-L
+SL-RS47-L
+SL-RS45-L*
+SL-RV400-L
+SL-RV400-LN
+---
+ST-M310-L2
+ST-M310-L4*
+ST-TX800-L
+ST-EF65-L2*
+ST-EF65-L4*
+ST-EF500-L2A
+ST-EF500-L4A
+ST-EF510-L2A*
+ST-EF510-L4A*
+ST-EF505-L
+ST-EF515-L**
+
+### Block 32.2
+FD-M410-E*
+(for 42-32-22T only)
+
+### Block 32.3
+FD-M313-3
+FD-M313-6
+FD-M310-3
+FD-M310-6
+FD-TX800-TS3
+FD-TX800-TS6
+
+### Block 32.4
+FD-TY700-TS3*
+FD-TY700-TS6*
+FD-TY600-L3
+FD-TY600-L6
+
+### Block 32.5
+FD-TY710-TS3*
+FD-TY710-TS6*
+FD-TY601-L3
+FD-TY601-L6
+
+### Block 32.6
+FC-M361*
+FC-M311*
+FC-TX801
+(42-32-22T)
+
+### Block 32.7
+FC-TY701*
+FC-TY501
+FC-TY301
+(42-34-24T)
+
+### Block 32.8
+FC-M361*
+FC-M311*
+FC-TX801
+FC-TY701*
+FC-TY501
+FC-TY301
+(48-38-28T)
+
+### Block 32.9
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 32.10
+CN-HG71
+CN-HG40
+
+### Block 33.1
+SL-M315-2L
+SL-RV400-L
+ST-EF500-2L2A
+ST-EF500-2L4A
+ST-EF505-2L
+ST-EF515-2L**
+
+### Block 33.2
+FD-M315-TS
+
+### Block 33.3
+FD-TY710-2-TS3*
+FD-TY606-L
+
+### Block 33.4
+FC-M315-2
+FC-M315-B2
+
+### Block 33.5
+FC-TY501-2
+
+### Block 33.6
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 33.7
+CN-HG71
+CN-HG40
+
+### Block 34.1
+FC-U2000-1**
+
+### Block 34.2
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 34.3
+CN-HG71
+CN-HG40
+
+### Block 35.1
+SL-M310-L*
+SL-M315-L
+SL-RS47-L
+SL-RS45-L*
+SL-RS35-L
+SL-RV400-L
+SL-RV300-L
+SL-RV200-L
+SL-TX50-L
+---
+ST-EF65-L2*
+ST-EF65-L4*
+ST-EF500-L2A
+ST-EF500-L4A
+ST-EF505-L
+ST-EF510-L2A*
+ST-EF510-L4A*
+ST-EF41-L
+ST-EF515-L**
+
+### Block 35.2
+SL-TX30-LN
+SL-TZ500-LN
+SL-TZ20-LN*
+SL-RS36-LN
+SL-RS35-LN
+SL-RV400-LN
+SL-RV300-LN
+SL-RV200-LN
+SL-TX50-LN
+
+### Block 35.3
+FD-M410-E*
+(for 42-32-22T only)
+
+### Block 35.4
+FD-M313-3
+FD-M313-6
+FD-M310-3
+FD-M310-6
+FD-TX800-TS3
+FD-TX800-TS6
+
+### Block 35.5
+FD-TY700-TS3*
+FD-TY700-TS6*
+FD-TY600-L3
+FD-TY600-L6
+
+### Block 35.6
+FD-TY500-TS3*
+FD-TY500-TS6*
+
+### Block 35.7
+FD-TY300-DS6
+(475)
+FD-TY300-DS6
+(50)
+
+### Block 35.8
+FD-TY710-TS3*
+FD-TY710-TS6*
+FD-TY601-L3
+FD-TY601-L6
+
+### Block 35.9
+FD-TY510-TS3*
+FD-TY510-TS6*
+
+### Block 35.10
+FD-TY700-TS3*
+FD-TY700-TS6*
+FD-TY600-L3
+FD-TY600-L6
+
+### Block 35.11
+FD-TY510-TS3*
+FD-TY510-TS6*
+
+### Block 35.12
+FD-TY300-DS6
+(475)
+FD-TY300-DS6
+(50)
+
+### Block 35.13
+FD-TZ500-DS6
+FD-TZ30*
+
+### Block 35.14
+FD-TY500-TS3*
+FD-TY500-TS6*
+
+### Block 35.15
+FD-TZ510-DS6
+FD-TZ31*
+
+### Block 35.16
+FC-M361*
+FC-M311*
+FC-TX801
+(42-32-22T)
+
+### Block 35.17
+FC-M361*
+FC-M311*
+FC-TX801
+FC-TY701*
+FC-TY501
+FC-TY301
+(48-38-28T)
+
+### Block 35.18
+FC-TY701*
+FC-TY501
+FC-TY301
+(42-34-24T)
+
+### Block 35.19
+FC-M361*
+FC-M311*
+FC-TX801
+FC-TY701*
+FC-TY501
+FC-TY301
+(48-38-28T)
+
+### Block 35.20
+FC-TY701*
+FC-TY501
+FC-TY301
+(42-34-24T)
+
+### Block 35.21
+FC-M361*
+FC-M311*
+FC-TX801
+FC-TY701*
+FC-TY501
+FC-TY301
+(48-38-28T)
+
+### Block 35.22
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 35.23
+CN-HG71
+CN-HG40
+
+### Block 36.1
+SL-M315-2L
+SL-RV400-L
+ST-EF500-2L2A
+ST-EF500-2L4A
+ST-EF505-2L
+ST-EF515-2L**
+
+### Block 36.2
+FD-M315-TS
+
+### Block 36.3
+FD-TY710-2-TS3*
+FD-TY606-L
+
+### Block 36.4
+FC-M315-2
+FC-M315-B2
+
+### Block 36.5
+FC-TY501-2
+
+### Block 36.6
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 36.7
+CN-HG71
+CN-HG40
+
+### Block 37.1
+SL-RS45-L*
+SL-RS35-L
+SL-RV400-L
+SL-RV300-L
+SL-RV200-L
+SL-TX50-L
+ST-EF41-L
+
+### Block 37.2
+SL-RS36-LN
+SL-RS35-LN
+SL-RV400-LN
+SL-RV300-LN
+SL-RV200-LN
+SL-TX50-LN
+SL-TX30-LN
+SL-TZ500-LN
+SL-TZ20-LN*
+
+### Block 37.3
+FD-TY600-L3
+FD-TY600-L6
+FD-TY500-TS3*
+FD-TY500-TS6*
+
+### Block 37.4
+FD-TY300-DS6
+(475)
+FD-TY300-DS6
+(50)
+
+### Block 37.5
+FD-TY600-L3
+FD-TY600-L6
+FD-TY500-TS3*
+FD-TY500-TS6*
+
+### Block 37.6
+FD-TY601-L3
+FD-TY601-L6
+FD-TY510-TS3*
+FD-TY510-TS6*
+
+### Block 37.7
+FD-TY300-DS6
+(475)
+FD-TY300-DS6
+(50)
+
+### Block 37.8
+FD-TZ500-DS6
+FD-TZ30*
+
+### Block 37.9
+FD-TY601-L3
+FD-TY601-L6
+FD-TY510-TS3*
+FD-TY510-TS6*
+
+### Block 37.10
+FD-TZ510-DS6
+FD-TZ31*
+
+### Block 37.11
+FC-TY701*
+FC-TY501
+FC-TY301
+(42-34-24T)
+
+### Block 37.12
+FC-TY701*
+FC-TY501
+FC-TY301
+(48-38-28T)
+
+### Block 37.13
+FC-TY701*
+FC-TY501
+FC-TY301
+(42-34-24T)
+
+### Block 37.14
+FC-TY701*
+FC-TY501
+FC-TY301
+(48-38-28T)
+
+### Block 37.15
+BB-UN26*
+BB-UN100*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 37.16
+CN-HG71
+CN-HG40
 
