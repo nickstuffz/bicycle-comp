@@ -22,7 +22,7 @@ CREATE TABLE pod_components (
     pod_id INT NOT NULL REFERENCES pods (id) ON DELETE CASCADE,
     component_id INT NOT NULL REFERENCES components (id) ON DELETE CASCADE,
     note VARCHAR(255),
-    PRIMARY KEY (pod_id, component_id)
+    PRIMARY KEY (pod_id, component_id, note)
 );
 
 CREATE TABLE pod_compatibility (
