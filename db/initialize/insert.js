@@ -38,13 +38,14 @@ INSERT INTO pods (name, category_id)
 `;
 
 const insertPodComponentsSQL = `
-INSERT INTO pod_components (pod_id, component_id, note)
+INSERT INTO pod_components (pod_id, component_id, note, warning)
     VALUES 
     ${pod_components
       .map((item) => {
         return `( (SELECT id FROM pods WHERE name = '${item.podName}'),
         (SELECT id FROM components WHERE code = '${item.componentCode}'),
-        '${item.note}' )`;
+        '${item.note}',
+        '${item.warning}' )`;
       })
       .join(",")};
 `;

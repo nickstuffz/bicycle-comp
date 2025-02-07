@@ -7,6 +7,7 @@ raw.forEach((pod) => {
       podName: pod.name,
       componentCode: component.code,
       note: component.note,
+      warning: component.warning,
     });
   });
 });

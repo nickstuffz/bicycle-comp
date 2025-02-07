@@ -40,7 +40,8 @@ SELECT
     c.code, 
     c.status, 
     c.link, 
-    pcs.note
+    pcs.note,
+    pcs.warning
 FROM compatiblePods cp
 JOIN pods sp ON cp.source_pod_id = sp.id
 JOIN pod_components pcs ON cp.pod_id = pcs.pod_id
