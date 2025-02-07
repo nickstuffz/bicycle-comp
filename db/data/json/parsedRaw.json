@@ -9407,5 +9407,23 @@
       }
     ],
     "category": "bottom bracket"
+  },
+  {
+    "name": "37.16",
+    "components": [
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
   }
 ]

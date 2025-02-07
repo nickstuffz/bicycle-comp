@@ -83,6 +83,11 @@ function parseRaw(text) {
       console.error("Error: Unhandled Line: " + line);
     }
   });
+  // Push Last Block
+  if (block) {
+    output.push(block);
+  }
+
   return output;
 }
 

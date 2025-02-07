@@ -28,11 +28,9 @@ API Design:
 
 
 Now:
-MAJOR LOGIC ISSUE. Components can have different notes. The notes actually define what it is. We need to be able to search by these notes in input. 
+Searching by component NEEDS to return the tree by each respective POD. Query needs to be adjusted.
 
-
-Reroute from raw.json to the new parsedRaw.json
-Handle new Warning data field
+Handle new Warning data field in raw.json. Find a place for it in SQL.
         
 
 Todo:

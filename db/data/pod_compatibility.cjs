@@ -1,4 +1,4 @@
-const podRelations = require("./json/podRelations.json");
+const podRelations = require("./json/parsedRelations.json");
 
 // A -> B entry
 // pod A must always be to the left of pod B
