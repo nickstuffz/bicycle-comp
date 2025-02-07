@@ -28,8 +28,6 @@ API Design:
 
 
 Now:
-Searching by component NEEDS to return the tree by each respective POD. Query needs to be adjusted.
-
 Handle new Warning data field in raw.json. Find a place for it in SQL.
         
 
