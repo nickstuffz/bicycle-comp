@@ -28,10 +28,11 @@ API Design:
 
 
 Now:
-Fill in raw.txt data
+MAJOR LOGIC ISSUE. Components can have different notes. The notes actually define what it is. We need to be able to search by these notes in input. 
+
+
 Reroute from raw.json to the new parsedRaw.json
 Handle new Warning data field
-Create a relations.txt and parseRelationsTxt.js and parsedRelations.json
         
 
 Todo:

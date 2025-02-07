@@ -1,12 +1,15 @@
 export const catMap = {
-  BB: "bottom braket",
+  BB: "bottom bracket",
   BR: "brake",
   BL: "brake lever",
   CS: "cassette",
-  CH: "chain",
+  CN: "chain",
   FC: "crankset",
   FD: "front derailleur",
+  MF: "cassette",
   RD: "rear derailleur",
   SH: "shifter",
   SL: "shifter",
+  SM: "bottom bracket",
+  SW: "shifter",
 };

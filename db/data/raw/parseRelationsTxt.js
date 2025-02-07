@@ -13,12 +13,15 @@ function parseRelations(text) {
   let currentBlocks = null;
 
   lines.forEach((line) => {
-    if (line.startsWith("###")) {
-      currentBlocks = line.replace("### Blocks ", "");
+    const blockMatch = line.match(/^### Blocks (\d+)$/);
+    if (blockMatch) {
+      // Set Block Group
+      currentBlocks = blockMatch[1];
       return;
     }
     const numberMatch = line.match(/^(\d+),(\d+)$/);
     if (numberMatch) {
+      // Add Relation
       const firstNumber = numberMatch[1];
       const secondNumber = numberMatch[2];
       output.push([
@@ -29,7 +32,6 @@ function parseRelations(text) {
       console.error("Error: Unhandled Line: " + line);
     }
   });
-  console.dir(output);
   return output;
 }
 

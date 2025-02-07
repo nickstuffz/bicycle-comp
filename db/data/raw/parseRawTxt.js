@@ -18,23 +18,28 @@ function parseRaw(text) {
   let block = null;
 
   lines.forEach((line) => {
-    if (line.startsWith("###")) {
+    const blockMatch = line.match(/^### Block (\d+\.\d+)$/);
+    if (blockMatch) {
       // Push Old Block
       if (block) {
         output.push(block);
       }
       // New Block / Set Name
-      block = { name: line.replace("### Block ", ""), components: [] };
+      block = { name: blockMatch[1], components: [] };
+      return;
       return;
     }
     const codeMatch = line.match(/^([A-Z]{2,4})-/);
     if (codeMatch) {
       if (block.components.length === 0) {
+        // Set Category
         block.category = catMap[codeMatch[1]];
+        if (!block.category) {
+          console.error("Error: Unhandled Category: " + codeMatch[1]);
+        }
       }
-
-      let status = "";
       // Set Status
+      let status = "";
       if (line.endsWith("**")) {
         status = "new";
       } else if (line.endsWith("*")) {

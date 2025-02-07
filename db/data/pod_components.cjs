@@ -1,4 +1,4 @@
-const raw = require("./json/raw.json");
+const raw = require("./json/parsedRaw.json");
 
 const pod_components = [];
 raw.forEach((pod) => {

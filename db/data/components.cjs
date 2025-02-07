@@ -1,4 +1,4 @@
-const raw = require("./json/raw.json");
+const raw = require("./json/parsedRaw.json");
 
 const seenCodes = new Set();
 const components = [];
