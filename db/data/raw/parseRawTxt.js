@@ -27,15 +27,20 @@ function parseRaw(text) {
       // New Block / Set Name
       block = { name: blockMatch[1], components: [] };
       return;
-      return;
     }
     const codeMatch = line.match(/^([A-Z]{2,4})-/);
     if (codeMatch) {
       if (block.components.length === 0) {
         // Set Category
-        block.category = catMap[codeMatch[1]];
+        let catCode = codeMatch[1];
+        if (catCode === "SM") {
+          // Find category code if SM match
+          const smMatch = line.match(/^SM-([A-Z]{2,4})/);
+          catCode = smMatch[1];
+        }
+        block.category = catMap[catCode];
         if (!block.category) {
-          console.error("Error: Unhandled Category: " + codeMatch[1]);
+          console.error("Error: Unhandled Category: " + catCode);
         }
       }
       // Set Status

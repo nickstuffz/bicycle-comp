@@ -25,19 +25,12 @@ API Design:
         DELETE user build
          - user info, build info, components in build
 
-
-
 Now:
-Handle new Warning data field in raw.json. Find a place for it in SQL.
-        
 
 Todo:
-Handle errors (asynchandler), error function
 User authenticated build page
-Look into indexing tables
-Functionality: take the queried part and return extra information regarding it? Link, block name?
-How to implement block name? and overall name of system.
-How to handle the * footnotes?
+Recheck table indexing optimization
+How to handle 1x drivetrain parts? Not connected to an FD / shifter but would still work with shifters as brakes.
 
 Reminder:
 
