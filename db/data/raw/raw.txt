@@ -2243,3 +2243,1092 @@ BB-UN300
 CN-HG71
 CN-HG40
 
+### Block 38.1
+ST-R7120
+ST-RX820
+ST-RX610
+
+### Block 38.2
+RD-R7100
+(34T≤Largest
+sprocket≤36T)
+RD-RX820
+(34T≤Largest
+sprocket≤36T)
+
+### Block 38.3
+CS-R8101-12
+CS-R7101-12
+CS-HG710-12
+
+### Block 38.4
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 39.1
+ST-R9250
+ST-R9270
+ST-R9160
+ST-R9180
+ST-R8150
+ST-R8170
+ST-R8060
+ST-R7170
+ST-RX825**
+
+### Block 39.2
+RD-R9250
+RD-R8150
+(30T≤Largest
+sprocket≤34T)
+RD-R7150
+(34T≤Largest
+sprocket≤36T)
+RD-RX825**
+(34T≤Largest
+sprocket≤36T)
+
+### Block 39.3
+CS-R9200-12
+CS-R8100-12
+CS-R7100-12
+CS-R8101-12
+CS-R7101-12
+CS-HG710-12
+
+### Block 39.4
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 40.1
+ST-RX820
+ST-RX610
+
+### Block 40.2
+RD-RX822-GS
+(45T≤Largest
+sprocket≤45T)
+
+### Block 40.3
+RD-RX822-SGS
+(51T≤Largest
+sprocket≤51T)
+
+### Block 40.4
+CS-M9101-12
+CS-M9100-12*
+CS-M8100-12
+CS-M7100-12
+(10-45T)
+
+### Block 40.5
+CS-M9101-12
+CS-M9100-12*
+CS-M8100-12
+CS-M7100-12
+CS-M6100-12
+(10-51T)
+
+### Block 40.6
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 41.1
+ST-R9100
+ST-R9120
+ST-9001
+ST-9000*
+SL-BSR1
+ST-R8000
+ST-R8020
+ST-R8025
+ST-6800
+ST-R7000
+ST-R7020
+ST-R7025
+ST-5800
+SL-RS700
+ST-RS685
+ST-RS505*
+ST-U5060*
+SL-U5000*
+ST-RX810
+ST-RX600
+
+### Block 41.2
+ST-R9150
+ST-R9160
+ST-R9170
+ST-R9180
+ST-9070*
+ST-R8050
+ST-R8060
+ST-R8070
+ST-9071*
+ST-6870
+ST-6871
+ST-RX815
+ST-R785*
+
+### Block 41.3
+RD-R9100-SS
+RD-R8000-SS
+(25T≤Largest sprocket≤30T)
+RD-R8000-GS
+RD-RX800-GS
+(28T≤Largest sprocket≤34T)
+RD-9000
+RD-6800-SS
+RD-5800-SS*
+(23T≤Largest sprocket≤28T)
+RD-R7000-SS
+(25T≤Largest sprocket≤30T)
+RD-R7000-GS
+(28T≤Largest sprocket≤34T)
+RD-6800-GS
+RD-5800-GS*
+(28T≤Largest sprocket≤32T)
+RD-U5000-SS*
+(28T≤Largest sprocket≤32T)
+RD-RX810
+(30T≤Largest sprocket≤34T)
+RD-RX800
+(28T≤Largest sprocket≤34T)
+
+### Block 41.4
+RD-R9150-SS
+RD-R8050-SS
+(25T≤Largest sprocket≤30T)
+RD-9070-SS*
+RD-6870-SS
+(23T≤Largest sprocket≤28T)
+RD-R8050-GS
+RD-RX805
+(28T≤Largest sprocket≤34T)
+RD-6870-GS
+(28T≤Largest sprocket≤32T)
+RD-RX815
+(30T≤Largest sprocket≤34T)
+
+### Block 41.5
+CS-R9100
+CS-9000*
+CS-6800*
+CS-5800*
+CS-R8000
+CS-HG800-11
+CS-R7000
+CS-HG700-11
+
+### Block 41.6
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 42.1
+ST-U5060*
+SL-U5000*
+
+### Block 42.2
+ST-R9100
+ST-R9120
+ST-9001
+ST-9000*
+SL-BSR1
+ST-R8000
+ST-R8020
+ST-R8025
+ST-6800
+ST-R7000
+ST-R7020
+ST-R7025
+ST-5800
+SL-RS700
+ST-RS685
+ST-RS505*
+ST-U5060*
+SL-U5000*
+ST-RX810
+ST-RX600
+
+### Block 42.3
+ST-R9150
+ST-R9160
+ST-R9170
+ST-R9180
+ST-9070*
+ST-R8050
+ST-R8060
+ST-R8070
+ST-9071*
+ST-6870
+ST-6871
+ST-RX815
+ST-R785*
+
+### Block 42.4
+RD-U5000-SS*
+
+### Block 42.5
+RD-RX812
+(40T≤Largest
+sprocket≤42T)
+
+### Block 42.6
+RD-RX817
+(40T≤Largest
+sprocket≤42T)
+
+### Block 42.7
+CS-R9100
+CS-9000*
+CS-6800*
+CS-5800*
+CS-R8000
+CS-HG800-11
+CS-R7000
+CS-HG700-11
+
+### Block 42.8
+CS-M8000-11
+CS-M7000-11*
+CS-M5100-11
+
+### Block 42.9
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 43.1
+ST-U6030**
+
+### Block 43.2
+RD-M8130
+RD-U8000
+(50T≤Largest
+sprocket≤50T
+for 1x11-speed)
+RD-U6000
+(48T≤Largest
+sprocket≤50T)
+
+### Block 43.3
+CS-LG700-11
+CS-LG600-11*
+CS-LG400-11
+(11-50T)
+
+### Block 43.4
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 44.1
+ST-6700*
+ST-5700*
+ST-4600*
+SL-R780*
+SL-4600*
+
+### Block 44.2
+ST-4700
+ST-4720
+ST-4725
+ST-RS405
+ST-RX400
+SL-4700
+
+### Block 44.3
+RD-6700-A-GS*
+(23T≤Largest
+sprocket≤30T)
+
+### Block 44.4
+RD-5701-SS
+RD-4601-SS*
+(25T≤Largest
+sprocket≤30T)
+
+### Block 44.5
+RD-5701-GS
+RD-4601-GS*
+(27T≤Largest
+sprocket≤32T)
+
+### Block 44.6
+RD-R350-10-SS*
+(30T≤Largest
+sprocket≤34T)
+
+### Block 44.7
+RD-4700-SS
+(25T≤Largest
+sprocket≤28T)
+
+### Block 44.8
+RD-4700-GS
+(28T≤Largest
+sprocket≤34T)
+RD-RX400
+(32T≤Largest
+sprocket≤36T)
+
+### Block 44.9
+CS-6700
+CS-5700*
+CS-HG500-10
+
+### Block 44.10
+CS-6700
+CS-5700*
+CS-HG500-10
+CS-M771-10
+CS-HG81-10*
+CS-HG62-10
+
+### Block 44.11
+CS-6700
+CS-5700*
+CS-HG500-10
+CS-M980*
+CS-M771-10
+CS-HG81-10*
+CS-HG62-10
+CS-HG50-10
+
+### Block 44.12
+CN-6701
+CN-5701*
+CN-4601
+
+### Block 44.13
+CN-M981*
+CN-M980*
+CN-HG95
+CN-HG94*
+CN-HG75*
+CN-HG74*
+CN-HG54
+
+### Block 45.1
+ST-6700*
+ST-5700*
+ST-4600*
+SL-R780*
+SL-4600*
+
+### Block 45.2
+ST-4700
+SL-4700
+
+### Block 45.3
+RD-6700-A-SS*
+(23T≤Largest
+sprocket≤30T)
+
+### Block 45.4
+RD-5701-GS
+RD-4601-GS*
+(25T≤Largest
+sprocket≤30T)
+
+### Block 45.5
+RD-4700-GS
+(25T≤Largest
+sprocket≤32T)
+
+### Block 45.6
+CS-6700
+CS-5700*
+CS-HG500-10
+CS-M771-10
+CS-HG81-10*
+CS-HG62-10
+
+### Block 45.7
+CS-6700
+CS-5700*
+CS-HG500-10
+CS-M980*
+CS-M771-10
+CS-HG81-10*
+CS-HG62-10
+
+### Block 45.8
+CN-7801*
+CN-6600
+CN-5600*
+
+### Block 45.9
+CN-M981*
+CN-M980*
+CN-HG95
+CN-HG94*
+CN-HG75*
+CN-HG74*
+CN-HG54
+
+### Block 46.1
+ST-U6030**
+ST-U3030-10R**
+
+### Block 46.2
+RD-U6020-10
+(39T≤Largest
+sprocket≤39T)
+
+### Block 46.3
+CS-LG400-10
+CS-LG300-10
+(11-39T)
+
+### Block 46.4
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 47.1
+ST-U6030*
+ST-U3030-10R*
+
+### Block 47.2
+RD-U6000
+(48T≤Largest
+sprocket≤50T)
+
+### Block 47.3
+RD-M5130
+(43T≤Largest
+sprocket≤43T)
+
+### Block 47.4
+RD-U4010**
+(39T≤Largest
+sprocket≤39T
+for 1x10 usage)
+
+### Block 47.5
+CS-LG400-10
+CS-LG300-10
+(11-48T)
+
+### Block 47.6
+CS-LG400-10
+(11-43T)
+
+### Block 47.7
+CS-LG400-10
+CS-LG300-10
+(11-39T)
+
+### Block 47.8
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 48.1
+ST-R3000
+ST-3500*
+SL-R3000
+SL-3500*
+
+### Block 48.2
+RD-R3000-SS
+(25T≤Largest
+sprocket≤32T)
+
+### Block 48.3
+RD-R3000-GS
+(28T≤Largest
+sprocket≤34T)
+
+### Block 48.4
+CS-HG400-9
+CS-HG300-9*
+CS-HG50-9
+CS-HG30-9*
+CS-HG20-9*
+
+### Block 48.5
+CN-7701*
+CN-HG93
+CN-HG73*
+CN-HG53
+
+### Block 49.1
+ST-R350*
+
+### Block 49.2
+RD-R350-GS
+(25T≤Largest
+sprocket≤32T)
+
+### Block 49.3
+CS-HG400-9
+CS-HG300-9*
+CS-HG50-9
+CS-HG30-9*
+CS-HG20-9*
+
+### Block 49.4
+CN-7701*
+CN-HG93
+CN-HG73*
+CN-HG53
+
+### Block 50.1
+ST-U3030-9R**
+
+### Block 50.2
+RD-U4020
+RD-U3020
+(36T≤Largest
+sprocket≤36T)
+
+### Block 50.3
+CS-LG400-9
+CS-LG300-9
+(11-36T)
+
+### Block 50.4
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 51.1
+ST-U3030-9R**
+
+### Block 51.2
+RD-U4000
+(41T≤Largest
+sprocket≤46T)
+
+### Block 51.3
+RD-U4010**
+(36T≤Largest
+sprocket≤36T
+for 1x9 usage)
+
+### Block 51.4
+CS-LG400-9
+CS-LG300-9
+(11-41T, 11-46T)
+
+### Block 51.5
+CS-LG400-9
+CS-LG300-9
+(11-36T)
+
+### Block 51.6
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 52.1
+ST-2400*
+ST-R240*
+ST-R2000
+ST-RS200
+SL-2400*
+SL-R2000
+
+### Block 52.2
+RD-2400-SS*
+RD-R2000-SS
+(25T≤Largest
+sprocket≤32T)
+
+### Block 52.3
+CS-HG50-8
+
+### Block 52.4
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 53.1
+ST-2400*
+ST-R240*
+ST-R2000
+ST-RS200
+SL-2400*
+SL-R2000
+
+### Block 53.2
+RD-R2000-GS
+(28T≤Largest
+sprocket≤34T)
+RD-2400-GS*
+RD-R2000-SS
+(25T≤Largest
+sprocket≤32T)
+
+### Block 53.3
+CS-HG50-8
+
+### Block 53.4
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 54.1
+ST-2300*
+
+### Block 54.2
+RD-2300
+(21T≤Largest
+sprocket≤26T)
+
+### Block 54.3
+CS-HG50-8
+
+### Block 54.4
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 55.1
+ST-U2030-R**
+
+### Block 55.2
+RD-U2000**
+(45T≤Largest
+sprocket≤45T)
+
+### Block 55.3
+RD-M3020-8
+(30T≤Largest
+sprocket≤40T)
+
+### Block 55.4
+RD-M360-SGS*
+RD-M310-Smart
+RD-TX800-SGS
+(28T≤Largest
+sprocket≤34T)
+
+### Block 55.5
+CS-HG400-8
+CS-HG300-8**
+(11-45T)
+
+### Block 55.6
+CS-HG400-8
+(11-40T)
+
+### Block 55.7
+CS-HG50-8
+CS-HG41-8
+CS-HG31-8
+(11-34T)
+
+### Block 55.8
+CS-HG51-8
+(11-28T, 11-30T, 11-32T)
+CS-HG50-8
+(11-28T, 11-30T, 11-32T)
+CS-HG41-8
+CS-HG31-8
+(11-30T, 11-32T)
+CS-HG200-8
+(12-32T)
+
+### Block 55.9
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 56.1
+ST-A070
+
+### Block 56.2
+SL-A050-7R
+SL-SY20A
+
+### Block 56.3
+RD-A070
+
+### Block 56.4
+RD-A050*
+
+### Block 56.5
+CS-HG210-7**
+(12-28T)
+CS-HG400-7**
+(11-28T)
+
+### Block 56.6
+CS-HG200-7
+(12-28T)
+CS-HG41-7
+(11-28T)
+
+### Block 56.7
+MF-TZ500-7
+(14-28T)
+MF-TZ510-7
+(14-28T)
+MF-TZ21*
+(14-28T)
+MF-HG37*
+(13-28T)
+
+### Block 56.8
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 56.9
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 56.10
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 57.1
+ST-R7120
+ST-RX820
+ST-RX610
+
+### Block 57.2
+FD-R7100
+
+### Block 57.3
+FD-RX820
+
+### Block 57.4
+FC-R9200
+FC-R9200-P
+FC-R8100
+FC-R8100-P
+FC-R7100
+FC-RS520
+
+### Block 57.5
+FC-RX820-2
+FC-RX610-2
+
+### Block 57.6
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 57.7
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 58.1
+ST-R9270
+ST-R9250
+ST-R9180
+ST-R9160
+ST-R8170
+ST-R8150
+ST-R8060
+ST-R7170
+ST-RX825**
+
+### Block 58.2
+FD-R9250
+FD-R8150
+FD-R7150
+
+### Block 58.3
+FD-RX825**
+
+### Block 58.4
+FC-R9200
+FC-R9200-P
+FC-R8100
+FC-R8100-P
+FC-R7100
+FC-RS520
+
+### Block 58.5
+FC-RX820-2
+FC-RX610-2
+
+### Block 58.6
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 58.7
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 59.1
+FC-RX820-1
+FC-RX610-1
+
+### Block 59.2
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 59.3
+CN-M9100
+CN-M8100
+CN-M7100
+CN-M6100
+
+### Block 60.1
+ST-R9100
+ST-R9120
+ST-9001
+ST-9000*
+SL-BSR1
+ST-R8000
+ST-R8020
+ST-R8025
+ST-6800
+ST-5800
+ST-R7000
+ST-R7020
+ST-R7025
+ST-RS685
+ST-RS505*
+ST-U5060*
+SL-RS700
+SL-U5000*
+ST-RX810
+ST-RX600
+
+### Block 60.2
+ST-R9150
+ST-R9160
+ST-R9170
+ST-R9180
+ST-9070*
+SL-9071*
+ST-R8050
+ST-R8060
+ST-R8070
+ST-6870
+ST-6871
+ST-R785*
+ST-RX815
+
+### Block 60.3
+FD-R9100
+(not compatible
+with 46T)
+FD-R8000
+FD-5801*
+FD-R7000
+
+### Block 60.4
+FD-9000
+(not compatible
+with 46T)
+FD-6800
+FD-5800*
+FD-U5000*
+
+### Block 60.5
+FD-RX810
+
+### Block 60.6
+FD-R9150
+(not compatible
+with 46T)
+FD-R8050
+
+### Block 60.7
+FD-9070*
+FD-6870
+
+### Block 60.8
+FD-RX815
+
+### Block 60.9
+FC-R9100
+FC-09
+FC-R9100-P
+FC-R9200-PX
+FC-R8000
+FC-08
+FC-R7000
+FC-RS510
+
+### Block 60.10
+FC-9000
+FC-09
+FC-6800*
+FC-08
+FC-5800*
+FC-RS500*
+FC-U5000-2*
+
+### Block 60.11
+FC-RX810-2
+FC-RX600-11
+
+### Block 60.12
+FC-R9100
+FC-09
+FC-R9100-P
+FC-R9200-PX
+FC-R8000
+FC-08
+FC-R7000
+FC-RS510
+
+### Block 60.13
+FC-9000
+FC-09
+FC-6800*
+FC-08
+FC-5800*
+FC-RS500*
+FC-U5000-2*
+
+### Block 60.14
+FC-RX810-2
+FC-RX600-11
+
+### Block 60.15
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 60.16
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 61.1
+FC-RX810-1
+FC-RX600-1
+
+### Block 61.2
+FC-U5000-1*
+
+### Block 61.3
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 61.4
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 62.1
+FC-U8000-1
+FC-U6040-1**
+FC-U6030-1**
+FC-U6000-1
+
+### Block 62.2
+FC-U4000-1
+FC-UT400-1*
+
+### Block 62.3
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 62.4
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 62.5
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 63.
+
+
