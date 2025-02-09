@@ -66,7 +66,7 @@ function parseRaw(text) {
       block.components[block.components.length - 1].warning = line;
       return;
     }
-    if (line.startsWith("---")) {
+    if (line.startsWith("---", 0)) {
       // Set noteStop On Latest Component
       block.components[block.components.length - 1].noteStop = true;
       return;

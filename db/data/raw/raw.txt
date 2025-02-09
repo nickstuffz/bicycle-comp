@@ -3329,6 +3329,862 @@ CN-HG701-11
 CN-HG601-11
 CN-LG500
 
-### Block 63.
+### Block 63.1
+ST-6700*
+ST-5700*
+ST-4600*
+SL-R780*
+SL-4600*
 
+### Block 63.2
+ST-4700
+ST-RS405
+SL-4700
+ST-4720
+ST-4725
+ST-RX400
 
+### Block 63.3
+FD-5700
+
+### Block 63.4
+FD-4600*
+(50T≤Largest
+chainring≤56T)
+FD-CX70
+(46T≤Largest
+chainring≤52T)
+
+### Block 63.5
+FD-4600*
+#Recommended chainstay length: 405 mm or longer (O.L.D. 130 mm), 430 mm or longer (O.L.D. 135 mm) / chainstay angle: 63 - 66 deg.
+
+### Block 63.6
+FD-4700
+
+### Block 63.7
+FD-RX400
+
+### Block 63.8
+FC-6700*
+FC-6700G*
+FC-6750*
+FC-6750G*
+FC-5700*
+FC-5750
+FC-4600*
+FC-4650*
+FC-R565*
+
+### Block 63.9
+FC-CX70*
+FC-CX50
+
+### Block 63.10
+FC-4700
+FC-R460*
+FC-RS400
+
+### Block 63.11
+FC-RX600-10
+
+### Block 63.12
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 63.13
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 63.14
+CN-6701
+CN-5701*
+CN-4601
+
+### Block 63.15
+CN-M981*
+CN-M980*
+CN-HG95
+CN-HG94*
+CN-HG75*
+CN-HG74*
+CN-HG54
+
+### Block 64.1
+ST-4703
+SL-4703
+
+### Block 64.2
+ST-6703*
+ST-5703*
+ST-4603*
+SL-R783*
+SL-4603
+
+### Block 64.3
+FD-4703
+
+### Block 64.4
+FD-5703
+FD-4603*
+
+### Block 64.5
+FC-4703
+
+### Block 64.6
+FC-5703
+
+### Block 64.7
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 64.8
+CN-M981*
+CN-M980*
+CN-HG95
+CN-HG94*
+CN-HG75*
+CN-HG74*
+CN-HG54
+
+### Block 64.9
+CN-7801*
+CN-6600
+CN-5600*
+
+### Block 65.1
+ST-U6030**
+ST-U3030**
+
+### Block 65.2
+FD-U6030**
+
+### Block 65.3
+FC-U6040-2**
+FC-U6030-2**
+
+### Block 65.4
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 65.5
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 66.1
+FC-U8000-1
+FC-U6040-1**
+FC-U6030-1**
+FC-U6000-1
+
+### Block 66.2
+FC-U4000-1
+FC-UT400-1**
+
+### Block 66.3
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 66.4
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 66.5
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 67.1
+ST-3500*
+SL-3500*
+
+### Block 67.2
+ST-R3000
+SL-R3000
+
+### Block 67.3
+FD-3500*
+
+### Block 67.4
+FD-R3000
+
+### Block 67.5
+FC-R3000
+FC-3550*
+FC-R350*
+
+### Block 67.6
+FC-R450*
+FC-R345
+
+### Block 67.7
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 67.8
+CN-7701*
+CN-HG93
+CN-HG73*
+CN-HG53
+
+### Block 68.1
+ST-R3030
+ST-3503*
+SL-R3030
+SL-3503*
+
+### Block 68.2
+FD-R3030
+
+### Block 68.3
+FC-R3030
+
+### Block 68.4
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 68.5
+CN-7701*
+CN-HG93
+CN-HG73*
+CN-HG53
+
+### Block 69.1
+ST-U3030**
+
+### Block 69.2
+FD-U6030**
+
+### Block 69.3
+FC-U6040-2**
+FC-U6030-2**
+
+### Block 69.4
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 69.5
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 70.1
+FC-U8000-1
+FC-U6040-1**
+FC-U6030-1**
+FC-U6000-1
+
+### Block 70.2
+FC-U4000-1
+FC-UT400-1**
+
+### Block 70.3
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 70.4
+BB-UN55*
+BB-UN26*
+BB-UN101
+BB-UN300
+(Square type)
+
+### Block 70.5
+CN-HG901-11
+CN-HG701-11
+CN-HG601-11
+CN-LG500
+
+### Block 71.1
+ST-2400*
+ST-2300*
+ST-R240*
+SL-2400*
+
+### Block 71.2
+ST-R2000
+ST-RS200
+SL-R2000
+
+### Block 71.3
+SL-R441*
+ST-R221*
+
+### Block 71.4
+FD-2400*
+FD-2300*
+
+### Block 71.5
+FD-R2000
+
+### Block 71.6
+FD-R440A*
+
+### Block 71.7
+FC-2450*
+
+### Block 71.8
+FC-R2000
+
+### Block 71.9
+FC-2300*
+FC-2350*
+FC-RS200
+
+### Block 71.10
+FC-2300*
+FC-2350*
+
+### Block 71.11
+BB-ES300
+(OCTALINK)
+
+### Block 71.12
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 71.13
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 72.1
+ST-2403*
+ST-2303*
+SL-2403*
+ST-R243*
+FC-R2030
+FD-2403
+FD-2303
+ST-R2030
+FD-R2030
+SL-R2030
+ST-RS203
+
+### Block 72.2
+ST-R225
+
+### Block 72.3
+FD-2403*
+FD-2303*
+FD-R2030
+
+### Block 72.4
+FD-R443A
+
+### Block 72.5
+FC-R2030
+
+### Block 72.6
+FC-2403*
+FC-2303*
+
+### Block 72.7
+FC-2303*
+
+### Block 72.8
+BB-UN26*
+BB-UN300
+(Square type)
+
+### Block 72.9
+BB-ES300
+(OCTALINK)
+
+### Block 72.10
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 73.1
+FC-U2000-1**
+
+### Block 73.2
+BB-UN100*
+(Square type)
+
+### Block 73.3
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 74.1
+ST-A070
+
+### Block 74.2
+SL-A050-LN
+SL-SY20A
+
+### Block 74.3
+FD-A070A
+
+### Block 74.4
+FD-A050*
+
+### Block 74.5
+FC-A070
+(50-34T)
+
+### Block 74.6
+BB-UN26*
+BB-UN300
+(Square type)
+
+### Block 74.7
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 75.1
+ST-A073
+
+### Block 75.2
+FD-A073
+
+### Block 75.3
+FC-A073
+
+### Block 75.4
+BB-UN26*
+BB-UN300
+(Square type)
+
+### Block 75.5
+CN-HG91*
+CN-HG71
+CN-HG50*
+CN-HG40
+CN-UG51*
+
+### Block 76.1
+ST-R9250
+ST-R9100
+ST-R9150
+ST-R9160
+ST-9070*
+ST-9071*
+ST-9001
+ST-9000*
+ST-R8150
+ST-R8000
+ST-R8050
+ST-R8060
+ST-6870
+ST-6871
+ST-6800
+ST-6700*
+ST-5800
+ST-R7000
+ST-5700*
+ST-4700
+ST-4600*
+ST-R3000
+ST-3500*
+ST-R2000
+ST-2400*
+ST-R350*
+BL-TT79
+ST-U3030**
+ST-U2030-R**
+BL-U3030-L**
+BL-U2030-L**
+
+### Block 76.2
+ST-A070
+ST-A073
+
+### Block 76.3
+BR-R9200
+BR-R9210
+BR-R9100
+BR-R9110
+BR-9000*
+BR-9010*
+BR-R8100
+BR-R8110
+BR-RS811-R
+BR-R8000
+BR-R8010
+BR-6800
+BR-6810*
+BR-6700*
+BR-R7000
+BR-R7010
+BR-5800*
+BR-5810*
+BR-5710*
+BR-5700*
+BR-4700
+BR-4600*
+BR-R3000
+BR-R561
+BR-R2000
+
+### Block 76.4
+BR-CX50
+
+### Block 76.5
+BR-CX77*
+BR-R517*
+BR-R317
+BR-RS305
+
+### Block 76.6
+BR-R353
+BR-R463*
+
+### Block 76.7
+BR-R650*
+BR-R451
+BR-R450*
+BR-R550*
+
+### Block 77.1
+BL-4700
+BL-R3000
+BL-R2000
+BL-2400*
+BL-R780
+ST-R240*
+
+### Block 77.2
+BL-R550
+
+### Block 77.3
+BR-R9100
+BR-R9110
+BR-9010*
+BR-9000*
+BR-R8000
+BR-R8010
+BR-6810*
+BR-6800
+BR-6700*
+BR-R7000
+BR-R7010
+BR-5800*
+BR-5810*
+BR-5710*
+BR-5700*
+BR-4700
+BR-4600*
+BR-R3000
+BR-R2000
+BR-2400*
+BR-R561
+
+### Block 77.4
+BR-CX50
+
+### Block 77.5
+BR-CX77*
+BR-R517*
+BR-R317
+BR-RS305
+
+### Block 77.6
+BR-R573*
+BR-R353
+BR-R463*
+
+### Block 77.7
+BR-R650*
+BR-R451
+BR-R450*
+BR-R550*
+
+### Block 78.1
+ST-R9270
+ST-R8170
+ST-R7120
+ST-R7170
+ST-RX820
+ST-RX820-LA
+ST-RX825**
+ST-RX610
+BL-RX820-L
+BL-RX610-L
+
+### Block 78.2
+ST-R9120
+ST-R9170
+ST-R8020
+ST-R8025
+ST-R8070
+ST-R7020
+ST-R7025
+ST-RX810
+ST-RX810-LA
+ST-RX810 -LE
+BL-RX810-L
+ST-RX815
+ST-RX600
+BL-RX600-L
+ST-RX400
+ST-4720
+ST-4725
+
+### Block 78.3
+ST-R9180
+
+### Block 78.4
+ST-R785*
+ST-RS685
+ST-RS505*
+
+### Block 78.5
+ST-RS405
+
+### Block 78.6
+BL-RX812
+
+### Block 78.7
+BL-RX812
+
+### Block 78.8
+BL-RX812
+
+### Block 78.9
+BL-RX812
+
+### Block 78.10
+BL-RX812
+
+### Block 78.11
+SM-BH90-J-SSR
+SM-BH90-JK-SSR
+
+### Block 78.12
+SM-BH90-J-SSR
+SM-BH90-JK-SSR
+
+### Block 78.13
+SM-BH90-SS
+SM-BH90-JK-SS
+
+### Block 78.14
+SM-BH59-SB
+SM-BH59-SB-J
+
+### Block 78.15
+SM-BH59-SS
+SM-BH59-J-SS
+SM-BH59-JK-SS
+
+### Block 78.16
+SM-BH90-SS
+SM-BH90-JK-SS
+
+### Block 78.17
+SM-BH59-SS
+SM-BH59-J-SS
+SM-BH59-JK-SS
+
+### Block 78.18
+BR-R9270
+BR-R8170
+BR-R7170
+BR-RX820
+BR-RX820-LE
+BR-RX400
+
+### Block 78.19
+BR-R9270
+BR-R9170
+BR-R8170
+BR-R8070
+BR-R7170
+BR-R7070
+BR-RS785
+BR-RX820
+BR-RX820-LE
+BR-RX810
+BR-RX400
+BR-4770
+
+### Block 78.20
+BR-R785*
+
+### Block 78.21
+BR-RS785
+BR-RS805*
+BR-RS505*
+
+### Block 78.22
+BR-R9170
+BR-R8070
+BR-R7070
+
+### Block 78.23
+BR-RS405
+
+### Block 79.1
+BL-S7000
+
+### Block 79.2
+ST-U5060*
+BL-U5000*
+BL-U5010*
+
+### Block 79.3
+BL-U8000
+
+### Block 79.4
+ST-U6030**
+BL-U6030-L**
+
+### Block 79.5
+BL-UR405**
+
+### Block 79.6
+SM-BH59-JK-SS
+
+### Block 79.7
+SM-BH59-JK-SS
+
+### Block 79.8
+SM-BH90-SBM
+
+### Block 79.9
+SM-BH90-SS
+
+### Block 79.10
+SM-BH59-JK-SSR
+
+### Block 79.11
+SM-BH59-JK-SS
+
+### Block 79.12
+BR-S7000
+
+### Block 79.13
+BR-U5000*
+
+### Block 79.14
+BR-U8000
+BR-U8020
+
+### Block 79.15
+BR-U8010**
+
+### Block 79.16
+BR-U6030**
+BR-RS405
+
+### Block 79.17
+BR-MT410

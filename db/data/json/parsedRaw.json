@@ -14161,9 +14161,4071 @@
         "code": "CN-LG500",
         "status": "current",
         "note": "",
-        "warning": "### Block 63."
+        "warning": ""
       }
     ],
     "category": "chain"
+  },
+  {
+    "name": "63.1",
+    "components": [
+      {
+        "code": "ST-6700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-5700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-R780",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-4600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "63.2",
+    "components": [
+      {
+        "code": "ST-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RS405",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4720",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4725",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX400",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "63.3",
+    "components": [
+      {
+        "code": "FD-5700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "63.4",
+    "components": [
+      {
+        "code": "FD-4600",
+        "status": "discont",
+        "note": "(50T ≤ Largest chainring ≤ 56T)",
+        "warning": ""
+      },
+      {
+        "code": "FD-CX70",
+        "status": "current",
+        "note": "(46T ≤ Largest chainring ≤ 52T)",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "63.5",
+    "components": [
+      {
+        "code": "FD-4600",
+        "status": "discont",
+        "note": "",
+        "warning": "#Recommended chainstay length: 405 mm or longer (O.L.D. 130 mm), 430 mm or longer (O.L.D. 135 mm) / chainstay angle: 63 - 66 deg."
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "63.6",
+    "components": [
+      {
+        "code": "FD-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "63.7",
+    "components": [
+      {
+        "code": "FD-RX400",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "63.8",
+    "components": [
+      {
+        "code": "FC-6700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-6700G",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-6750",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-6750G",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-5700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-5750",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-4600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-4650",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-R565",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "63.9",
+    "components": [
+      {
+        "code": "FC-CX70",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-CX50",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "63.10",
+    "components": [
+      {
+        "code": "FC-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-R460",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-RS400",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "63.11",
+    "components": [
+      {
+        "code": "FC-RX600-10",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "63.12",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "63.13",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "63.14",
+    "components": [
+      {
+        "code": "CN-6701",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-5701",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-4601",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "63.15",
+    "components": [
+      {
+        "code": "CN-M981",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M980",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG94",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG75",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG74",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "64.1",
+    "components": [
+      {
+        "code": "ST-4703",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-4703",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "64.2",
+    "components": [
+      {
+        "code": "ST-6703",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-5703",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4603",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-R783",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-4603",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "64.3",
+    "components": [
+      {
+        "code": "FD-4703",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "64.4",
+    "components": [
+      {
+        "code": "FD-5703",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-4603",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "64.5",
+    "components": [
+      {
+        "code": "FC-4703",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "64.6",
+    "components": [
+      {
+        "code": "FC-5703",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "64.7",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "64.8",
+    "components": [
+      {
+        "code": "CN-M981",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-M980",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG95",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG94",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG75",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG74",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG54",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "64.9",
+    "components": [
+      {
+        "code": "CN-7801",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-6600",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-5600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "65.1",
+    "components": [
+      {
+        "code": "ST-U6030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-U3030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "65.2",
+    "components": [
+      {
+        "code": "FD-U6030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "65.3",
+    "components": [
+      {
+        "code": "FC-U6040-2",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6030-2",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "65.4",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "65.5",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "66.1",
+    "components": [
+      {
+        "code": "FC-U8000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6040-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6030-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "66.2",
+    "components": [
+      {
+        "code": "FC-U4000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-UT400-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "66.3",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "66.4",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "66.5",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "67.1",
+    "components": [
+      {
+        "code": "ST-3500",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-3500",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "67.2",
+    "components": [
+      {
+        "code": "ST-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "67.3",
+    "components": [
+      {
+        "code": "FD-3500",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "67.4",
+    "components": [
+      {
+        "code": "FD-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "67.5",
+    "components": [
+      {
+        "code": "FC-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-3550",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-R350",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "67.6",
+    "components": [
+      {
+        "code": "FC-R450",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-R345",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "67.7",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "67.8",
+    "components": [
+      {
+        "code": "CN-7701",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG93",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG73",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG53",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "68.1",
+    "components": [
+      {
+        "code": "ST-R3030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-3503",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-R3030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-3503",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "68.2",
+    "components": [
+      {
+        "code": "FD-R3030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "68.3",
+    "components": [
+      {
+        "code": "FC-R3030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "68.4",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "68.5",
+    "components": [
+      {
+        "code": "CN-7701",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG93",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG73",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG53",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "69.1",
+    "components": [
+      {
+        "code": "ST-U3030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "69.2",
+    "components": [
+      {
+        "code": "FD-U6030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "69.3",
+    "components": [
+      {
+        "code": "FC-U6040-2",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6030-2",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "69.4",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "69.5",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "70.1",
+    "components": [
+      {
+        "code": "FC-U8000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6040-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6030-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-U6000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "70.2",
+    "components": [
+      {
+        "code": "FC-U4000-1",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-UT400-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "70.3",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "70.4",
+    "components": [
+      {
+        "code": "BB-UN55",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN101",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "70.5",
+    "components": [
+      {
+        "code": "CN-HG901-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG701-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG601-11",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-LG500",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "71.1",
+    "components": [
+      {
+        "code": "ST-2400",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-2300",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R240",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-2400",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "71.2",
+    "components": [
+      {
+        "code": "ST-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RS200",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "71.3",
+    "components": [
+      {
+        "code": "SL-R441",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R221",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "71.4",
+    "components": [
+      {
+        "code": "FD-2400",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-2300",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "71.5",
+    "components": [
+      {
+        "code": "FD-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "71.6",
+    "components": [
+      {
+        "code": "FD-R440A",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "71.7",
+    "components": [
+      {
+        "code": "FC-2450",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "71.8",
+    "components": [
+      {
+        "code": "FC-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "71.9",
+    "components": [
+      {
+        "code": "FC-2300",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-2350",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-RS200",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "71.10",
+    "components": [
+      {
+        "code": "FC-2300",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-2350",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "71.11",
+    "components": [
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "71.12",
+    "components": [
+      {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "71.13",
+    "components": [
+      {
+        "code": "CN-HG91",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG50",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-UG51",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "72.1",
+    "components": [
+      {
+        "code": "ST-2403",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-2303",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-2403",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R243",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-R2030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-2403",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-2303",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R2030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-R2030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-R2030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RS203",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "72.2",
+    "components": [
+      {
+        "code": "ST-R225",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "72.3",
+    "components": [
+      {
+        "code": "FD-2403",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-2303",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FD-R2030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "72.4",
+    "components": [
+      {
+        "code": "FD-R443A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "72.5",
+    "components": [
+      {
+        "code": "FC-R2030",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "72.6",
+    "components": [
+      {
+        "code": "FC-2403",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "FC-2303",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "72.7",
+    "components": [
+      {
+        "code": "FC-2303",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "72.8",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "72.9",
+    "components": [
+      {
+        "code": "BB-ES300",
+        "status": "current",
+        "note": "(OCTALINK)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "72.10",
+    "components": [
+      {
+        "code": "CN-HG91",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG50",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-UG51",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "73.1",
+    "components": [
+      {
+        "code": "FC-U2000-1",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "73.2",
+    "components": [
+      {
+        "code": "BB-UN100",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "73.3",
+    "components": [
+      {
+        "code": "CN-HG91",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG50",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-UG51",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "74.1",
+    "components": [
+      {
+        "code": "ST-A070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "74.2",
+    "components": [
+      {
+        "code": "SL-A050-LN",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SL-SY20A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "74.3",
+    "components": [
+      {
+        "code": "FD-A070A",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "74.4",
+    "components": [
+      {
+        "code": "FD-A050",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "74.5",
+    "components": [
+      {
+        "code": "FC-A070",
+        "status": "current",
+        "note": "(50-34T)",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "74.6",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "74.7",
+    "components": [
+      {
+        "code": "CN-HG91",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG50",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-UG51",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "75.1",
+    "components": [
+      {
+        "code": "ST-A073",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "75.2",
+    "components": [
+      {
+        "code": "FD-A073",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "front derailleur"
+  },
+  {
+    "name": "75.3",
+    "components": [
+      {
+        "code": "FC-A073",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "crankset"
+  },
+  {
+    "name": "75.4",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "75.5",
+    "components": [
+      {
+        "code": "CN-HG91",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG71",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG50",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-HG40",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "CN-UG51",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "chain"
+  },
+  {
+    "name": "76.1",
+    "components": [
+      {
+        "code": "ST-R9250",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R9150",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R9160",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-9070",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-9071",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-9001",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-9000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8150",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8050",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8060",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-6870",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-6871",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-6800",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-6700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-5800",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R7000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-5700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-3500",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-2400",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R350",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-TT79",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-U3030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-U2030-R",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-U3030-L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-U2030-L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "76.2",
+    "components": [
+      {
+        "code": "ST-A070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-A073",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "76.3",
+    "components": [
+      {
+        "code": "BR-R9200",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R9210",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R9110",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-9000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-9010",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8110",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS811-R",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8010",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-6800",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-6810",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-6700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7010",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5800",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5810",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5710",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-4600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R561",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "76.4",
+    "components": [
+      {
+        "code": "BR-CX50",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "76.5",
+    "components": [
+      {
+        "code": "BR-CX77",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R517",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R317",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS305",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "76.6",
+    "components": [
+      {
+        "code": "BR-R353",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R463",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "76.7",
+    "components": [
+      {
+        "code": "BR-R650",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R451",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R450",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R550",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "77.1",
+    "components": [
+      {
+        "code": "BL-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-2400",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-R780",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R240",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "77.2",
+    "components": [
+      {
+        "code": "BL-R550",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "77.3",
+    "components": [
+      {
+        "code": "BR-R9100",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R9110",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-9010",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-9000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8010",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-6810",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-6800",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-6700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7010",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5800",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5810",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5710",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-5700",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-4700",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-4600",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R3000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R2000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-2400",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R561",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "77.4",
+    "components": [
+      {
+        "code": "BR-CX50",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "77.5",
+    "components": [
+      {
+        "code": "BR-CX77",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R517",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R317",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS305",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "77.6",
+    "components": [
+      {
+        "code": "BR-R573",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R353",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R463",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "77.7",
+    "components": [
+      {
+        "code": "BR-R650",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R451",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R450",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R550",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "78.1",
+    "components": [
+      {
+        "code": "ST-R9270",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R7120",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R7170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX820",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX820-LA",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX825",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX610",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-RX820-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-RX610-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "78.2",
+    "components": [
+      {
+        "code": "ST-R9120",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R9170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8020",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8025",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R8070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R7020",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-R7025",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX810",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX810-LA",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX810 -LE",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-RX810-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX815",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX600",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-RX600-L",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RX400",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4720",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-4725",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "78.3",
+    "components": [
+      {
+        "code": "ST-R9180",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "78.4",
+    "components": [
+      {
+        "code": "ST-R785",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RS685",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "ST-RS505",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "78.5",
+    "components": [
+      {
+        "code": "ST-RS405",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "78.6",
+    "components": [
+      {
+        "code": "BL-RX812",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "78.7",
+    "components": [
+      {
+        "code": "BL-RX812",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "78.8",
+    "components": [
+      {
+        "code": "BL-RX812",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "78.9",
+    "components": [
+      {
+        "code": "BL-RX812",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "78.10",
+    "components": [
+      {
+        "code": "BL-RX812",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "78.11",
+    "components": [
+      {
+        "code": "SM-BH90-J-SSR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH90-JK-SSR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.12",
+    "components": [
+      {
+        "code": "SM-BH90-J-SSR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH90-JK-SSR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.13",
+    "components": [
+      {
+        "code": "SM-BH90-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH90-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.14",
+    "components": [
+      {
+        "code": "SM-BH59-SB",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH59-SB-J",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.15",
+    "components": [
+      {
+        "code": "SM-BH59-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH59-J-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH59-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.16",
+    "components": [
+      {
+        "code": "SM-BH90-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH90-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.17",
+    "components": [
+      {
+        "code": "SM-BH59-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH59-J-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "SM-BH59-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "78.18",
+    "components": [
+      {
+        "code": "BR-R9270",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX820",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX820-LE",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX400",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "78.19",
+    "components": [
+      {
+        "code": "BR-R9270",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R9170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS785",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX820",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX820-LE",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX810",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RX400",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-4770",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "78.20",
+    "components": [
+      {
+        "code": "BR-R785",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "78.21",
+    "components": [
+      {
+        "code": "BR-RS785",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS805",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS505",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "78.22",
+    "components": [
+      {
+        "code": "BR-R9170",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R8070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-R7070",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "78.23",
+    "components": [
+      {
+        "code": "BR-RS405",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "79.1",
+    "components": [
+      {
+        "code": "BL-S7000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "79.2",
+    "components": [
+      {
+        "code": "ST-U5060",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-U5000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-U5010",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "79.3",
+    "components": [
+      {
+        "code": "BL-U8000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "79.4",
+    "components": [
+      {
+        "code": "ST-U6030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BL-U6030-L",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "shifter"
+  },
+  {
+    "name": "79.5",
+    "components": [
+      {
+        "code": "BL-UR405",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake lever"
+  },
+  {
+    "name": "79.6",
+    "components": [
+      {
+        "code": "SM-BH59-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "79.7",
+    "components": [
+      {
+        "code": "SM-BH59-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "79.8",
+    "components": [
+      {
+        "code": "SM-BH90-SBM",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "79.9",
+    "components": [
+      {
+        "code": "SM-BH90-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "79.10",
+    "components": [
+      {
+        "code": "SM-BH59-JK-SSR",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "79.11",
+    "components": [
+      {
+        "code": "SM-BH59-JK-SS",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake hose"
+  },
+  {
+    "name": "79.12",
+    "components": [
+      {
+        "code": "BR-S7000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "79.13",
+    "components": [
+      {
+        "code": "BR-U5000",
+        "status": "discont",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "79.14",
+    "components": [
+      {
+        "code": "BR-U8000",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-U8020",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "79.15",
+    "components": [
+      {
+        "code": "BR-U8010",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "79.16",
+    "components": [
+      {
+        "code": "BR-U6030",
+        "status": "new",
+        "note": "",
+        "warning": ""
+      },
+      {
+        "code": "BR-RS405",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
+  },
+  {
+    "name": "79.17",
+    "components": [
+      {
+        "code": "BR-MT410",
+        "status": "current",
+        "note": "",
+        "warning": ""
+      }
+    ],
+    "category": "brake"
   }
 ]
