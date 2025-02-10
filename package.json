@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "seed": "node db/data/raw/parseRawTxt.js && node db/data/raw/parseRelationsTxt.js && node db/populatedb.js",
-    "start": "node --watch app.js"
+    "start": "node app.js",
+    "dev": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
