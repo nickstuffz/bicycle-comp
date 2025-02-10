@@ -12,7 +12,7 @@ raw.forEach((pod) => {
     const link =
       component.status !== "discont"
         ? `https://productinfo.shimano.com/product/${component.code}`
-        : null;
+        : "";
 
     components.push({
       code: component.code,
