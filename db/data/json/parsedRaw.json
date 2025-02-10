@@ -16114,6 +16114,24 @@
     "name": "71.13",
     "components": [
       {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "71.14",
+    "components": [
+      {
         "code": "CN-HG91",
         "status": "discont",
         "note": "",
@@ -16312,6 +16330,72 @@
     "name": "72.8",
     "components": [
       {
+        "code": "BB-R9100",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BBR60",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB6700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB5700",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS501",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500",
+        "status": "current",
+        "note": "(Threaded type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB92-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB72-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "SM-BB71-41B",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-RS500-PB",
+        "status": "current",
+        "note": "(Press-fit type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "72.9",
+    "components": [
+      {
         "code": "BB-UN26",
         "status": "discont",
         "note": "(Square type)",
@@ -16327,7 +16411,7 @@
     "category": "bottom bracket"
   },
   {
-    "name": "72.9",
+    "name": "72.10",
     "components": [
       {
         "code": "BB-ES300",
@@ -16339,7 +16423,7 @@
     "category": "bottom bracket"
   },
   {
-    "name": "72.10",
+    "name": "72.11",
     "components": [
       {
         "code": "CN-HG91",
@@ -16400,6 +16484,24 @@
   },
   {
     "name": "73.3",
+    "components": [
+      {
+        "code": "BB-UN26",
+        "status": "discont",
+        "note": "(Square type)",
+        "warning": ""
+      },
+      {
+        "code": "BB-UN300",
+        "status": "current",
+        "note": "(Square type)",
+        "warning": ""
+      }
+    ],
+    "category": "bottom bracket"
+  },
+  {
+    "name": "73.4",
     "components": [
       {
         "code": "CN-HG91",
@@ -17076,25 +17178,25 @@
       {
         "code": "BR-R650",
         "status": "discont",
-        "note": "",
+        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
         "warning": ""
       },
       {
         "code": "BR-R451",
         "status": "current",
-        "note": "",
+        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
         "warning": ""
       },
       {
         "code": "BR-R450",
         "status": "discont",
-        "note": "",
+        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
         "warning": ""
       },
       {
         "code": "BR-R550",
         "status": "discont",
-        "note": "",
+        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
         "warning": ""
       }
     ],
@@ -17358,25 +17460,25 @@
       {
         "code": "BR-R650",
         "status": "discont",
-        "note": "",
+        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
         "warning": ""
       },
       {
         "code": "BR-R451",
         "status": "current",
-        "note": "",
+        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
         "warning": ""
       },
       {
         "code": "BR-R450",
         "status": "discont",
-        "note": "",
+        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
         "warning": ""
       },
       {
         "code": "BR-R550",
         "status": "discont",
-        "note": "",
+        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
         "warning": ""
       }
     ],

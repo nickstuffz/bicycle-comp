@@ -27,10 +27,14 @@ API Design:
 
 Now:
 Block 76 category issue. Components are both brake lever and shifter coded. Maybe move category to components instead of pods.
+Route should use search params
+
 Todo:
-How to add type checking and schema? For rules.
+Check all notes, warnings for consistency
+How to add type checking and schema? Ensure data is in right format.
 User authenticated build page
 Recheck table indexing optimization
+Add block-level notes
 How to handle 1x drivetrain parts? Not connected to an FD / shifter but would still work with shifters as brakes.
 
 Reminder:

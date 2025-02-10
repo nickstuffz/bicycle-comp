@@ -3751,6 +3751,11 @@ BB-RS500-PB
 (Press-fit type)
 
 ### Block 71.13
+BB-UN26*
+BB-UN300
+(Square type)
+
+### Block 71.14
 CN-HG91*
 CN-HG71
 CN-HG50*
@@ -3792,15 +3797,29 @@ FC-2303*
 FC-2303*
 
 ### Block 72.8
+BB-R9100
+SM-BBR60
+SM-BB6700
+SM-BB5700
+BB-RS501
+BB-RS500
+(Threaded type)
+SM-BB92-41B
+SM-BB72-41B
+SM-BB71-41B
+BB-RS500-PB
+(Press-fit type)
+
+### Block 72.9
 BB-UN26*
 BB-UN300
 (Square type)
 
-### Block 72.9
+### Block 72.10
 BB-ES300
 (OCTALINK)
 
-### Block 72.10
+### Block 72.11
 CN-HG91*
 CN-HG71
 CN-HG50*
@@ -3815,6 +3834,11 @@ BB-UN100*
 (Square type)
 
 ### Block 73.3
+BB-UN26*
+BB-UN300
+(Square type)
+
+### Block 73.4
 CN-HG91*
 CN-HG71
 CN-HG50*
@@ -3953,6 +3977,7 @@ BR-R650*
 BR-R451
 BR-R450*
 BR-R550*
+(when paired with pod 76.1 braking power is slightly less than standard combination)
 
 ### Block 77.1
 BL-4700
@@ -4007,6 +4032,8 @@ BR-R650*
 BR-R451
 BR-R450*
 BR-R550*
+(when paired with pod 77.1 braking power is slightly less than standard combination)
+
 
 ### Block 78.1
 ST-R9270
