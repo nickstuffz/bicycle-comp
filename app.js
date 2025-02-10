@@ -1,14 +1,17 @@
 import express from "express";
 import { componentRouter } from "./routes/componentRouter.js";
+import path from "path";
+import { fileURLToPath } from "url";
 
 // initialization
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const app = express();
 
 // routes
 app.get("/", (req, res) => {
-  res.send(
-    "https://productinfo.shimano.com/en/compatibility / Query a URL like the following: /api/component?code=ST-9000",
-  );
+  res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 app.use("/api/component", componentRouter);
 

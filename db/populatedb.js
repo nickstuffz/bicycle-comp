@@ -25,10 +25,8 @@ async function main() {
   console.log("connected");
   await client.query(resetSQL);
   console.log("dropped tables");
-
   await client.query(createSQL);
   console.log("created tables");
-
   await client.query(insertCategoriesSQL);
   console.log("inserted categories");
   await client.query(insertComponentsSQL);
@@ -39,7 +37,6 @@ async function main() {
   console.log("inserted pod components");
   await client.query(insertPodCompatibilitySQL);
   console.log("inserted pod compatibility");
-
   await client.end();
   console.log("done");
 }

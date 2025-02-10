@@ -35,7 +35,7 @@ API Design:
 Now:
 
 Todo:
-How to remove db folder on deploy? But still have it tracked?
+How to remove db folder on deploy? using .dockerignore
 How to add type checking and schema? Ensure data is in right format, Zod or TS
 User authenticated build page
 Recheck table indexing optimization
