@@ -89,31 +89,31 @@
       {
         "code": "RD-M9100-GS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M9120-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M8100-GS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M8120-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M7120-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       }
     ],
@@ -125,19 +125,19 @@
       {
         "code": "RD-M9120-SGS",
         "status": "current",
-        "note": "(2x12-speed)",
+        "note": "2x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M8120-SGS",
         "status": "current",
-        "note": "(2x12-speed)",
+        "note": "2x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M7120-SGS",
         "status": "current",
-        "note": "(2x12-speed)",
+        "note": "2x12-speed",
         "warning": ""
       }
     ],
@@ -149,25 +149,25 @@
       {
         "code": "RD-M9100-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M8100-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M7100-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       },
       {
         "code": "RD-M6100-SGS",
         "status": "current",
-        "note": "(1x12-speed)",
+        "note": "1x12-speed",
         "warning": ""
       }
     ],
@@ -179,8 +179,8 @@
       {
         "code": "RD-M8150-12",
         "status": "current",
-        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x12-speed)",
-        "warning": "#Only for E-BIKE"
+        "note": "51T ≤ Largest sprocket ≤ 51T for 1x12-speed",
+        "warning": "Only for E-BIKE"
       }
     ],
     "category": "rear derailleur"
@@ -191,25 +191,25 @@
       {
         "code": "CS-M9101-12",
         "status": "current",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       },
       {
         "code": "CS-M9100-12",
         "status": "discont",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       },
       {
         "code": "CS-M8100-12",
         "status": "current",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       },
       {
         "code": "CS-M7100-12",
         "status": "current",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       }
     ],
@@ -221,31 +221,31 @@
       {
         "code": "CS-M9101-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M9100-12",
         "status": "discont",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M8100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M7100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M6100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       }
     ],
@@ -257,31 +257,31 @@
       {
         "code": "CS-M9101-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M9100-12",
         "status": "discont",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M8100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M7100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M6100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       }
     ],
@@ -407,38 +407,38 @@
       {
         "code": "RD-M9000-SGS",
         "status": "discont",
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)",
+        "note": "40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed",
         "warning": ""
       },
       {
         "code": "RD-M8000-SGS",
         "status": "current",
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)",
+        "note": "40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed",
         "warning": ""
       },
       {
         "code": "RD-M8000-GS",
         "status": "current",
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)",
+        "note": "40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed",
         "warning": ""
       },
       {
         "code": "RD-M7000-11-SGS",
         "status": "discont",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "RD-M5120-SGS",
         "status": "current",
-        "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)",
+        "note": "42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed",
         "warning": ""
       },
       {
         "code": "RD-M4120-SGS",
         "status": "current",
-        "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)",
+        "note": "42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed",
         "warning": ""
       }
     ],
@@ -450,7 +450,7 @@
       {
         "code": "RD-M5100-SGS",
         "status": "current",
-        "note": "(51T ≤ Largest sprocket ≤ 51T for 1x11-speed)",
+        "note": "51T ≤ Largest sprocket ≤ 51T for 1x11-speed",
         "warning": ""
       }
     ],
@@ -462,19 +462,19 @@
       {
         "code": "RD-M9050-SGS",
         "status": "discont",
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed)",
+        "note": "40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed, 40T for 3x11-speed",
         "warning": ""
       },
       {
         "code": "RD-M9050-GS",
         "status": "discont",
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)",
+        "note": "40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed",
         "warning": ""
       },
       {
         "code": "RD-M8050-GS",
         "status": "current",
-        "note": "(40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed)",
+        "note": "40T ≤ Largest sprocket ≤ 46T for 1x11-speed, 42T for 2x11-speed",
         "warning": ""
       }
     ],
@@ -486,25 +486,25 @@
       {
         "code": "CS-M9001",
         "status": "discont",
-        "note": "(11-40T)",
+        "note": "11-40T",
         "warning": ""
       },
       {
         "code": "CS-M8000",
         "status": "current",
-        "note": "(11-40T, 11-42T, 11-46T)",
+        "note": "11-40T, 11-42T, 11-46T",
         "warning": ""
       },
       {
         "code": "CS-M7000-11",
         "status": "discont",
-        "note": "(11-40T, 11-42T, 11-46T)",
+        "note": "11-40T, 11-42T, 11-46T",
         "warning": ""
       },
       {
         "code": "CS-M5100-11",
         "status": "current",
-        "note": "(11-42T)",
+        "note": "11-42T",
         "warning": ""
       }
     ],
@@ -516,7 +516,7 @@
       {
         "code": "CS-M5100-11",
         "status": "current",
-        "note": "(11-51T)",
+        "note": "11-51T",
         "warning": ""
       }
     ],
@@ -528,25 +528,25 @@
       {
         "code": "CS-M9001",
         "status": "discont",
-        "note": "(11-40T)",
+        "note": "11-40T",
         "warning": ""
       },
       {
         "code": "CS-M8000",
         "status": "current",
-        "note": "(11-40T, 11-42T, 11-46T)",
+        "note": "11-40T, 11-42T, 11-46T",
         "warning": ""
       },
       {
         "code": "CS-M7000-11",
         "status": "discont",
-        "note": "(11-40T, 11-42T, 11-46T)",
+        "note": "11-40T, 11-42T, 11-46T",
         "warning": ""
       },
       {
         "code": "CS-M5100-11",
         "status": "current",
-        "note": "(11-42T)",
+        "note": "11-42T",
         "warning": ""
       }
     ],
@@ -630,13 +630,13 @@
       {
         "code": "RD-U8020",
         "status": "current",
-        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)",
+        "note": "45T ≤ Largest sprocket ≤ 45T for 2x11-speed",
         "warning": ""
       },
       {
         "code": "RD-U6020-11",
         "status": "current",
-        "note": "(45T ≤ Largest sprocket ≤ 45T for 2x11-speed)",
+        "note": "45T ≤ Largest sprocket ≤ 45T for 2x11-speed",
         "warning": ""
       }
     ],
@@ -648,7 +648,7 @@
       {
         "code": "RD-U6000",
         "status": "current",
-        "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11/10-speed)",
+        "note": "48T ≤ Largest sprocket ≤ 50T for 1x11 / 10-speed",
         "warning": ""
       }
     ],
@@ -660,13 +660,13 @@
       {
         "code": "RD-M8130-SGS",
         "status": "current",
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "note": "50T ≤ Largest sprocket ≤ 50T for 1x11-speed",
         "warning": ""
       },
       {
         "code": "RD-U8000",
         "status": "current",
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "note": "50T ≤ Largest sprocket ≤ 50T for 1x11-speed",
         "warning": ""
       }
     ],
@@ -678,13 +678,13 @@
       {
         "code": "CS-LG700-11",
         "status": "current",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       },
       {
         "code": "CS-LG400-11",
         "status": "current",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       }
     ],
@@ -696,19 +696,19 @@
       {
         "code": "CS-LG700-11",
         "status": "current",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       },
       {
         "code": "CS-LG600-11",
         "status": "discont",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       },
       {
         "code": "CS-LG400-11",
         "status": "current",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       }
     ],
@@ -792,8 +792,8 @@
       {
         "code": "RD-U8050-SGS",
         "status": "new",
-        "note": "(45T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
-        "warning": "#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
+        "note": "45T ≤ Largest sprocket ≤ 50T for 1x11-speed",
+        "warning": "Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
       }
     ],
     "category": "rear derailleur"
@@ -804,14 +804,14 @@
       {
         "code": "RD-M8150-11",
         "status": "current",
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
-        "warning": "#Only for E-BIKE"
+        "note": "50T ≤ Largest sprocket ≤ 50T for 1x11-speed",
+        "warning": "Only for E-BIKE"
       },
       {
         "code": "RD-U6070",
         "status": "current",
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
-        "warning": "#Only for E-BIKE"
+        "note": "50T ≤ Largest sprocket ≤ 50T for 1x11-speed",
+        "warning": "Only for E-BIKE"
       }
     ],
     "category": "rear derailleur"
@@ -822,13 +822,13 @@
       {
         "code": "CS-LG700-11",
         "status": "current",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       },
       {
         "code": "CS-LG400-11",
         "status": "current",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       }
     ],
@@ -840,19 +840,19 @@
       {
         "code": "CS-LG700-11",
         "status": "current",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       },
       {
         "code": "CS-LG600-11",
         "status": "discont",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       },
       {
         "code": "CS-LG400-11",
         "status": "current",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       }
     ],
@@ -998,7 +998,7 @@
       {
         "code": "RD-M5120-SGS",
         "status": "current",
-        "note": "(42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed)",
+        "note": "42T ≤ Largest sprocket ≤ 46T for 1x11 and 1x10-speed, 42T for 2x11 and 2x10-speed",
         "warning": ""
       }
     ],
@@ -1010,7 +1010,7 @@
       {
         "code": "RD-M4120-SGS",
         "status": "current",
-        "note": "(42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed)",
+        "note": "42T ≤ Largest sprocket ≤ 42T for 2x11 and 2x10-speed",
         "warning": ""
       },
       {
@@ -1028,25 +1028,25 @@
       {
         "code": "RD-M7000-10",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-T8000",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M6000-SGS",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-T6000",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       }
     ],
@@ -1058,15 +1058,15 @@
       {
         "code": "RD-M820",
         "status": "current",
-        "note": "(23T ≤ Largest sprocket ≤ 28T)",
-        "warning": "#Mode converter",
+        "note": "23T ≤ Largest sprocket ≤ 28T",
+        "warning": "Mode converter",
         "noteStop": true
       },
       {
         "code": "RD-M640",
         "status": "discont",
-        "note": "(23T ≤ Largest sprocket ≤ 28T downhill spec. / 32T ≤ Largest sprocket ≤ 36T free ride spec.)",
-        "warning": "#Compatible with ROAD cassette"
+        "note": "23T ≤ Largest sprocket ≤ 28T downhill spec., 32T ≤ Largest sprocket ≤ 36T free ride spec.",
+        "warning": "Compatible with ROAD cassette"
       }
     ],
     "category": "rear derailleur"
@@ -1077,20 +1077,20 @@
       {
         "code": "RD-T780",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-T670-A",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-T610",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
-        "warning": "#Compatible with ROAD cassette"
+        "note": "28T ≤ Largest sprocket ≤ 34T",
+        "warning": "Compatible with ROAD cassette"
       }
     ],
     "category": "rear derailleur"
@@ -1101,7 +1101,7 @@
       {
         "code": "CS-M4100-10",
         "status": "current",
-        "note": "(11-46T, 1x10-speed)",
+        "note": "11-46T, 1x10-speed",
         "warning": ""
       }
     ],
@@ -1113,13 +1113,13 @@
       {
         "code": "CS-M4100-10",
         "status": "current",
-        "note": "(11-42T)",
+        "note": "11-42T",
         "warning": ""
       },
       {
         "code": "CS-HG500-10",
         "status": "discont",
-        "note": "(11-42T)",
+        "note": "11-42T",
         "warning": ""
       }
     ],
@@ -1131,19 +1131,19 @@
       {
         "code": "CS-M771-10",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       },
       {
         "code": "CS-HG81-10",
         "status": "discont",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       },
       {
         "code": "CS-HG50-10",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       }
     ],
@@ -1155,19 +1155,19 @@
       {
         "code": "CS-M771-10",
         "status": "current",
-        "note": "(11-32T, 11-34T)",
+        "note": "11-32T, 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG81-10",
         "status": "discont",
-        "note": "(11-32T, 11-34T)",
+        "note": "11-32T, 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG500-10",
         "status": "current",
-        "note": "(11-32T, 11-34T)",
+        "note": "11-32T, 11-34T",
         "warning": ""
       }
     ],
@@ -1245,7 +1245,7 @@
       {
         "code": "RD-U6020-10",
         "status": "current",
-        "note": "(39T ≤ Largest sprocket ≤ 39T for 2x10-speed)",
+        "note": "39T ≤ Largest sprocket ≤ 39T for 2x10-speed",
         "warning": ""
       }
     ],
@@ -1257,7 +1257,7 @@
       {
         "code": "RD-U4010",
         "status": "new",
-        "note": "(39T ≤ Largest sprocket ≤ 39T for 1x10-speed)",
+        "note": "39T ≤ Largest sprocket ≤ 39T for 1x10-speed",
         "warning": ""
       }
     ],
@@ -1269,7 +1269,7 @@
       {
         "code": "RD-M5130-GS",
         "status": "current",
-        "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)",
+        "note": "43T ≤ Largest sprocket ≤ 43T for 1x10-speed",
         "warning": ""
       }
     ],
@@ -1281,7 +1281,7 @@
       {
         "code": "RD-U6000",
         "status": "current",
-        "note": "(48T ≤ Largest sprocket ≤ 50T for 1x11/10-speed)",
+        "note": "48T ≤ Largest sprocket ≤ 50T for 1x11 / 10-speed",
         "warning": ""
       }
     ],
@@ -1293,13 +1293,13 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-39T)",
+        "note": "11-39T",
         "warning": ""
       },
       {
         "code": "CS-LG300-10",
         "status": "current",
-        "note": "(11-39T)",
+        "note": "11-39T",
         "warning": ""
       }
     ],
@@ -1311,13 +1311,13 @@
       {
         "code": "CS-LG600-10",
         "status": "discont",
-        "note": "(11-43T)",
+        "note": "11-43T",
         "warning": ""
       },
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-43T)",
+        "note": "11-43T",
         "warning": ""
       }
     ],
@@ -1329,13 +1329,13 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-48T)",
+        "note": "11-48T",
         "warning": ""
       },
       {
         "code": "CS-LG300-10",
         "status": "current",
-        "note": "(11-48T)",
+        "note": "11-48T",
         "warning": ""
       }
     ],
@@ -1419,8 +1419,8 @@
       {
         "code": "RD-U8050-SGS",
         "status": "new",
-        "note": "(48T ≤ Largest sprocket ≤ 48T for 1x10-speed)",
-        "warning": "#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
+        "note": "48T ≤ Largest sprocket ≤ 48T for 1x10-speed",
+        "warning": "Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
       }
     ],
     "category": "rear derailleur"
@@ -1431,8 +1431,8 @@
       {
         "code": "RD-U8050-GS",
         "status": "new",
-        "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)",
-        "warning": "#Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
+        "note": "43T ≤ Largest sprocket ≤ 43T for 1x10-speed",
+        "warning": "Only for BOSCH smart system, for SHIMANO E-BIKE SYSTEMS as well in later"
       }
     ],
     "category": "rear derailleur"
@@ -1443,8 +1443,8 @@
       {
         "code": "RD-U6050",
         "status": "current",
-        "note": "(43T ≤ Largest sprocket ≤ 43T for 1x10-speed)",
-        "warning": "#Only for SHIMANO E-BIKE SYSTEMS"
+        "note": "43T ≤ Largest sprocket ≤ 43T for 1x10-speed",
+        "warning": "Only for SHIMANO E-BIKE SYSTEMS"
       }
     ],
     "category": "rear derailleur"
@@ -1455,13 +1455,13 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-48T)",
+        "note": "11-48T",
         "warning": ""
       },
       {
         "code": "CS-LG300-10",
         "status": "current",
-        "note": "(11-48T)",
+        "note": "11-48T",
         "warning": ""
       }
     ],
@@ -1473,13 +1473,13 @@
       {
         "code": "CS-LG600-10",
         "status": "discont",
-        "note": "(11-43T)",
+        "note": "11-43T",
         "warning": ""
       },
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-43T)",
+        "note": "11-43T",
         "warning": ""
       }
     ],
@@ -1630,43 +1630,43 @@
       {
         "code": "RD-M772-GS",
         "status": "discont",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M772-SGS",
         "status": "discont",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M592-SGS",
         "status": "discont",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M4000-SGS",
         "status": "discont",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M3100-SGS",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M3000-SGS",
         "status": "discont",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-M2000-SGS",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       }
     ],
@@ -1678,31 +1678,31 @@
       {
         "code": "RD-M771-SGS",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-M591-SGS",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-T4000-SGS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-T3000-SGS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-M370-SGS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -1714,13 +1714,13 @@
       {
         "code": "CS-HG400-9",
         "status": "current",
-        "note": "(11-36T/12-36T)",
+        "note": "11-36T / 12-36T",
         "warning": ""
       },
       {
         "code": "CS-HG300-9",
         "status": "discont",
-        "note": "(12-36T)",
+        "note": "12-36T",
         "warning": ""
       }
     ],
@@ -1732,13 +1732,13 @@
       {
         "code": "CS-HG201-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       },
       {
         "code": "CS-HG200-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       }
     ],
@@ -1750,25 +1750,25 @@
       {
         "code": "CS-HG400-9",
         "status": "current",
-        "note": "(11-32T/11-34T)",
+        "note": "11-32T / 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG300-9",
         "status": "discont",
-        "note": "(11-32T/11-34T)",
+        "note": "11-32T / 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG201-9",
         "status": "current",
-        "note": "(11-32T/11-34T)",
+        "note": "11-32T / 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG200-9",
         "status": "current",
-        "note": "(11-32T/11-34T)",
+        "note": "11-32T / 11-34T",
         "warning": ""
       }
     ],
@@ -1780,7 +1780,7 @@
       {
         "code": "CS-HG400-9",
         "status": "current",
-        "note": "(11-28T)",
+        "note": "11-28T",
         "warning": ""
       }
     ],
@@ -1834,13 +1834,13 @@
       {
         "code": "RD-U4020",
         "status": "current",
-        "note": "(36T ≤ Largest sprocket ≤ 36T for 2x9-speed)",
+        "note": "36T ≤ Largest sprocket ≤ 36T for 2x9-speed",
         "warning": ""
       },
       {
         "code": "RD-U3020",
         "status": "current",
-        "note": "(36T ≤ Largest sprocket ≤ 36T for 2x9-speed)",
+        "note": "36T ≤ Largest sprocket ≤ 36T for 2x9-speed",
         "warning": ""
       }
     ],
@@ -1852,7 +1852,7 @@
       {
         "code": "RD-U4010",
         "status": "new",
-        "note": "(36T ≤ Largest sprocket ≤ 36T for 1x9-speed)",
+        "note": "36T ≤ Largest sprocket ≤ 36T for 1x9-speed",
         "warning": ""
       }
     ],
@@ -1864,7 +1864,7 @@
       {
         "code": "RD-U4000",
         "status": "current",
-        "note": "(41T ≤ Largest sprocket ≤ 46T for 1x9-speed)",
+        "note": "41T ≤ Largest sprocket ≤ 46T for 1x9-speed",
         "warning": ""
       }
     ],
@@ -1876,13 +1876,13 @@
       {
         "code": "CS-LG400-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       },
       {
         "code": "CS-LG300-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       }
     ],
@@ -1894,13 +1894,13 @@
       {
         "code": "CS-LG400-9",
         "status": "current",
-        "note": "(11-41T, 11-46T)",
+        "note": "11-41T, 11-46T",
         "warning": ""
       },
       {
         "code": "CS-LG300-9",
         "status": "current",
-        "note": "(11-41T, 11-46T)",
+        "note": "11-41T, 11-46T",
         "warning": ""
       }
     ],
@@ -2051,7 +2051,7 @@
       {
         "code": "RD-U2000",
         "status": "new",
-        "note": "(45T ≤ Largest sprocket ≤ 45T for 1x8-speed)",
+        "note": "45T ≤ Largest sprocket ≤ 45T for 1x8-speed",
         "warning": ""
       }
     ],
@@ -2063,7 +2063,7 @@
       {
         "code": "RD-M3020-8",
         "status": "current",
-        "note": "(30T ≤ Largest sprocket ≤ 40T)",
+        "note": "30T ≤ Largest sprocket ≤ 40T",
         "warning": ""
       }
     ],
@@ -2075,19 +2075,19 @@
       {
         "code": "RD-M360-SGS",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-M310-Smart",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-TX800-SGS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -2099,13 +2099,13 @@
       {
         "code": "CS-HG400-8",
         "status": "current",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       },
       {
         "code": "CS-HG300-8",
         "status": "new",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       }
     ],
@@ -2117,7 +2117,7 @@
       {
         "code": "CS-HG400-8",
         "status": "current",
-        "note": "(11-40T)",
+        "note": "11-40T",
         "warning": ""
       }
     ],
@@ -2129,25 +2129,25 @@
       {
         "code": "CS-HG51-8",
         "status": "current",
-        "note": "(11-28T, 11-30T, 11-32T)",
+        "note": "11-28T, 11-30T, 11-32T",
         "warning": ""
       },
       {
         "code": "CS-HG41-8",
         "status": "current",
-        "note": "(11-30T, 11-32T, 11-34T)",
+        "note": "11-30T, 11-32T, 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG31-8",
         "status": "current",
-        "note": "(11-30T, 11-32T, 11-34T)",
+        "note": "11-30T, 11-32T, 11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG200-8",
         "status": "current",
-        "note": "(12-32T)",
+        "note": "12-32T",
         "warning": ""
       }
     ],
@@ -2366,7 +2366,7 @@
       {
         "code": "RD-TY200-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -2378,7 +2378,7 @@
       {
         "code": "RD-FT35-A-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -2390,7 +2390,7 @@
       {
         "code": "CS-HG210-7",
         "status": "new",
-        "note": "(12-32T)",
+        "note": "12-32T",
         "warning": ""
       }
     ],
@@ -2402,13 +2402,13 @@
       {
         "code": "CS-HG400-7",
         "status": "new",
-        "note": "(11-28T)",
+        "note": "11-28T",
         "warning": ""
       },
       {
         "code": "CS-HG210-7",
         "status": "new",
-        "note": "(12-28T)",
+        "note": "12-28T",
         "warning": ""
       }
     ],
@@ -2627,7 +2627,7 @@
       {
         "code": "RD-TY200-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -2639,7 +2639,7 @@
       {
         "code": "RD-FT35-A-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -2651,7 +2651,7 @@
       {
         "code": "CS-HG200-7",
         "status": "current",
-        "note": "(12-32T)",
+        "note": "12-32T",
         "warning": ""
       }
     ],
@@ -2663,13 +2663,13 @@
       {
         "code": "CS-HG41-7",
         "status": "current",
-        "note": "(11-28T)",
+        "note": "11-28T",
         "warning": ""
       },
       {
         "code": "CS-HG200-7",
         "status": "current",
-        "note": "(12-28T)",
+        "note": "12-28T",
         "warning": ""
       }
     ],
@@ -2876,7 +2876,7 @@
       {
         "code": "RD-TY200-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -2888,13 +2888,13 @@
       {
         "code": "RD-FT55-A-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       },
       {
         "code": "RD-FT35-A-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -2918,7 +2918,7 @@
       {
         "code": "MF-HG37",
         "status": "discont",
-        "note": "(13-28T)",
+        "note": "13-28T",
         "warning": ""
       }
     ],
@@ -2930,19 +2930,19 @@
       {
         "code": "MF-TZ500-7",
         "status": "current",
-        "note": "(14-34T)",
+        "note": "14-34T",
         "warning": ""
       },
       {
         "code": "MF-TZ510-7",
         "status": "current",
-        "note": "(14-34T)",
+        "note": "14-34T",
         "warning": ""
       },
       {
         "code": "MF-TZ31",
         "status": "discont",
-        "note": "(14-34T)",
+        "note": "14-34T",
         "warning": ""
       }
     ],
@@ -2954,19 +2954,19 @@
       {
         "code": "MF-TZ500-7",
         "status": "current",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-TZ510-7",
         "status": "current",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-TZ21",
         "status": "discont",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       }
     ],
@@ -3088,7 +3088,7 @@
       {
         "code": "RD-TY200-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -3100,19 +3100,19 @@
       {
         "code": "RD-TY21-B-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       },
       {
         "code": "RD-FT55-A-SS",
         "status": "discont",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       },
       {
         "code": "RD-FT35-A-SS",
         "status": "current",
-        "note": "(For front single)",
+        "note": "For front single",
         "warning": ""
       }
     ],
@@ -3154,7 +3154,7 @@
       {
         "code": "MF-TZ30",
         "status": "discont",
-        "note": "(14-34T)",
+        "note": "14-34T",
         "warning": ""
       }
     ],
@@ -3166,19 +3166,19 @@
       {
         "code": "MF-TZ500-6",
         "status": "current",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-TZ510-6",
         "status": "current",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-TZ20",
         "status": "discont",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       }
     ],
@@ -3274,50 +3274,50 @@
       {
         "code": "FC-M9100-2",
         "status": "current",
-        "note": "(for O.L.D. 142 mm)",
+        "note": "For O.L.D. 142 mm",
         "warning": ""
       },
       {
         "code": "FC-M8100-2",
         "status": "current",
-        "note": "(for O.L.D. 142 mm)",
+        "note": "For O.L.D. 142 mm",
         "warning": ""
       },
       {
         "code": "FC-M7100-2",
         "status": "current",
-        "note": "(for O.L.D. 142 mm)",
+        "note": "For O.L.D. 142 mm",
         "warning": ""
       },
       {
         "code": "FC-MT610-2",
         "status": "current",
-        "note": "(for O.L.D. 142 mm)",
+        "note": "For O.L.D. 142 mm",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "FC-M9120-B2",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M8120-B2",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M7120-B2",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-MT610-B2",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       }
     ],
@@ -3329,62 +3329,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -3426,111 +3426,111 @@
       {
         "code": "FC-M9100-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M9120-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M8100-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M7100-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M6100-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-MT900-1",
         "status": "discont",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-MT610",
         "status": "discont",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-MT510-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": ""
       },
       {
         "code": "FC-MT511-1",
         "status": "current",
-        "note": "(for O.L.D. 142, 148 mm)",
+        "note": "For O.L.D. 142, 148 mm",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "FC-M9125-1",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M8120-1",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M7120-1",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-M6120-1",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": ""
       },
       {
         "code": "FC-MT512-1",
         "status": "current",
-        "note": "(for O.L.D. 148 mm)",
+        "note": "For O.L.D. 148 mm",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "FC-M9130-1",
         "status": "current",
-        "note": "(for O.L.D. 157 mm)",
+        "note": "For O.L.D. 157 mm",
         "warning": ""
       },
       {
         "code": "FC-M8130-1",
         "status": "current",
-        "note": "(for O.L.D. 157 mm)",
+        "note": "For O.L.D. 157 mm",
         "warning": ""
       },
       {
         "code": "FC-M7130-1",
         "status": "current",
-        "note": "(for O.L.D. 157 mm)",
+        "note": "For O.L.D. 157 mm",
         "warning": ""
       },
       {
         "code": "FC-M6130-1",
         "status": "current",
-        "note": "(for O.L.D. 157 mm)",
+        "note": "For O.L.D. 157 mm",
         "warning": ""
       }
     ],
@@ -3542,62 +3542,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -3759,62 +3759,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -4020,7 +4020,7 @@
         "code": "FC-M9020-B2",
         "status": "current",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-M8000-2",
@@ -4032,7 +4032,7 @@
         "code": "FC-M8000-B2",
         "status": "current",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-M7000-2",
@@ -4044,7 +4044,7 @@
         "code": "FC-M7000-B2",
         "status": "discont",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-M5100-2",
@@ -4056,7 +4056,7 @@
         "code": "FC-M5100-B2",
         "status": "current",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-MT700-2",
@@ -4068,7 +4068,7 @@
         "code": "FC-MT700-B2",
         "status": "current",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-MT600-2",
@@ -4080,7 +4080,7 @@
         "code": "FC-MT600-B2",
         "status": "discont",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       }
     ],
     "category": "crankset"
@@ -4091,62 +4091,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -4201,7 +4201,7 @@
         "code": "FC-M9020-B1",
         "status": "current",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-M8000-1",
@@ -4213,7 +4213,7 @@
         "code": "FC-M8000-B1",
         "status": "current",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-M7000-1",
@@ -4225,7 +4225,7 @@
         "code": "FC-M7000-B1",
         "status": "discont",
         "note": "",
-        "warning": "#Unspecified note"
+        "warning": "Unspecified note"
       },
       {
         "code": "FC-M5100-1",
@@ -4242,62 +4242,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -4369,13 +4369,13 @@
       {
         "code": "FD-U8010-L",
         "status": "current",
-        "note": "(For 46-32T at 11-speed)",
+        "note": "For 46-32T at 11-speed",
         "warning": ""
       },
       {
         "code": "FD-U6010-L",
         "status": "current",
-        "note": "(For 40-26T/46-32T at 11-speed)",
+        "note": "For 40-26T / 46-32T at 11-speed",
         "warning": ""
       }
     ],
@@ -4387,25 +4387,25 @@
       {
         "code": "FD-U6010-L",
         "status": "current",
-        "note": "(For 40-26T/46-32T at 11-speed)",
+        "note": "For 40-26T / 46-32T at 11-speed",
         "warning": ""
       },
       {
         "code": "FD-U6000-D",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U6000-E",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U6000-M",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       }
     ],
@@ -4435,25 +4435,25 @@
       {
         "code": "FC-U6000-2",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U6000-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U4010-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U4010-2",
         "status": "current",
-        "note": "(36-22T/40-26T)",
+        "note": "36-22T / 40-26T",
         "warning": ""
       }
     ],
@@ -4465,13 +4465,13 @@
       {
         "code": "FC-U4000-2",
         "status": "current",
-        "note": "(36-22T/40-26T)",
+        "note": "36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FC-U4000-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       }
     ],
@@ -4483,31 +4483,31 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       }
     ],
@@ -4519,38 +4519,38 @@
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-UR400",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -4562,25 +4562,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -4658,31 +4658,31 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       }
     ],
@@ -4694,38 +4694,38 @@
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-UR400",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -4737,25 +4737,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -4881,25 +4881,25 @@
       {
         "code": "FC-M7000-10",
         "status": "discont",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       },
       {
         "code": "FC-M622",
         "status": "discont",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       },
       {
         "code": "FC-M523",
         "status": "discont",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       },
       {
         "code": "FC-MT500-3",
         "status": "current",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       },
       {
@@ -4917,81 +4917,81 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-M522",
         "status": "discont",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-M523",
         "status": "discont",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -5124,37 +5124,37 @@
       {
         "code": "FC-M627",
         "status": "discont",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-M627",
         "status": "discont",
-        "note": "(38-24T)",
+        "note": "38-24T",
         "warning": ""
       },
       {
         "code": "FC-M627-B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-M617",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-M617",
         "status": "current",
-        "note": "(38-24T)",
+        "note": "38-24T",
         "warning": ""
       },
       {
         "code": "FC-M617-B2",
         "status": "discont",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       }
     ],
@@ -5208,81 +5208,81 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-M522",
         "status": "discont",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-M523",
         "status": "discont",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -5324,81 +5324,81 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-M522",
         "status": "discont",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-M523",
         "status": "discont",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -5566,79 +5566,79 @@
       {
         "code": "FC-T8000",
         "status": "current",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T780",
         "status": "discont",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T781",
         "status": "discont",
-        "note": "(44-32-24T)",
+        "note": "44-32-24T",
         "warning": ""
       },
       {
         "code": "FC-T781",
         "status": "discont",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-M610",
         "status": "discont",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T611",
         "status": "discont",
-        "note": "(44-32-24T)",
+        "note": "44-32-24T",
         "warning": ""
       },
       {
         "code": "FC-T611",
         "status": "discont",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T6010",
         "status": "current",
-        "note": "(44-32-24T)",
+        "note": "44-32-24T",
         "warning": ""
       },
       {
         "code": "FC-T6010",
         "status": "current",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T551",
         "status": "current",
-        "note": "(44-32-24T)",
+        "note": "44-32-24T",
         "warning": ""
       },
       {
         "code": "FC-T551",
         "status": "current",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T521",
         "status": "current",
-        "note": "(44-32-24T)",
+        "note": "44-32-24T",
         "warning": ""
       },
       {
         "code": "FC-T521",
         "status": "current",
-        "note": "(48-36-26T)",
+        "note": "48-36-26T",
         "warning": ""
       }
     ],
@@ -5650,69 +5650,69 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       },
       {
         "code": "FC-T521",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -5802,13 +5802,13 @@
       {
         "code": "FD-U8010-L",
         "status": "current",
-        "note": "(For 46-30T at 10-speed)",
+        "note": "For 46-30T at 10-speed",
         "warning": ""
       },
       {
         "code": "FD-U6010-L",
         "status": "current",
-        "note": "(For 46-30T at 10-speed)",
+        "note": "For 46-30T at 10-speed",
         "warning": ""
       }
     ],
@@ -5820,43 +5820,43 @@
       {
         "code": "FD-U6000-D",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U6000-E",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U6000-M",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-L",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-D",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-E",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-M",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       }
     ],
@@ -5868,13 +5868,13 @@
       {
         "code": "FC-U6000-2",
         "status": "current",
-        "note": "(46-30T)",
+        "note": "46-30T",
         "warning": ""
       },
       {
         "code": "FC-U4010-2",
         "status": "current",
-        "note": "(46-30T)",
+        "note": "46-30T",
         "warning": ""
       }
     ],
@@ -5886,26 +5886,26 @@
       {
         "code": "FC-U6000-2",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U6000-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U4010-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "FC-U4010-2",
         "status": "current",
-        "note": "(36-22T/40-26T)",
+        "note": "36-22T / 40-26T",
         "warning": ""
       }
     ],
@@ -5917,13 +5917,13 @@
       {
         "code": "FC-U4000-2",
         "status": "current",
-        "note": "(36-22T/40-26T)",
+        "note": "36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FC-U4000-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       }
     ],
@@ -5935,38 +5935,38 @@
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-UR400",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -5978,25 +5978,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -6074,31 +6074,31 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       }
     ],
@@ -6110,38 +6110,38 @@
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-UR400",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -6153,25 +6153,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -6334,13 +6334,13 @@
       {
         "code": "FD-M660-E",
         "status": "discont",
-        "note": "(for 44-32-22T only)",
+        "note": "For 44-32-22T only",
         "warning": ""
       },
       {
         "code": "FD-M661-D",
         "status": "discont",
-        "note": "(for 44-32-22T only)",
+        "note": "For 44-32-22T only",
         "warning": ""
       }
     ],
@@ -6490,37 +6490,37 @@
       {
         "code": "FC-MT300",
         "status": "discont",
-        "note": "(44-32-22T only)",
+        "note": "44-32-22T only",
         "warning": ""
       },
       {
         "code": "FC-MT210-3",
         "status": "current",
-        "note": "(44-32-22T only)",
+        "note": "44-32-22T only",
         "warning": ""
       },
       {
         "code": "FC-M590",
         "status": "discont",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-M591",
         "status": "discont",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T4060",
         "status": "current",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-M4060",
         "status": "discont",
-        "note": "(48-36-26T only)",
+        "note": "48-36-26T only",
         "warning": ""
       }
     ],
@@ -6532,13 +6532,13 @@
       {
         "code": "FC-T4010",
         "status": "current",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-T3010-8",
         "status": "discont",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       }
     ],
@@ -6550,25 +6550,25 @@
       {
         "code": "FC-T3010",
         "status": "current",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-M371",
         "status": "current",
-        "note": "(44-32-22T / 48-36-26T)",
+        "note": "44-32-22T / 48-36-26T",
         "warning": ""
       },
       {
         "code": "FC-MT101",
         "status": "current",
-        "note": "(44-32-22T only)",
+        "note": "44-32-22T only",
         "warning": ""
       },
       {
         "code": "FC-M351",
         "status": "discont",
-        "note": "(44-32-22T only)",
+        "note": "44-32-22T only",
         "warning": ""
       }
     ],
@@ -6604,13 +6604,13 @@
       {
         "code": "FC-M4000",
         "status": "discont",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       },
       {
         "code": "FC-M3000-8",
         "status": "discont",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       }
     ],
@@ -6622,7 +6622,7 @@
       {
         "code": "FC-M3000",
         "status": "discont",
-        "note": "(40-30-22T)",
+        "note": "40-30-22T",
         "warning": ""
       }
     ],
@@ -6634,13 +6634,13 @@
       {
         "code": "FC-M2000",
         "status": "discont",
-        "note": "(40-30-22T only)",
+        "note": "40-30-22T only",
         "warning": ""
       },
       {
         "code": "FC-MT101",
         "status": "current",
-        "note": "(40-30-22T only)",
+        "note": "40-30-22T only",
         "warning": ""
       }
     ],
@@ -6652,62 +6652,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -6719,7 +6719,7 @@
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -6731,31 +6731,31 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -6767,25 +6767,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -6948,7 +6948,7 @@
       {
         "code": "FC-MT210-2",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       }
     ],
@@ -6972,7 +6972,7 @@
       {
         "code": "FC-MT210-2",
         "status": "current",
-        "note": "(46-30T)",
+        "note": "46-30T",
         "warning": ""
       }
     ],
@@ -7020,62 +7020,62 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -7087,25 +7087,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -7165,7 +7165,7 @@
       {
         "code": "FD-U4010-L",
         "status": "current",
-        "note": "(For 46-30T)",
+        "note": "For 46-30T",
         "warning": ""
       }
     ],
@@ -7177,25 +7177,25 @@
       {
         "code": "FD-U4000-L",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-D",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-E",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FD-U4000-M",
         "status": "current",
-        "note": "(For 36-22T/40-26T)",
+        "note": "For 36-22T / 40-26T",
         "warning": ""
       }
     ],
@@ -7207,13 +7207,13 @@
       {
         "code": "FC-U6000-2",
         "status": "current",
-        "note": "(46-30T)",
+        "note": "46-30T",
         "warning": ""
       },
       {
         "code": "FC-U4010-2",
         "status": "current",
-        "note": "(46-30T)",
+        "note": "46-30T",
         "warning": ""
       }
     ],
@@ -7225,26 +7225,26 @@
       {
         "code": "FC-U6000-2",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U6000-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       },
       {
         "code": "FC-U4010-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "FC-U4010-2",
         "status": "current",
-        "note": "(36-22T/40-26T)",
+        "note": "36-22T / 40-26T",
         "warning": ""
       }
     ],
@@ -7256,13 +7256,13 @@
       {
         "code": "FC-U4000-2",
         "status": "current",
-        "note": "(36-22T/40-26T)",
+        "note": "36-22T / 40-26T",
         "warning": ""
       },
       {
         "code": "FC-U4000-2B",
         "status": "current",
-        "note": "(36-22T)",
+        "note": "36-22T",
         "warning": ""
       }
     ],
@@ -7274,38 +7274,38 @@
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-UR400",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -7317,25 +7317,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -7413,31 +7413,31 @@
       {
         "code": "SM-BB93",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB80",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT800",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB52",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       }
     ],
@@ -7449,38 +7449,38 @@
       {
         "code": "BB-MT801",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-MT501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-UR400",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": "",
         "noteStop": true
       },
       {
         "code": "SM-BB94-41A",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT800-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       },
       {
         "code": "BB-MT500-PA",
         "status": "current",
-        "note": "(Press-Fit type)",
+        "note": "Press-Fit type",
         "warning": ""
       }
     ],
@@ -7492,25 +7492,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -7667,7 +7667,7 @@
       {
         "code": "FD-M410-E",
         "status": "discont",
-        "note": "(for 42-32-22T only)",
+        "note": "For 42-32-22T only",
         "warning": ""
       }
     ],
@@ -7781,19 +7781,19 @@
       {
         "code": "FC-M361",
         "status": "discont",
-        "note": "(42-32-22T)",
+        "note": "42-32-22T",
         "warning": ""
       },
       {
         "code": "FC-M311",
         "status": "discont",
-        "note": "(42-32-22T)",
+        "note": "42-32-22T",
         "warning": ""
       },
       {
         "code": "FC-TX801",
         "status": "current",
-        "note": "(42-32-22T)",
+        "note": "42-32-22T",
         "warning": ""
       }
     ],
@@ -7805,19 +7805,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       }
     ],
@@ -7829,37 +7829,37 @@
       {
         "code": "FC-M361",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-M311",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TX801",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       }
     ],
@@ -7871,25 +7871,25 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -8021,25 +8021,25 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -8081,25 +8081,25 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -8304,7 +8304,7 @@
       {
         "code": "FD-M410-E",
         "status": "discont",
-        "note": "(for 42-32-22T only)",
+        "note": "For 42-32-22T only",
         "warning": ""
       }
     ],
@@ -8406,13 +8406,13 @@
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(475)",
+        "note": "47.5mm chainline",
         "warning": ""
       },
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(50)",
+        "note": "50mm chainline",
         "warning": ""
       }
     ],
@@ -8520,13 +8520,13 @@
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(475)",
+        "note": "47.5mm chainline",
         "warning": ""
       },
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(50)",
+        "note": "50mm chainline",
         "warning": ""
       }
     ],
@@ -8592,19 +8592,19 @@
       {
         "code": "FC-M361",
         "status": "discont",
-        "note": "(42-32-22T)",
+        "note": "42-32-22T",
         "warning": ""
       },
       {
         "code": "FC-M311",
         "status": "discont",
-        "note": "(42-32-22T)",
+        "note": "42-32-22T",
         "warning": ""
       },
       {
         "code": "FC-TX801",
         "status": "current",
-        "note": "(42-32-22T)",
+        "note": "42-32-22T",
         "warning": ""
       }
     ],
@@ -8616,37 +8616,37 @@
       {
         "code": "FC-M361",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-M311",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TX801",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       }
     ],
@@ -8658,19 +8658,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       }
     ],
@@ -8682,37 +8682,37 @@
       {
         "code": "FC-M361",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-M311",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TX801",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       }
     ],
@@ -8724,19 +8724,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       }
     ],
@@ -8748,37 +8748,37 @@
       {
         "code": "FC-M361",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-M311",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TX801",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       }
     ],
@@ -8790,25 +8790,25 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -8940,25 +8940,25 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -9126,13 +9126,13 @@
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(475)",
+        "note": "47.5mm chainline",
         "warning": ""
       },
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(50)",
+        "note": "50mm chainline",
         "warning": ""
       }
     ],
@@ -9204,13 +9204,13 @@
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(475)",
+        "note": "47.5mm chainline",
         "warning": ""
       },
       {
         "code": "FD-TY300-DS6",
         "status": "current",
-        "note": "(50)",
+        "note": "50mm chainline",
         "warning": ""
       }
     ],
@@ -9288,19 +9288,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       }
     ],
@@ -9312,19 +9312,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       }
     ],
@@ -9336,19 +9336,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(42-34-24T)",
+        "note": "42-34-24T",
         "warning": ""
       }
     ],
@@ -9360,19 +9360,19 @@
       {
         "code": "FC-TY701",
         "status": "discont",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY501",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       },
       {
         "code": "FC-TY301",
         "status": "current",
-        "note": "(48-38-28T)",
+        "note": "48-38-28T",
         "warning": ""
       }
     ],
@@ -9384,25 +9384,25 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -9456,13 +9456,13 @@
       {
         "code": "RD-R7100",
         "status": "current",
-        "note": "(34T ≤ Largest sprocket ≤ 36T)",
+        "note": "34T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-RX820",
         "status": "current",
-        "note": "(34T ≤ Largest sprocket ≤ 36T)",
+        "note": "34T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       }
     ],
@@ -9588,25 +9588,25 @@
       {
         "code": "RD-R9250",
         "status": "current",
-        "note": "(30T ≤ Largest sprocket ≤ 34T)",
+        "note": "30T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-R8150",
         "status": "current",
-        "note": "(30T ≤ Largest sprocket ≤ 34T)",
+        "note": "30T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-R7150",
         "status": "current",
-        "note": "(34T ≤ Largest sprocket ≤ 36T)",
+        "note": "34T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-RX825",
         "status": "new",
-        "note": "(34T ≤ Largest sprocket ≤ 36T)",
+        "note": "34T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       }
     ],
@@ -9708,7 +9708,7 @@
       {
         "code": "RD-RX822-GS",
         "status": "current",
-        "note": "(45T ≤ Largest sprocket ≤ 45T)",
+        "note": "45T ≤ Largest sprocket ≤ 45T",
         "warning": ""
       }
     ],
@@ -9720,7 +9720,7 @@
       {
         "code": "RD-RX822-SGS",
         "status": "current",
-        "note": "(51T ≤ Largest sprocket ≤ 51T)",
+        "note": "51T ≤ Largest sprocket ≤ 51T",
         "warning": ""
       }
     ],
@@ -9732,25 +9732,25 @@
       {
         "code": "CS-M9101-12",
         "status": "current",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       },
       {
         "code": "CS-M9100-12",
         "status": "discont",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       },
       {
         "code": "CS-M8100-12",
         "status": "current",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       },
       {
         "code": "CS-M7100-12",
         "status": "current",
-        "note": "(10-45T)",
+        "note": "10-45T",
         "warning": ""
       }
     ],
@@ -9762,31 +9762,31 @@
       {
         "code": "CS-M9101-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M9100-12",
         "status": "discont",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M8100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M7100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       },
       {
         "code": "CS-M6100-12",
         "status": "current",
-        "note": "(10-51T)",
+        "note": "10-51T",
         "warning": ""
       }
     ],
@@ -10038,85 +10038,85 @@
       {
         "code": "RD-R9100-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-R8000-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-R8000-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-RX800-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-9000",
         "status": "current",
-        "note": "(23T ≤ Largest sprocket ≤ 28T)",
+        "note": "23T ≤ Largest sprocket ≤ 28T",
         "warning": ""
       },
       {
         "code": "RD-6800-SS",
         "status": "current",
-        "note": "(23T ≤ Largest sprocket ≤ 28T)",
+        "note": "23T ≤ Largest sprocket ≤ 28T",
         "warning": ""
       },
       {
         "code": "RD-5800-SS",
         "status": "discont",
-        "note": "(23T ≤ Largest sprocket ≤ 28T)",
+        "note": "23T ≤ Largest sprocket ≤ 28T",
         "warning": ""
       },
       {
         "code": "RD-R7000-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-R7000-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-6800-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 32T)",
+        "note": "28T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-5800-GS",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 32T)",
+        "note": "28T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-U5000-SS",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 32T)",
+        "note": "28T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-RX810",
         "status": "current",
-        "note": "(30T ≤ Largest sprocket ≤ 34T)",
+        "note": "30T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-RX800",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -10128,49 +10128,49 @@
       {
         "code": "RD-R9150-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-R8050-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-9070-SS",
         "status": "discont",
-        "note": "(23T ≤ Largest sprocket ≤ 28T)",
+        "note": "23T ≤ Largest sprocket ≤ 28T",
         "warning": ""
       },
       {
         "code": "RD-6870-SS",
         "status": "current",
-        "note": "(23T ≤ Largest sprocket ≤ 28T)",
+        "note": "23T ≤ Largest sprocket ≤ 28T",
         "warning": ""
       },
       {
         "code": "RD-R8050-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-RX805",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-6870-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 32T)",
+        "note": "28T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-RX815",
         "status": "current",
-        "note": "(30T ≤ Largest sprocket ≤ 34T)",
+        "note": "30T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -10506,7 +10506,7 @@
       {
         "code": "RD-RX812",
         "status": "current",
-        "note": "(40T ≤ Largest sprocket ≤ 42T)",
+        "note": "40T ≤ Largest sprocket ≤ 42T",
         "warning": ""
       }
     ],
@@ -10518,7 +10518,7 @@
       {
         "code": "RD-RX817",
         "status": "current",
-        "note": "(40T ≤ Largest sprocket ≤ 42T)",
+        "note": "40T ≤ Largest sprocket ≤ 42T",
         "warning": ""
       }
     ],
@@ -10650,19 +10650,19 @@
       {
         "code": "RD-M8130",
         "status": "current",
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "note": "50T ≤ Largest sprocket ≤ 50T for 1x11-speed",
         "warning": ""
       },
       {
         "code": "RD-U8000",
         "status": "current",
-        "note": "(50T ≤ Largest sprocket ≤ 50T for 1x11-speed)",
+        "note": "50T ≤ Largest sprocket ≤ 50T for 1x11-speed",
         "warning": ""
       },
       {
         "code": "RD-U6000",
         "status": "current",
-        "note": "(48T ≤ Largest sprocket ≤ 50T)",
+        "note": "48T ≤ Largest sprocket ≤ 50T",
         "warning": ""
       }
     ],
@@ -10674,19 +10674,19 @@
       {
         "code": "CS-LG700-11",
         "status": "current",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       },
       {
         "code": "CS-LG600-11",
         "status": "discont",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       },
       {
         "code": "CS-LG400-11",
         "status": "current",
-        "note": "(11-50T)",
+        "note": "11-50T",
         "warning": ""
       }
     ],
@@ -10806,7 +10806,7 @@
       {
         "code": "RD-6700-A-GS",
         "status": "discont",
-        "note": "(23T ≤ Largest sprocket ≤ 30T)",
+        "note": "23T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       }
     ],
@@ -10818,13 +10818,13 @@
       {
         "code": "RD-5701-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-4601-SS",
         "status": "discont",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       }
     ],
@@ -10836,13 +10836,13 @@
       {
         "code": "RD-5701-GS",
         "status": "current",
-        "note": "(27T ≤ Largest sprocket ≤ 32T)",
+        "note": "27T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-4601-GS",
         "status": "discont",
-        "note": "(27T ≤ Largest sprocket ≤ 32T)",
+        "note": "27T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       }
     ],
@@ -10854,7 +10854,7 @@
       {
         "code": "RD-R350-10-SS",
         "status": "discont",
-        "note": "(30T ≤ Largest sprocket ≤ 34T)",
+        "note": "30T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -10866,7 +10866,7 @@
       {
         "code": "RD-4700-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 28T)",
+        "note": "25T ≤ Largest sprocket ≤ 28T",
         "warning": ""
       }
     ],
@@ -10878,13 +10878,13 @@
       {
         "code": "RD-4700-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-RX400",
         "status": "current",
-        "note": "(32T ≤ Largest sprocket ≤ 36T)",
+        "note": "32T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       }
     ],
@@ -11142,7 +11142,7 @@
       {
         "code": "RD-6700-A-SS",
         "status": "discont",
-        "note": "(23T ≤ Largest sprocket ≤ 30T)",
+        "note": "23T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       }
     ],
@@ -11154,13 +11154,13 @@
       {
         "code": "RD-5701-GS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       },
       {
         "code": "RD-4601-GS",
         "status": "discont",
-        "note": "(25T ≤ Largest sprocket ≤ 30T)",
+        "note": "25T ≤ Largest sprocket ≤ 30T",
         "warning": ""
       }
     ],
@@ -11172,7 +11172,7 @@
       {
         "code": "RD-4700-GS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       }
     ],
@@ -11364,7 +11364,7 @@
       {
         "code": "RD-U6020-10",
         "status": "current",
-        "note": "(39T ≤ Largest sprocket ≤ 39T)",
+        "note": "39T ≤ Largest sprocket ≤ 39T",
         "warning": ""
       }
     ],
@@ -11376,13 +11376,13 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-39T)",
+        "note": "11-39T",
         "warning": ""
       },
       {
         "code": "CS-LG300-10",
         "status": "current",
-        "note": "(11-39T)",
+        "note": "11-39T",
         "warning": ""
       }
     ],
@@ -11442,7 +11442,7 @@
       {
         "code": "RD-U6000",
         "status": "current",
-        "note": "(48T ≤ Largest sprocket ≤ 50T)",
+        "note": "48T ≤ Largest sprocket ≤ 50T",
         "warning": ""
       }
     ],
@@ -11454,7 +11454,7 @@
       {
         "code": "RD-M5130",
         "status": "current",
-        "note": "(43T ≤ Largest sprocket ≤ 43T)",
+        "note": "43T ≤ Largest sprocket ≤ 43T",
         "warning": ""
       }
     ],
@@ -11466,7 +11466,7 @@
       {
         "code": "RD-U4010",
         "status": "new",
-        "note": "(39T ≤ Largest sprocket ≤ 39T for 1x10 usage)",
+        "note": "39T ≤ Largest sprocket ≤ 39T for 1x10 usage",
         "warning": ""
       }
     ],
@@ -11478,13 +11478,13 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-48T)",
+        "note": "11-48T",
         "warning": ""
       },
       {
         "code": "CS-LG300-10",
         "status": "current",
-        "note": "(11-48T)",
+        "note": "11-48T",
         "warning": ""
       }
     ],
@@ -11496,7 +11496,7 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-43T)",
+        "note": "11-43T",
         "warning": ""
       }
     ],
@@ -11508,13 +11508,13 @@
       {
         "code": "CS-LG400-10",
         "status": "current",
-        "note": "(11-39T)",
+        "note": "11-39T",
         "warning": ""
       },
       {
         "code": "CS-LG300-10",
         "status": "current",
-        "note": "(11-39T)",
+        "note": "11-39T",
         "warning": ""
       }
     ],
@@ -11586,7 +11586,7 @@
       {
         "code": "RD-R3000-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       }
     ],
@@ -11598,7 +11598,7 @@
       {
         "code": "RD-R3000-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -11688,7 +11688,7 @@
       {
         "code": "RD-R350-GS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       }
     ],
@@ -11778,13 +11778,13 @@
       {
         "code": "RD-U4020",
         "status": "current",
-        "note": "(36T ≤ Largest sprocket ≤ 36T)",
+        "note": "36T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       },
       {
         "code": "RD-U3020",
         "status": "current",
-        "note": "(36T ≤ Largest sprocket ≤ 36T)",
+        "note": "36T ≤ Largest sprocket ≤ 36T",
         "warning": ""
       }
     ],
@@ -11796,13 +11796,13 @@
       {
         "code": "CS-LG400-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       },
       {
         "code": "CS-LG300-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       }
     ],
@@ -11856,7 +11856,7 @@
       {
         "code": "RD-U4000",
         "status": "current",
-        "note": "(41T ≤ Largest sprocket ≤ 46T)",
+        "note": "41T ≤ Largest sprocket ≤ 46T",
         "warning": ""
       }
     ],
@@ -11868,7 +11868,7 @@
       {
         "code": "RD-U4010",
         "status": "new",
-        "note": "(36T ≤ Largest sprocket ≤ 36T for 1x9 usage)",
+        "note": "36T ≤ Largest sprocket ≤ 36T for 1x9 usage",
         "warning": ""
       }
     ],
@@ -11880,13 +11880,13 @@
       {
         "code": "CS-LG400-9",
         "status": "current",
-        "note": "(11-41T, 11-46T)",
+        "note": "11-41T, 11-46T",
         "warning": ""
       },
       {
         "code": "CS-LG300-9",
         "status": "current",
-        "note": "(11-41T, 11-46T)",
+        "note": "11-41T, 11-46T",
         "warning": ""
       }
     ],
@@ -11898,13 +11898,13 @@
       {
         "code": "CS-LG400-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       },
       {
         "code": "CS-LG300-9",
         "status": "current",
-        "note": "(11-36T)",
+        "note": "11-36T",
         "warning": ""
       }
     ],
@@ -11988,13 +11988,13 @@
       {
         "code": "RD-2400-SS",
         "status": "discont",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-R2000-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       }
     ],
@@ -12096,19 +12096,19 @@
       {
         "code": "RD-R2000-GS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-2400-GS",
         "status": "discont",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       },
       {
         "code": "RD-R2000-SS",
         "status": "current",
-        "note": "(25T ≤ Largest sprocket ≤ 32T)",
+        "note": "25T ≤ Largest sprocket ≤ 32T",
         "warning": ""
       }
     ],
@@ -12180,7 +12180,7 @@
       {
         "code": "RD-2300",
         "status": "current",
-        "note": "(21T ≤ Largest sprocket ≤ 26T)",
+        "note": "21T ≤ Largest sprocket ≤ 26T",
         "warning": ""
       }
     ],
@@ -12252,7 +12252,7 @@
       {
         "code": "RD-U2000",
         "status": "new",
-        "note": "(45T ≤ Largest sprocket ≤ 45T)",
+        "note": "45T ≤ Largest sprocket ≤ 45T",
         "warning": ""
       }
     ],
@@ -12264,7 +12264,7 @@
       {
         "code": "RD-M3020-8",
         "status": "current",
-        "note": "(30T ≤ Largest sprocket ≤ 40T)",
+        "note": "30T ≤ Largest sprocket ≤ 40T",
         "warning": ""
       }
     ],
@@ -12276,19 +12276,19 @@
       {
         "code": "RD-M360-SGS",
         "status": "discont",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-M310-Smart",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       },
       {
         "code": "RD-TX800-SGS",
         "status": "current",
-        "note": "(28T ≤ Largest sprocket ≤ 34T)",
+        "note": "28T ≤ Largest sprocket ≤ 34T",
         "warning": ""
       }
     ],
@@ -12300,13 +12300,13 @@
       {
         "code": "CS-HG400-8",
         "status": "current",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       },
       {
         "code": "CS-HG300-8",
         "status": "new",
-        "note": "(11-45T)",
+        "note": "11-45T",
         "warning": ""
       }
     ],
@@ -12318,7 +12318,7 @@
       {
         "code": "CS-HG400-8",
         "status": "current",
-        "note": "(11-40T)",
+        "note": "11-40T",
         "warning": ""
       }
     ],
@@ -12330,19 +12330,19 @@
       {
         "code": "CS-HG50-8",
         "status": "current",
-        "note": "(11-34T)",
+        "note": "11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG41-8",
         "status": "current",
-        "note": "(11-34T)",
+        "note": "11-34T",
         "warning": ""
       },
       {
         "code": "CS-HG31-8",
         "status": "current",
-        "note": "(11-34T)",
+        "note": "11-34T",
         "warning": ""
       }
     ],
@@ -12354,31 +12354,31 @@
       {
         "code": "CS-HG51-8",
         "status": "current",
-        "note": "(11-28T, 11-30T, 11-32T)",
+        "note": "11-28T, 11-30T, 11-32T",
         "warning": ""
       },
       {
         "code": "CS-HG50-8",
         "status": "current",
-        "note": "(11-28T, 11-30T, 11-32T)",
+        "note": "11-28T, 11-30T, 11-32T",
         "warning": ""
       },
       {
         "code": "CS-HG41-8",
         "status": "current",
-        "note": "(11-30T, 11-32T)",
+        "note": "11-30T, 11-32T",
         "warning": ""
       },
       {
         "code": "CS-HG31-8",
         "status": "current",
-        "note": "(11-30T, 11-32T)",
+        "note": "11-30T, 11-32T",
         "warning": ""
       },
       {
         "code": "CS-HG200-8",
         "status": "current",
-        "note": "(12-32T)",
+        "note": "12-32T",
         "warning": ""
       }
     ],
@@ -12480,13 +12480,13 @@
       {
         "code": "CS-HG210-7",
         "status": "new",
-        "note": "(12-28T)",
+        "note": "12-28T",
         "warning": ""
       },
       {
         "code": "CS-HG400-7",
         "status": "new",
-        "note": "(11-28T)",
+        "note": "11-28T",
         "warning": ""
       }
     ],
@@ -12498,13 +12498,13 @@
       {
         "code": "CS-HG200-7",
         "status": "current",
-        "note": "(12-28T)",
+        "note": "12-28T",
         "warning": ""
       },
       {
         "code": "CS-HG41-7",
         "status": "current",
-        "note": "(11-28T)",
+        "note": "11-28T",
         "warning": ""
       }
     ],
@@ -12516,25 +12516,25 @@
       {
         "code": "MF-TZ500-7",
         "status": "current",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-TZ510-7",
         "status": "current",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-TZ21",
         "status": "discont",
-        "note": "(14-28T)",
+        "note": "14-28T",
         "warning": ""
       },
       {
         "code": "MF-HG37",
         "status": "discont",
-        "note": "(13-28T)",
+        "note": "13-28T",
         "warning": ""
       }
     ],
@@ -12744,61 +12744,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -12996,61 +12996,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -13110,61 +13110,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -13416,7 +13416,7 @@
       {
         "code": "FD-R9100",
         "status": "current",
-        "note": "(not compatible with 46T)",
+        "note": "Not compatible with 46T",
         "warning": ""
       },
       {
@@ -13446,7 +13446,7 @@
       {
         "code": "FD-9000",
         "status": "current",
-        "note": "(not compatible with 46T)",
+        "note": "Not compatible with 46T",
         "warning": ""
       },
       {
@@ -13488,7 +13488,7 @@
       {
         "code": "FD-R9150",
         "status": "current",
-        "note": "(not compatible with 46T)",
+        "note": "Not compatible with 46T",
         "warning": ""
       },
       {
@@ -13776,61 +13776,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -13902,61 +13902,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -14046,61 +14046,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -14112,25 +14112,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -14262,13 +14262,13 @@
       {
         "code": "FD-4600",
         "status": "discont",
-        "note": "(50T ≤ Largest chainring ≤ 56T)",
+        "note": "50T ≤ Largest chainring ≤ 56T",
         "warning": ""
       },
       {
         "code": "FD-CX70",
         "status": "current",
-        "note": "(46T ≤ Largest chainring ≤ 52T)",
+        "note": "46T ≤ Largest chainring ≤ 52T",
         "warning": ""
       }
     ],
@@ -14280,8 +14280,8 @@
       {
         "code": "FD-4600",
         "status": "discont",
-        "note": "",
-        "warning": "#Recommended chainstay length: 405 mm or longer (O.L.D. 130 mm), 430 mm or longer (O.L.D. 135 mm) / chainstay angle: 63 - 66 deg."
+        "note": "Recommended chainstay length: 405 mm or longer O.L.D. 130 mm, 430 mm or longer O.L.D. 135 mm, chainstay angle: 63 - 66 deg.",
+        "warning": ""
       }
     ],
     "category": "front derailleur"
@@ -14430,61 +14430,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -14496,61 +14496,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -14742,61 +14742,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -14928,61 +14928,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -15072,61 +15072,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -15138,25 +15138,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -15300,61 +15300,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -15450,61 +15450,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -15588,61 +15588,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -15732,61 +15732,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -15798,25 +15798,25 @@
       {
         "code": "BB-UN55",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN101",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -16038,7 +16038,7 @@
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -16050,61 +16050,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -16116,13 +16116,13 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -16332,61 +16332,61 @@
       {
         "code": "BB-R9100",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BBR60",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB6700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB5700",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS501",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "BB-RS500",
         "status": "current",
-        "note": "(Threaded type)",
+        "note": "Threaded type",
         "warning": ""
       },
       {
         "code": "SM-BB92-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB72-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "SM-BB71-41B",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       },
       {
         "code": "BB-RS500-PB",
         "status": "current",
-        "note": "(Press-fit type)",
+        "note": "Press-fit type",
         "warning": ""
       }
     ],
@@ -16398,13 +16398,13 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -16416,7 +16416,7 @@
       {
         "code": "BB-ES300",
         "status": "current",
-        "note": "(OCTALINK)",
+        "note": "OCTALINK",
         "warning": ""
       }
     ],
@@ -16476,7 +16476,7 @@
       {
         "code": "BB-UN100",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -16488,13 +16488,13 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -16596,7 +16596,7 @@
       {
         "code": "FC-A070",
         "status": "current",
-        "note": "(50-34T)",
+        "note": "50-34T",
         "warning": ""
       }
     ],
@@ -16608,13 +16608,13 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -16698,13 +16698,13 @@
       {
         "code": "BB-UN26",
         "status": "discont",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       },
       {
         "code": "BB-UN300",
         "status": "current",
-        "note": "(Square type)",
+        "note": "Square type",
         "warning": ""
       }
     ],
@@ -17178,25 +17178,25 @@
       {
         "code": "BR-R650",
         "status": "discont",
-        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 76.1 braking power is slightly less than standard combination",
         "warning": ""
       },
       {
         "code": "BR-R451",
         "status": "current",
-        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 76.1 braking power is slightly less than standard combination",
         "warning": ""
       },
       {
         "code": "BR-R450",
         "status": "discont",
-        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 76.1 braking power is slightly less than standard combination",
         "warning": ""
       },
       {
         "code": "BR-R550",
         "status": "discont",
-        "note": "(when paired with pod 76.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 76.1 braking power is slightly less than standard combination",
         "warning": ""
       }
     ],
@@ -17460,25 +17460,25 @@
       {
         "code": "BR-R650",
         "status": "discont",
-        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 77.1 braking power is slightly less than standard combination",
         "warning": ""
       },
       {
         "code": "BR-R451",
         "status": "current",
-        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 77.1 braking power is slightly less than standard combination",
         "warning": ""
       },
       {
         "code": "BR-R450",
         "status": "discont",
-        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 77.1 braking power is slightly less than standard combination",
         "warning": ""
       },
       {
         "code": "BR-R550",
         "status": "discont",
-        "note": "(when paired with pod 77.1 braking power is slightly less than standard combination)",
+        "note": "When paired with pod 77.1 braking power is slightly less than standard combination",
         "warning": ""
       }
     ],

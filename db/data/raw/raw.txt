@@ -298,7 +298,7 @@ RD-M640*
 #Compatible with ROAD cassette
 (23T≤Largest sprocket
 ≤28T
-downhill spec. / 32T≤Largest sprocket
+downhill spec., 32T≤Largest sprocket
 ≤36T
 free ride spec.)
 
@@ -2013,9 +2013,9 @@ FD-TY500-TS6*
 
 ### Block 35.7
 FD-TY300-DS6
-(475)
+(47.5mm chainline)
 FD-TY300-DS6
-(50)
+(50mm chainline)
 
 ### Block 35.8
 FD-TY710-TS3*
@@ -2039,9 +2039,9 @@ FD-TY510-TS6*
 
 ### Block 35.12
 FD-TY300-DS6
-(475)
+(47.5mm chainline)
 FD-TY300-DS6
-(50)
+(50mm chainline)
 
 ### Block 35.13
 FD-TZ500-DS6
@@ -2172,9 +2172,9 @@ FD-TY500-TS6*
 
 ### Block 37.4
 FD-TY300-DS6
-(475)
+(47.5mm chainline)
 FD-TY300-DS6
-(50)
+(50mm chainline)
 
 ### Block 37.5
 FD-TY600-L3
@@ -2190,9 +2190,9 @@ FD-TY510-TS6*
 
 ### Block 37.7
 FD-TY300-DS6
-(475)
+(47.5mm chainline)
 FD-TY300-DS6
-(50)
+(50mm chainline)
 
 ### Block 37.8
 FD-TZ500-DS6
@@ -3357,7 +3357,7 @@ chainring≤52T)
 
 ### Block 63.5
 FD-4600*
-#Recommended chainstay length: 405 mm or longer (O.L.D. 130 mm), 430 mm or longer (O.L.D. 135 mm) / chainstay angle: 63 - 66 deg.
+(Recommended chainstay length: 405 mm or longer O.L.D. 130 mm, 430 mm or longer O.L.D. 135 mm, chainstay angle: 63 - 66 deg.)
 
 ### Block 63.6
 FD-4700

@@ -8,7 +8,6 @@ function parseRelations(text) {
     .map((line) => line.trim())
     // remove empty lines
     .filter((line) => line);
-
   const output = [];
   let currentBlocks = null;
 

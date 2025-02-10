@@ -5,7 +5,10 @@ function parseRaw(text) {
   const lines = text
     // aggregate and format note lines
     .replace(/\(\s*([^)]+)\s*\)/g, (match, p1) => {
-      return `(${p1.replace(/\s*≤\s*/g, " ≤ ").replace(/\s+/g, " ")})`;
+      return `%${p1
+        .replace(/\s*≤\s*/g, " ≤ ")
+        .replace(/\s*\/\s*/g, " / ")
+        .replace(/\s+/g, " ")}`;
     })
     // split into string lines
     .split("\n")
@@ -13,11 +16,11 @@ function parseRaw(text) {
     .map((line) => line.trim())
     // remove empty lines
     .filter((line) => line);
-
   const output = [];
   let block = null;
 
   lines.forEach((line) => {
+    // Check if Block Header Line
     const blockMatch = line.match(/^### Block (\d+\.\d+)$/);
     if (blockMatch) {
       // Push Old Block
@@ -28,13 +31,13 @@ function parseRaw(text) {
       block = { name: blockMatch[1], components: [] };
       return;
     }
+    // Check if Component Code Line
     const codeMatch = line.match(/^([A-Z]{2,4})-/);
     if (codeMatch) {
       if (block.components.length === 0) {
         // Set Category
         let catCode = codeMatch[1];
         if (catCode === "SM") {
-          // Find category code if SM match
           const smMatch = line.match(/^SM-([A-Z]{2,4})/);
           catCode = smMatch[1];
         }
@@ -61,18 +64,24 @@ function parseRaw(text) {
       });
       return;
     }
+    // Check if Warning Line
     if (line.startsWith("#", 0)) {
       // Set Warning On Latest Component
-      block.components[block.components.length - 1].warning = line;
-      console.log("warning", line);
+      block.components[block.components.length - 1].warning =
+        line.charAt(1).toUpperCase() + line.slice(2);
+      console.log(
+        "Warning: " + block.components[block.components.length - 1].warning,
+      );
       return;
     }
+    // Check if Note Stop Line
     if (line.startsWith("---", 0)) {
       // Set noteStop On Latest Component
       block.components[block.components.length - 1].noteStop = true;
       return;
     }
-    if (line.startsWith("(") && line.endsWith(")")) {
+    // Check if Note Line
+    if (line.startsWith("%")) {
       // Set Notes to Above Components (until another note, or noteStop is found)
       let n = block.components.length - 1;
       while (
@@ -81,9 +90,8 @@ function parseRaw(text) {
         block.components[n].note === "" &&
         !block.components[n].noteStop
       ) {
-        block.components[n].note = line;
+        block.components[n].note = line.charAt(1).toUpperCase() + line.slice(2);
         n--;
-        console.log("note", line);
       }
       return;
     } else {

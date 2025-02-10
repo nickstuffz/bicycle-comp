@@ -26,9 +26,7 @@ API Design:
          - user info, build info, components in build
 
 Now:
-Removing () and # from data
 Block 76 category issue. Components are both brake lever and shifter coded. Maybe move category to components instead of pods.
-Route should use search params
 
 Todo:
 Check all notes, warnings for consistency
@@ -37,6 +35,9 @@ User authenticated build page
 Recheck table indexing optimization
 Add block-level notes
 How to handle 1x drivetrain parts? Not connected to an FD / shifter but would still work with shifters as brakes.
+
+Long Term:
+Unspecified note?
 
 Reminder:
 
