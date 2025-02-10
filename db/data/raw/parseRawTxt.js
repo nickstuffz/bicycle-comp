@@ -69,9 +69,6 @@ function parseRaw(text) {
       // Set Warning On Latest Component
       block.components[block.components.length - 1].warning =
         line.charAt(1).toUpperCase() + line.slice(2);
-      console.log(
-        "Warning: " + block.components[block.components.length - 1].warning,
-      );
       return;
     }
     // Check if Note Stop Line
