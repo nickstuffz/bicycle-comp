@@ -4,6 +4,6 @@ import { componentCompatList } from "../controllers/componentController.js";
 
 const componentRouter = Router();
 
-componentRouter.get("/:componentCode", asyncHandler(componentCompatList));
+componentRouter.get("/", asyncHandler(componentCompatList));
 
 export { componentRouter };

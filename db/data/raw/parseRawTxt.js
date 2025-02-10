@@ -64,6 +64,7 @@ function parseRaw(text) {
     if (line.startsWith("#", 0)) {
       // Set Warning On Latest Component
       block.components[block.components.length - 1].warning = line;
+      console.log("warning", line);
       return;
     }
     if (line.startsWith("---", 0)) {
@@ -82,6 +83,7 @@ function parseRaw(text) {
       ) {
         block.components[n].note = line;
         n--;
+        console.log("note", line);
       }
       return;
     } else {

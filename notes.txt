@@ -26,6 +26,7 @@ API Design:
          - user info, build info, components in build
 
 Now:
+Removing () and # from data
 Block 76 category issue. Components are both brake lever and shifter coded. Maybe move category to components instead of pods.
 Route should use search params
 
