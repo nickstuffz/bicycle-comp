@@ -19,6 +19,7 @@ async function main() {
   console.log("seeding...");
   const client = new Client({
     connectionString: `postgresql://${process.env.PGUSER}:${process.env.PGPASSWORD}@${process.env.PGHOST}:${process.env.PGPORT}/${process.env.PGDATABASE}`,
+    // connectionString: process.env.RAILWAY_URL,
   });
   await client.connect();
   console.log("connected");
