@@ -16,22 +16,22 @@ INSERT INTO categories (name)
 `;
 const insertComponentsSQL = `
 
-INSERT INTO components (code, status, link)
+INSERT INTO components (code, category_id, status, link)
     VALUES
     ${components
       .map((component) => {
-        return `('${component.code}', '${component.status}', '${component.link}')`;
+        return `('${component.code}', (SELECT id FROM categories WHERE name = '${component.category}'), '${component.status}', '${component.link}')`;
       })
       .join(",")};
 
 `;
 
 const insertPodsSQL = `
-INSERT INTO pods (name, category_id)
+INSERT INTO pods (name)
     VALUES 
     ${pods
       .map((pod) => {
-        return `('${pod.name}', (SELECT id FROM categories WHERE name = '${pod.category}'))`;
+        return `('${pod.name}')`;
       })
       .join(",")};
 

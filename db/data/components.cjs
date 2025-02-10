@@ -16,6 +16,7 @@ raw.forEach((pod) => {
 
     components.push({
       code: component.code,
+      category: component.category,
       status: component.status,
       link: link,
     });

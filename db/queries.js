@@ -36,8 +36,8 @@ SELECT
 	cp.pod_id,
 	sp.name AS source_pod_name,
     p.name AS pod_name, 
-    cat.name AS category,
     c.code, 
+    cat.name AS category,
     c.status, 
     c.link, 
     pcs.note,
@@ -47,7 +47,7 @@ JOIN pods sp ON cp.source_pod_id = sp.id
 JOIN pod_components pcs ON cp.pod_id = pcs.pod_id
 JOIN components c ON pcs.component_id = c.id
 JOIN pods p ON pcs.pod_id = p.id
-JOIN categories cat ON p.category_id = cat.id
+JOIN categories cat ON c.category_id = cat.id
 ORDER BY cp.source_pod_id, cp.pod_id;
 
 `;

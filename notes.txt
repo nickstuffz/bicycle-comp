@@ -12,9 +12,16 @@ API Design:
         response: [
             {part1},{part2}, ...
         ]
-        each part has code, category, pod, status, link, note
+        each part has source pod id / name,
+            pod id / name,
+            code,
+            category,
+            status,
+            link,
+            note,
+            warning
             
-            - get list of all compatible parts, sort and display on front end
+        sort and display on front end
         
 
     Future Endpoints:
@@ -26,19 +33,17 @@ API Design:
          - user info, build info, components in build
 
 Now:
-Block 76 category issue. Components are both brake lever and shifter coded. Maybe move category to components instead of pods.
 
 Todo:
-Check all notes, warnings for consistency
-How to add type checking and schema? Ensure data is in right format.
+How to add type checking and schema? Ensure data is in right format, Zod or TS
 User authenticated build page
 Recheck table indexing optimization
-Add block-level notes
+Add block-level notes?
 How to handle 1x drivetrain parts? Not connected to an FD / shifter but would still work with shifters as brakes.
 
 Long Term:
-Unspecified note?
+Unspecified note resolve?
 
-Reminder:
+Reminders:
 
 https://sqlformat.darold.net/

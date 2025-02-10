@@ -4,7 +4,6 @@ const pods = [];
 raw.forEach((pod) => {
   pods.push({
     name: pod.name,
-    category: pod.category,
   });
 });
 

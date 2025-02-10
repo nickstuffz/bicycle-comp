@@ -34,19 +34,18 @@ function parseRaw(text) {
     // Check if Component Code Line
     const codeMatch = line.match(/^([A-Z]{2,4})-/);
     if (codeMatch) {
-      if (block.components.length === 0) {
-        // Set Category
-        let catCode = codeMatch[1];
-        if (catCode === "SM") {
-          const smMatch = line.match(/^SM-([A-Z]{2,4})/);
-          catCode = smMatch[1];
-        }
-        block.category = catMap[catCode];
-        if (!block.category) {
-          console.error("Error: Unhandled Category: " + catCode);
-        }
+      // Determine Category
+      let catCode = codeMatch[1];
+      if (catCode === "SM") {
+        const smMatch = line.match(/^SM-([A-Z]{2})/);
+        catCode = smMatch[1];
       }
-      // Set Status
+      const compCat = catMap[catCode];
+      // Unhandled Category Error Check
+      if (!compCat) {
+        console.error("Error: Unhandled Category: " + catCode);
+      }
+      // Determine Status
       let status = "";
       if (line.endsWith("**")) {
         status = "new";
@@ -55,9 +54,10 @@ function parseRaw(text) {
       } else {
         status = "current";
       }
-      // Add Component to Block / Set Code
+      // Add Component to Block / Set Code, Category, Status
       block.components.push({
         code: line.replace(/\*+$/, ""),
+        category: compCat,
         status: status,
         note: "",
         warning: "",
