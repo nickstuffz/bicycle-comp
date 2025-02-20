@@ -1,8 +1,15 @@
 import { catMap } from "./parsing/catMap.js";
 
-const seenCats = new Set();
-const categories = [];
+type CatMap = typeof catMap;
 
+type CategoryName = CatMap[keyof CatMap];
+
+interface Category {
+  name: CategoryName;
+}
+
+const seenCats = new Set();
+const categories: Category[] = [];
 Object.entries(catMap).forEach(([key, value]) => {
   if (seenCats.has(value)) {
     return;

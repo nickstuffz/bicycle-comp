@@ -1,6 +1,13 @@
-const raw = require("./json/parsedRaw.json");
+import raw from "./json/parsedRaw.json";
 
-const pod_components = [];
+interface PodComponent {
+  podName: string;
+  componentCode: string;
+  note: string;
+  warning: string;
+}
+
+const pod_components: PodComponent[] = [];
 raw.forEach((pod) => {
   pod.components.forEach((component) => {
     pod_components.push({
@@ -12,4 +19,4 @@ raw.forEach((pod) => {
   });
 });
 
-module.exports = { pod_components };
+export { pod_components };

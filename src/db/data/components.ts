@@ -1,7 +1,16 @@
-const raw = require("./json/parsedRaw.json");
+import raw from "./json/parsedRaw.json";
+
+type Status = "new" | "discont" | "current";
+
+interface Component {
+  code: string;
+  category: string;
+  status: Status;
+  link: string;
+}
 
 const seenCodes = new Set();
-const components = [];
+const components: Component[] = [];
 raw.forEach((pod) => {
   pod.components.forEach((component) => {
     if (seenCodes.has(component.code)) {
@@ -17,10 +26,10 @@ raw.forEach((pod) => {
     components.push({
       code: component.code,
       category: component.category,
-      status: component.status,
+      status: component.status as Status,
       link: link,
     });
   });
 });
 
-module.exports = { components };
+export { components };
