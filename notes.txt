@@ -33,6 +33,7 @@ API Design:
          - user info, build info, components in build
 
 Now:
+Rerun TS compiled files. Check if any differences between the Parsed data.
 
 Todo:
 How to remove db folder on deploy? using .dockerignore

@@ -1,7 +1,25 @@
 import fs from "fs";
 import { catMap } from "./catMap.js";
 
-function parseRaw(text) {
+type Status = "new" | "discont" | "current";
+
+type CatCode = keyof typeof catMap;
+
+interface Block {
+  name: string;
+  components: Component[];
+}
+
+interface Component {
+  code: string;
+  category: string;
+  status: Status;
+  note: string;
+  warning: string;
+  noteStop?: boolean;
+}
+
+function parseRaw(text: string) {
   const lines = text
     // aggregate and format note lines
     .replace(/\(\s*([^)]+)\s*\)/g, (match, p1) => {
@@ -16,15 +34,15 @@ function parseRaw(text) {
     .map((line) => line.trim())
     // remove empty lines
     .filter((line) => line);
-  const output = [];
-  let block = null;
+  const output: Block[] = [];
+  let block: Block = { name: "", components: [] };
 
   lines.forEach((line) => {
     // Check if Block Header Line
     const blockMatch = line.match(/^### Block (\d+\.\d+)$/);
     if (blockMatch) {
       // Push Old Block
-      if (block) {
+      if (block.name !== "") {
         output.push(block);
       }
       // New Block / Set Name
@@ -35,18 +53,27 @@ function parseRaw(text) {
     const codeMatch = line.match(/^([A-Z]{2,4})-/);
     if (codeMatch) {
       // Determine Category
-      let catCode = codeMatch[1];
-      if (catCode === "SM") {
+      let catCode: CatCode | undefined;
+      const rawCode: string = codeMatch[1];
+      if (rawCode === "SM") {
         const smMatch = line.match(/^SM-([A-Z]{2})/);
-        catCode = smMatch[1];
+        if (smMatch && smMatch[1] in catMap) {
+          catCode = smMatch[1] as CatCode;
+        } else {
+          console.error("Error: SM category match failed");
+        }
+      }
+      if (rawCode in catMap) {
+        catCode = rawCode as CatCode;
+      }
+      // Unhandled Category Error Check
+      if (catCode === undefined) {
+        console.error("Error: Unhandled Category: " + catCode);
+        return;
       }
       const compCat = catMap[catCode];
-      // Unhandled Category Error Check
-      if (!compCat) {
-        console.error("Error: Unhandled Category: " + catCode);
-      }
       // Determine Status
-      let status = "";
+      let status: Status;
       if (line.endsWith("**")) {
         status = "new";
       } else if (line.endsWith("*")) {
@@ -96,19 +123,18 @@ function parseRaw(text) {
     }
   });
   // Push Last Block
-  if (block) {
+  if (block.name !== "") {
     output.push(block);
   }
-
   return output;
 }
 
-const inputText = fs.readFileSync("db/data/raw/raw.txt", "utf8");
+const inputText = fs.readFileSync("raw/raw.txt", "utf8");
 console.log("parsing raw...");
 const jsonOutput = parseRaw(inputText);
 console.log("writing raw...");
 fs.writeFileSync(
-  "db/data/json/parsedRaw.json",
+  "src/db/data/json/parsedRaw.json",
   JSON.stringify(jsonOutput, null, 2),
 );
 console.log("done");

@@ -1,6 +1,6 @@
 import { categories } from "../data/categories.js";
 import { components } from "../data/components.cjs";
-import { pods } from "../data/pods.cjs";
+import { pods } from "../data/pods.js";
 import { pod_components } from "../data/pod_components.cjs";
 import { pod_compatibility } from "../data/pod_compatibility.cjs";
 

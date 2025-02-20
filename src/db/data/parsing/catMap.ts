@@ -13,4 +13,4 @@ export const catMap = {
   SL: "shifter",
   ST: "shifter",
   SW: "shifter",
-};
+} as const;
