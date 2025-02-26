@@ -1,4 +1,4 @@
-import podRelations from "./json/parsedRelations.json";
+import podRelations from "./json/parsedRelations.json" assert { type: "json" };
 
 interface PodCompPair {
   podNameA: string;

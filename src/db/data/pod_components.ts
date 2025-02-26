@@ -1,4 +1,4 @@
-import raw from "./json/parsedRaw.json";
+import raw from "./json/parsedRaw.json" assert { type: "json" };
 
 interface PodComponent {
   podName: string;

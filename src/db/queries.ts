@@ -52,7 +52,7 @@ ORDER BY cp.source_pod_id, cp.pod_id;
 
 `;
 
-async function componentCode_compatList(componentCode) {
+async function componentCode_compatList(componentCode: string) {
   try {
     const { rows } = await pool.query(testSQL, [componentCode]);
     return rows;
