@@ -1,8 +1,8 @@
-import { componentCode_compatList } from "../db/queries.js";
+import { queryCompatibilityList } from "../db/queries.js";
 import { Request, Response } from "express";
 import { HttpError } from "../errors/CustomErrors.js";
 
-async function componentCompatList(req: Request, res: Response) {
+async function compatibilityList(req: Request, res: Response) {
   const { code } = req.query;
 
   if (!code || typeof code !== "string") {
@@ -11,15 +11,15 @@ async function componentCompatList(req: Request, res: Response) {
   }
 
   // call database query
-  const list = await componentCode_compatList(code.trim().toUpperCase());
+  const rows = await queryCompatibilityList(code.trim().toUpperCase());
 
-  if (list.length === 0) {
+  if (rows.length === 0) {
     const error = new HttpError("Component Not Found", 404);
     throw error;
   }
 
   // send response
-  res.json(list);
+  res.json(rows);
 }
 
-export { componentCompatList };
+export { compatibilityList };

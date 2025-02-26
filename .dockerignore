@@ -1,6 +1,7 @@
 dist/db/data
 dist/db/initialize
 src
+raw
 notes.txt
 README.md
 node_modules

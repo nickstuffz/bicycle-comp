@@ -11,9 +11,14 @@
     <h3>Use:</h3>
 
     <p>Query by Shimano component code to find compatible components.</p>
-    <form action="/api/component" method="GET">
+    <form action="/api/compatibility" method="GET">
       <input id="code" name="code" type="text" placeholder="SL-M9100-R" />
       <button type="submit">Submit</button>
+    </form>
+
+    <p>Get all component codes.</p>
+    <form action="/api/components/codes" method="GET">
+      <button type="submit">Get Codes</button>
     </form>
 
     <h3>About:</h3>

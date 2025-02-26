@@ -1,6 +1,23 @@
 import { pool } from "./pool.js";
+import { HttpError } from "../errors/CustomErrors.js";
 
-const testSQL = `
+const qCACL_SQL = `
+
+SELECT code FROM components
+
+`;
+
+async function queryComponentsAllCodesList() {
+  try {
+    const { rows } = await pool.query(qCACL_SQL);
+    return rows;
+  } catch (error) {
+    console.error("Database Error: ", error);
+    throw new HttpError("Database Query Failed", 500);
+  }
+}
+
+const qCL_SQL = `
 
 WITH RECURSIVE compatiblePodsLeft AS (
     SELECT pcs.pod_id AS pod_id, pcs.pod_id AS source_pod_id
@@ -52,14 +69,14 @@ ORDER BY cp.source_pod_id, cp.pod_id;
 
 `;
 
-async function componentCode_compatList(componentCode: string) {
+async function queryCompatibilityList(componentCode: string) {
   try {
-    const { rows } = await pool.query(testSQL, [componentCode]);
+    const { rows } = await pool.query(qCL_SQL, [componentCode]);
     return rows;
   } catch (error) {
-    console.error(error);
-    throw new Error("Database Query Failed");
+    console.error("Database Error: ", error);
+    throw new HttpError("Database Query Failed", 500);
   }
 }
 
-export { componentCode_compatList };
+export { queryComponentsAllCodesList, queryCompatibilityList };

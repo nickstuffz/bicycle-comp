@@ -33,7 +33,10 @@ API Design:
          - user info, build info, components in build
 
 Now:
-Rerun TS compiled files. Check if any differences between the Parsed data.
+Change queries.ts to directly throw errors in if block just like in controllers (instead of try/catch)
+Create GET all component codes for filtering query.
+Check if differences between local and production DB.
+
 
 Todo:
 How to remove db folder on deploy? using .dockerignore
@@ -42,6 +45,7 @@ User authenticated build page
 Recheck table indexing optimization
 Add block-level notes?
 How to handle 1x drivetrain parts? Not connected to an FD / shifter but would still work with shifters as brakes.
+Server side error logging?
 
 Long Term:
 Unspecified note resolve?

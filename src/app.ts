@@ -1,6 +1,7 @@
 import express from "express";
 import { Request, Response, NextFunction } from "express";
-import { componentRouter } from "./routes/componentRouter.js";
+import { componentsRouter } from "./routes/componentsRouter.js";
+import { compatibilityRouter } from "./routes/compatibilityRouter.js";
 import path from "path";
 import { fileURLToPath } from "url";
 import { HttpError } from "./errors/CustomErrors.js";
@@ -15,7 +16,10 @@ const app = express();
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "..", "public", "index.html"));
 });
-app.use("/api/component", componentRouter);
+
+app.use("/api/components", componentsRouter);
+
+app.use("/api/compatibility", compatibilityRouter);
 
 // error handling
 app.use((err: HttpError, req: Request, res: Response, next: NextFunction) => {
