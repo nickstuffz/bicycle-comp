@@ -6,6 +6,10 @@ async function componentsAllCodesList(req: Request, res: Response) {
   //call database query
   const rows = await queryComponentsAllCodesList();
 
+  if (rows.length === 0) {
+    throw new HttpError("No Data Found", 404);
+  }
+
   res.json(rows);
 }
 
