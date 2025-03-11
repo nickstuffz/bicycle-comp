@@ -33,8 +33,6 @@ API Design:
          - user info, build info, components in build
 
 Now:
-Change queries.ts to directly throw errors in if block just like in controllers (instead of try/catch)
-Create GET all component codes for filtering query.
 Check if differences between local and production DB.
 
 

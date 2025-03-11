@@ -3,7 +3,9 @@ import { HttpError } from "../errors/CustomErrors.js";
 
 const qCACL_SQL = `
 
-SELECT code FROM components
+SELECT code
+FROM components
+ORDER BY code ASC;
 
 `;
 
