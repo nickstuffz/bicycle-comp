@@ -10,7 +10,7 @@ async function compatibilityList(req: Request, res: Response) {
   }
 
   // call database query
-  const rows = await queryCompatibilityList(code.trim().toUpperCase());
+  const rows = await queryCompatibilityList(code);
 
   if (rows.length === 0) {
     throw new HttpError("Component Not Found", 404);
