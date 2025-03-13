@@ -5,12 +5,22 @@ import { compatibilityRouter } from "./routes/compatibilityRouter.js";
 import path from "path";
 import { fileURLToPath } from "url";
 import { HttpError } from "./errors/CustomErrors.js";
+import cors from "cors";
 
-// initialization
+// TODO: change to actual frontend URL, setup HTTPS
+const frontendUrl = "http://localhost:5173";
+
+const corsOptions = {
+  origin: frontendUrl,
+  methods: ["GET"],
+};
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// initialization
 const app = express();
+app.use(cors(corsOptions));
 
 // routes
 app.get("/", (req, res) => {

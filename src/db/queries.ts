@@ -51,9 +51,10 @@ compatiblePods AS (
     SELECT * FROM compatiblePodsRight
 )
 SELECT 
+    pcs.id,
     cp.source_pod_id,
-	cp.pod_id,
-	sp.name AS source_pod_name,
+  	cp.pod_id,
+	  sp.name AS source_pod_name,
     p.name AS pod_name, 
     c.code, 
     cat.name AS category,
