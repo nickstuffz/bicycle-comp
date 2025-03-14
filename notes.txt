@@ -33,11 +33,9 @@ API Design:
          - user info, build info, components in build
 
 Now:
-Check if differences between local and production DB.
 
 
 Todo:
-How to remove db folder on deploy? using .dockerignore
 How to add type checking and schema? Ensure data is in right format, Zod or TS
 User authenticated build page
 Recheck table indexing optimization
