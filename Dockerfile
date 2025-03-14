@@ -6,13 +6,13 @@ WORKDIR /app
 
 # Copy package files and install dependencies
 COPY package.json package-lock.json ./
-RUN npm install
+RUN npm install --include=dev
 
 # Copy the rest of your application code
 COPY . .
 
 # Build the TypeScript project
-RUN tsc --noEmitOnError
+RUN npx tsc --noEmitOnError
 
 # Expose the port your app runs on
 EXPOSE 8080
