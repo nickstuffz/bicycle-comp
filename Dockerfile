@@ -11,6 +11,9 @@ RUN npm install
 # Copy the rest of your application code
 COPY . .
 
+# Build the TypeScript project
+RUN npm run build
+
 # Expose the port your app runs on
 EXPOSE 8080
 
