@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf dist && tsc --pretty",
+    "build": "rm -rf dist && tsc --pretty --noEmitOnError",
     "parse": "node dist/db/data/parsing/parseRawTxt.js && node dist/db/data/parsing/parseRelationsTxt.js",
     "seed": "node dist/db/populatedb.js",
     "dev": "node --watch dist/app.js",

@@ -12,7 +12,7 @@ RUN npm install
 COPY . .
 
 # Build the TypeScript project
-RUN npm run build
+RUN tsc --noEmitOnError
 
 # Expose the port your app runs on
 EXPOSE 8080
